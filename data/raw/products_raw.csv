@@ -1,0 +1,22 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,Supplier
+PROD-0001,OmniBook Pro 15,Technology,Laptops & Desktops,750.00,1199.99,Global Vendor A
+PROD-0002,OmniBook Air 13,Technology,Laptops & Desktops,520.00,899.99,Global Vendor B
+PROD-0003,OmniStation Workstation,Technology,Laptops & Desktops,1100.00,1799.00,Global Vendor C
+PROD-0004,OmniPhone Ultra 5G,Technology,Smartphones & Tablets,480.00,949.99,Global Vendor D
+PROD-0005,OmniPhone Standard,Technology,Smartphones & Tablets,310.00,599.99,Global Vendor E
+PROD-0006,OmniTab 10-inch HD,Technology,Smartphones & Tablets,190.00,349.99,Global Vendor F
+PROD-0007,Noise-Canceling Headphones,Technology,Audio & Accessories,85.00,199.99,Global Vendor G
+PROD-0008,Wireless Earbuds Pro,Technology,Audio & Accessories,45.00,129.99,Global Vendor H
+PROD-0009,Bluetooth Soundbar 120W,Technology,Audio & Accessories,70.00,159.00,Global Vendor I
+PROD-0010,Ergonomic Mesh Chair,Office Supplies,Office Furniture,110.00,249.99,Global Vendor J
+PROD-0011,Motorized Standing Desk,Office Supplies,Office Furniture,180.00,399.99,Global Vendor K
+PROD-0012,Mobile Filing Cabinet,Office Supplies,Office Furniture,45.00,99.99,Global Vendor L
+PROD-0013,Heavy Duty Steel Shelving,Office Supplies,Storage & Organization,55.00,119.50,Global Vendor M
+PROD-0014,Desktop Organizer Set,Office Supplies,Storage & Organization,12.00,29.99,Global Vendor N
+PROD-0015,Multipurpose Copy Paper 5-Ream,Office Supplies,Paper & Printing,18.00,36.99,Global Vendor O
+PROD-0016,Laser Color Toner Pack,Office Supplies,Paper & Printing,42.00,89.99,Global Vendor P
+PROD-0017,Premium Cotton Polo,Consumer Goods,Apparel & Uniforms,11.00,29.99,Global Vendor Q
+PROD-0018,All-Weather Corporate Jacket,Consumer Goods,Apparel & Uniforms,32.00,79.99,Global Vendor R
+PROD-0019,Commercial Coffee Brewer,Consumer Goods,Kitchen & Breakroom,95.00,199.99,Global Vendor S
+PROD-0020,Smart Water Cooler Dispenser,Consumer Goods,Kitchen & Breakroom,120.00,249.00,Global Vendor T
+PROD-0021,Artisan Coffee Beans 5lb,Consumer Goods,Kitchen & Breakroom,22.00,48.00,Global Vendor U

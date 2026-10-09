@@ -1,0 +1,13 @@
+StoreID,StoreName,City,State,Region,StoreType,SquareFootage
+STR-001,Manhattan Flagship,New York,NY,East,Flagship Store,12000
+STR-002,Boston Prudential,Boston,MA,East,Mall Location,7500
+STR-003,Atlanta Lenox Square,Atlanta,GA,South,Mall Location,8200
+STR-004,Miami Brickell Avenue,Miami,FL,South,Urban Outlet,5400
+STR-005,Dallas Galleria,Dallas,TX,South,Mall Location,9100
+STR-006,Chicago Michigan Ave,Chicago,IL,North,Flagship Store,11500
+STR-007,Detroit Metro Hub,Detroit,MI,North,Urban Outlet,6200
+STR-008,Los Angeles Century City,Los Angeles,CA,West,Flagship Store,10800
+STR-009,San Francisco Union Sq,San Francisco,CA,West,Flagship Store,9900
+STR-010,Seattle Pine Street,Seattle,WA,West,Mall Location,7800
+STR-011,Denver Cherry Creek,Denver,CO,West,Mall Location,6900
+STR-099,OmniRetail Digital Webstore,National,US,Omnichannel,E-Commerce,0

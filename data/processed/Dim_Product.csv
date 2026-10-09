@@ -1,0 +1,23 @@
+ProductSK,ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,TargetMarginPct,Supplier
+0,PROD-UNKNOWN,Unknown Product,Unassigned,Unassigned,0.0,0.0,0.0,Unassigned
+1,PROD-0001,OmniBook Pro 15,Technology,Laptops & Desktops,750.0,1199.99,37.5,Global Vendor A
+2,PROD-0002,OmniBook Air 13,Technology,Laptops & Desktops,520.0,899.99,42.22,Global Vendor B
+3,PROD-0003,OmniStation Workstation,Technology,Laptops & Desktops,1100.0,1799.0,38.85,Global Vendor C
+4,PROD-0004,OmniPhone Ultra 5G,Technology,Smartphones & Tablets,480.0,949.99,49.47,Global Vendor D
+5,PROD-0005,OmniPhone Standard,Technology,Smartphones & Tablets,310.0,599.99,48.33,Global Vendor E
+6,PROD-0006,OmniTab 10-inch HD,Technology,Smartphones & Tablets,190.0,349.99,45.71,Global Vendor F
+7,PROD-0007,Noise-Canceling Headphones,Technology,Audio & Accessories,85.0,199.99,57.5,Global Vendor G
+8,PROD-0008,Wireless Earbuds Pro,Technology,Audio & Accessories,45.0,129.99,65.38,Global Vendor H
+9,PROD-0009,Bluetooth Soundbar 120W,Technology,Audio & Accessories,70.0,159.0,55.97,Global Vendor I
+10,PROD-0010,Ergonomic Mesh Chair,Office Supplies,Office Furniture,110.0,249.99,56.0,Global Vendor J
+11,PROD-0011,Motorized Standing Desk,Office Supplies,Office Furniture,180.0,399.99,55.0,Global Vendor K
+12,PROD-0012,Mobile Filing Cabinet,Office Supplies,Office Furniture,45.0,99.99,55.0,Global Vendor L
+13,PROD-0013,Heavy Duty Steel Shelving,Office Supplies,Storage & Organization,55.0,119.5,53.97,Global Vendor M
+14,PROD-0014,Desktop Organizer Set,Office Supplies,Storage & Organization,12.0,29.99,59.99,Global Vendor N
+15,PROD-0015,Multipurpose Copy Paper 5-Ream,Office Supplies,Paper & Printing,18.0,36.99,51.34,Global Vendor O
+16,PROD-0016,Laser Color Toner Pack,Office Supplies,Paper & Printing,42.0,89.99,53.33,Global Vendor P
+17,PROD-0017,Premium Cotton Polo,Consumer Goods,Apparel & Uniforms,11.0,29.99,63.32,Global Vendor Q
+18,PROD-0018,All-Weather Corporate Jacket,Consumer Goods,Apparel & Uniforms,32.0,79.99,59.99,Global Vendor R
+19,PROD-0019,Commercial Coffee Brewer,Consumer Goods,Kitchen & Breakroom,95.0,199.99,52.5,Global Vendor S
+20,PROD-0020,Smart Water Cooler Dispenser,Consumer Goods,Kitchen & Breakroom,120.0,249.0,51.81,Global Vendor T
+21,PROD-0021,Artisan Coffee Beans 5lb,Consumer Goods,Kitchen & Breakroom,22.0,48.0,54.17,Global Vendor U

@@ -1,0 +1,14 @@
+StoreSK,StoreID,StoreName,City,State,Region,StoreType,SquareFootage,ChannelType
+0,STR-UNKNOWN,Unknown Store,Unknown,UN,Unassigned,Unknown,0,Unassigned
+1,STR-001,Manhattan Flagship,New York,NY,East,Flagship Store,12000,Physical Retail
+2,STR-002,Boston Prudential,Boston,MA,East,Mall Location,7500,Physical Retail
+3,STR-003,Atlanta Lenox Square,Atlanta,GA,South,Mall Location,8200,Physical Retail
+4,STR-004,Miami Brickell Avenue,Miami,FL,South,Urban Outlet,5400,Physical Retail
+5,STR-005,Dallas Galleria,Dallas,TX,South,Mall Location,9100,Physical Retail
+6,STR-006,Chicago Michigan Ave,Chicago,IL,North,Flagship Store,11500,Physical Retail
+7,STR-007,Detroit Metro Hub,Detroit,MI,North,Urban Outlet,6200,Physical Retail
+8,STR-008,Los Angeles Century City,Los Angeles,CA,West,Flagship Store,10800,Physical Retail
+9,STR-009,San Francisco Union Sq,San Francisco,CA,West,Flagship Store,9900,Physical Retail
+10,STR-010,Seattle Pine Street,Seattle,WA,West,Mall Location,7800,Physical Retail
+11,STR-011,Denver Cherry Creek,Denver,CO,West,Mall Location,6900,Physical Retail
+12,STR-099,OmniRetail Digital Webstore,National,US,Omnichannel,E-Commerce,0,Digital Online

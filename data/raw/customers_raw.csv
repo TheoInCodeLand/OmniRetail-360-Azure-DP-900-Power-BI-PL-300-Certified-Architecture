@@ -1,0 +1,2001 @@
+CustomerID,FirstName,LastName,Email,City,State,Region,CustomerSegment,LoyaltyTier,SignupDate
+CUST-00001,Linda,Smith,linda.smith95@example.com,Washington,DC,East,Consumer,Silver,2024-07-12
+CUST-00002,Jennifer,Jackson,,Los Angeles,CA,West,Consumer,Silver,2023-01-28
+CUST-00003,Emily,Miller,emily.miller36@example.com,San Francisco,CA,West,Corporate,Bronze,2023-06-13
+CUST-00004,Margaret,Hernandez,margaret.hernandez98@example.com,Washington,DC,East,Consumer,Bronze,2023-04-10
+CUST-00005,Daniel,Ramirez,daniel.ramirez94@example.com,Baltimore,MD,East,Consumer,Bronze,2024-01-23
+CUST-00006,Jennifer,Moore,jennifer.moore91@example.com,Baltimore,MD,East,Consumer,Silver,2023-10-24
+CUST-00007,Jennifer,Ramirez,jennifer.ramirez59@example.com,Atlanta,GA,South,Consumer,Bronze,2024-01-15
+CUST-00008,Daniel,Miller,daniel.miller22@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-04-18
+CUST-00009,Matthew,Rodriguez,matthew.rodriguez8@example.com,Dallas,TX,South,Consumer,Bronze,2023-11-20
+CUST-00010,Betty,Rodriguez,betty.rodriguez73@example.com,Boston,MA,North,Corporate,Bronze,2024-11-02
+CUST-00011,Ashley,Gonzalez,ashley.gonzalez32@example.com,San Francisco,CA,West,Corporate,Silver,2024-08-21
+CUST-00012,Margaret,Lewis,margaret.lewis18@example.com,Seattle,WA,West,Consumer,Bronze,2023-02-18
+CUST-00013,Linda,Jones,linda.jones50@example.com,Houston,TX,South,Consumer,Platinum,2024-06-25
+CUST-00014,Thomas,Moore,thomas.moore69@example.com,New York,NY,North,Corporate,Gold,2023-12-15
+CUST-00015,Linda,Martinez,linda.martinez93@example.com,San Francisco,CA,West,Corporate,Bronze,2024-05-27
+CUST-00016,Barbara,Taylor,barbara.taylor65@example.com,Chicago,IL,North,Consumer,Bronze,2023-06-15
+CUST-00017,Paul,Walker,paul.walker15@example.com,Chicago,IL,North,Small Business,Gold,2023-11-11
+CUST-00018,Jessica,Johnson,jessica.johnson11@example.com,Charlotte,NC,South,Corporate,Gold,2024-06-29
+CUST-00019,David,Jones,david.jones68@example.com,Phoenix,AZ,West,Corporate,Bronze,2023-08-05
+CUST-00020,Paul,Harris,paul.harris86@example.com,Dallas,TX,South,Consumer,Bronze,2024-06-13
+CUST-00021,Mark,Brown,mark.brown3@example.com,Miami,FL,South,Consumer,Bronze,2023-08-14
+CUST-00022,James,Williams,james.williams5@example.com,Boston,MA,North,Corporate,Bronze,2023-09-01
+CUST-00023,Sarah,Perez,sarah.perez93@example.com,San Francisco,CA,West,Small Business,Silver,2024-04-29
+CUST-00024,Jessica,Sanchez,jessica.sanchez13@example.com,Denver,CO,West,Corporate,Bronze,2024-02-25
+CUST-00025,Sandra,Ramirez,sandra.ramirez94@example.com,New York,NY,North,Consumer,Gold,2023-09-12
+CUST-00026,Richard,Miller,richard.miller36@example.com,San Francisco,CA,West,Consumer,Gold,2023-03-19
+CUST-00027,Mark,Sanchez,mark.sanchez70@example.com,New York,NY,North,Corporate,Platinum,2023-08-31
+CUST-00028,William,Wilson,william.wilson52@example.com,Denver,CO,West,Small Business,Bronze,2023-01-03
+CUST-00029,Matthew,Rodriguez,matthew.rodriguez94@example.com,Seattle,WA,West,Small Business,Silver,2024-05-13
+CUST-00030,Elizabeth,Miller,elizabeth.miller75@example.com,Washington,DC,East,Corporate,Bronze,2023-11-18
+CUST-00031,Patricia,Johnson,patricia.johnson68@example.com,Phoenix,AZ,West,Consumer,Platinum,2023-03-24
+CUST-00032,Barbara,Williams,barbara.williams73@example.com,Boston,MA,North,Consumer,Silver,2024-09-26
+CUST-00033,Jennifer,Wilson,jennifer.wilson92@example.com,Baltimore,MD,East,Consumer,Bronze,2023-05-15
+CUST-00034,Karen,Anderson,,Philadelphia,PA,East,Consumer,Silver,2023-04-13
+CUST-00035,John,Moore,john.moore45@example.com,Charlotte,NC,South,Corporate,Gold,2024-01-14
+CUST-00036,Charles,Garcia,charles.garcia79@example.com,Phoenix,AZ,West,Small Business,Gold,2024-06-25
+CUST-00037,James,Perez,james.perez18@example.com,Philadelphia,PA,East,Consumer,Gold,2024-07-20
+CUST-00038,Elizabeth,Rodriguez,elizabeth.rodriguez27@example.com,Washington,DC,East,Corporate,Gold,2024-06-01
+CUST-00039,Ashley,Rodriguez,ashley.rodriguez36@example.com,New York,NY,North,Consumer,Bronze,2023-05-14
+CUST-00040,Thomas,Garcia,thomas.garcia72@example.com,Phoenix,AZ,West,Consumer,Bronze,2023-06-02
+CUST-00041,Paul,Johnson,paul.johnson6@example.com,Washington,DC,East,Consumer,Gold,2023-02-10
+CUST-00042,Daniel,Miller,daniel.miller72@example.com,Atlanta,GA,South,Corporate,Bronze,2024-09-27
+CUST-00043,Elizabeth,Robinson,elizabeth.robinson23@example.com,Miami,FL,South,Corporate,Bronze,2023-12-07
+CUST-00044,Anthony,Sanchez,anthony.sanchez90@example.com,Dallas,TX,South,Consumer,Gold,2024-04-26
+CUST-00045,Joseph,Miller,joseph.miller30@example.com,Seattle,WA,West,Consumer,Silver,2024-02-13
+CUST-00046,Nancy,Rodriguez,nancy.rodriguez66@example.com,Chicago,IL,North,Consumer,Platinum,2024-07-03
+CUST-00047,Nancy,Walker,nancy.walker34@example.com,New York,NY,North,Consumer,Platinum,2023-09-29
+CUST-00048,Robert,Brown,robert.brown41@example.com,Seattle,WA,West,Consumer,Platinum,2023-04-29
+CUST-00049,Matthew,Lewis,matthew.lewis56@example.com,Dallas,TX,South,Consumer,Gold,2024-07-05
+CUST-00050,Richard,Lopez,richard.lopez43@example.com,Los Angeles,CA,West,Consumer,Silver,2023-05-08
+CUST-00051,Karen,Taylor,karen.taylor90@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-03-06
+CUST-00052,Matthew,Perez,matthew.perez52@example.com,Charlotte,NC,South,Consumer,Bronze,2023-10-21
+CUST-00053,Susan,Wilson,susan.wilson87@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-06-23
+CUST-00054,Jennifer,Martinez,jennifer.martinez97@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-07-23
+CUST-00055,Elizabeth,Smith,elizabeth.smith79@example.com,Boston,MA,North,Corporate,Bronze,2024-02-29
+CUST-00056,Andrew,Miller,andrew.miller19@example.com,Denver,CO,West,Corporate,Bronze,2023-04-20
+CUST-00057,Margaret,Davis,margaret.davis72@example.com,Charlotte,NC,South,Consumer,Gold,2024-04-12
+CUST-00058,David,Sanchez,david.sanchez77@example.com,Phoenix,AZ,West,Consumer,Gold,2024-03-29
+CUST-00059,Michelle,Clark,michelle.clark21@example.com,Phoenix,AZ,West,Corporate,Silver,2023-09-23
+CUST-00060,Jessica,Clark,jessica.clark36@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-08-29
+CUST-00061,Sarah,Hernandez,sarah.hernandez30@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-08-08
+CUST-00062,John,Wilson,john.wilson54@example.com,Seattle,WA,West,Consumer,Gold,2024-02-03
+CUST-00063,Donna,Walker,donna.walker46@example.com,Detroit,MI,North,Consumer,Bronze,2024-03-05
+CUST-00064,Paul,White,paul.white56@example.com,Houston,TX,South,Consumer,Bronze,2024-11-15
+CUST-00065,Betty,White,betty.white80@example.com,Houston,TX,South,Consumer,Gold,2024-08-29
+CUST-00066,Andrew,Perez,andrew.perez18@example.com,New York,NY,North,Corporate,Bronze,2023-09-24
+CUST-00067,Matthew,Hernandez,matthew.hernandez98@example.com,Houston,TX,South,Corporate,Bronze,2024-03-07
+CUST-00068,Thomas,Clark,,Detroit,MI,North,Consumer,Platinum,2023-12-25
+CUST-00069,Joseph,Lee,joseph.lee32@example.com,New York,NY,North,Consumer,Bronze,2023-06-06
+CUST-00070,Jessica,Jones,jessica.jones28@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-01-13
+CUST-00071,William,Martin,william.martin14@example.com,Boston,MA,North,Consumer,Gold,2024-08-12
+CUST-00072,Matthew,Gonzalez,matthew.gonzalez81@example.com,Atlanta,GA,South,Consumer,Silver,2023-11-05
+CUST-00073,Joshua,Sanchez,joshua.sanchez55@example.com,New York,NY,North,Corporate,Bronze,2024-10-25
+CUST-00074,Nancy,Smith,nancy.smith47@example.com,Denver,CO,West,Consumer,Gold,2023-06-06
+CUST-00075,Margaret,Garcia,margaret.garcia94@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-09-09
+CUST-00076,Jennifer,Rodriguez,jennifer.rodriguez73@example.com,San Francisco,CA,West,Consumer,Bronze,2023-01-30
+CUST-00077,Ashley,Ramirez,ashley.ramirez46@example.com,Washington,DC,East,Corporate,Bronze,2024-09-02
+CUST-00078,Sarah,Moore,sarah.moore93@example.com,Boston,MA,North,Consumer,Silver,2023-09-04
+CUST-00079,Donald,Lee,donald.lee12@example.com,Denver,CO,West,Consumer,Bronze,2023-09-07
+CUST-00080,Karen,Perez,karen.perez45@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-12-05
+CUST-00081,Daniel,Thompson,daniel.thompson30@example.com,Seattle,WA,West,Consumer,Bronze,2023-05-03
+CUST-00082,Paul,Walker,paul.walker62@example.com,Miami,FL,South,Consumer,Silver,2024-06-21
+CUST-00083,Joshua,Martinez,joshua.martinez47@example.com,Boston,MA,North,Consumer,Bronze,2024-06-30
+CUST-00084,David,Rodriguez,david.rodriguez90@example.com,New York,NY,North,Small Business,Silver,2024-05-17
+CUST-00085,Michael,Ramirez,michael.ramirez57@example.com,Chicago,IL,North,Consumer,Platinum,2023-09-16
+CUST-00086,Donald,Brown,donald.brown74@example.com,Detroit,MI,North,Consumer,Bronze,2023-06-02
+CUST-00087,Andrew,Walker,andrew.walker16@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-09-02
+CUST-00088,Michelle,Davis,michelle.davis39@example.com,Denver,CO,West,Corporate,Platinum,2023-11-09
+CUST-00089,Andrew,Martin,andrew.martin27@example.com,New York,NY,North,Consumer,Bronze,2023-03-25
+CUST-00090,William,Davis,william.davis1@example.com,Charlotte,NC,South,Consumer,Silver,2024-04-26
+CUST-00091,Charles,Johnson,charles.johnson90@example.com,Dallas,TX,South,Corporate,Bronze,2023-08-28
+CUST-00092,Thomas,Sanchez,thomas.sanchez29@example.com,Houston,TX,South,Consumer,Gold,2023-05-26
+CUST-00093,John,Johnson,john.johnson73@example.com,Dallas,TX,South,Small Business,Bronze,2024-04-24
+CUST-00094,Karen,Thompson,karen.thompson64@example.com,Seattle,WA,West,Consumer,Silver,2024-03-18
+CUST-00095,Christopher,Martin,christopher.martin87@example.com,Philadelphia,PA,East,Corporate,Silver,2023-01-22
+CUST-00096,Sarah,Jackson,sarah.jackson84@example.com,Boston,MA,North,Consumer,Bronze,2024-08-22
+CUST-00097,Margaret,Lee,margaret.lee53@example.com,Los Angeles,CA,West,Consumer,Silver,2023-06-14
+CUST-00098,Nancy,Wilson,nancy.wilson52@example.com,Seattle,WA,West,Corporate,Silver,2024-04-10
+CUST-00099,Jennifer,Hernandez,jennifer.hernandez99@example.com,Baltimore,MD,East,Consumer,Silver,2023-01-02
+CUST-00100,Paul,Anderson,paul.anderson47@example.com,Los Angeles,CA,West,Consumer,Silver,2024-03-28
+CUST-00101,Patricia,Miller,patricia.miller57@example.com,Washington,DC,East,Corporate,Silver,2023-01-30
+CUST-00102,Joshua,Sanchez,joshua.sanchez2@example.com,Miami,FL,South,Consumer,Bronze,2023-04-27
+CUST-00103,Sandra,Walker,sandra.walker92@example.com,Boston,MA,North,Consumer,Silver,2024-03-01
+CUST-00104,Donald,Thomas,donald.thomas50@example.com,Houston,TX,South,Consumer,Silver,2023-05-20
+CUST-00105,John,Rodriguez,john.rodriguez65@example.com,Seattle,WA,West,Consumer,Bronze,2023-11-02
+CUST-00106,Donna,Jackson,donna.jackson62@example.com,San Francisco,CA,West,Consumer,Silver,2024-07-10
+CUST-00107,Matthew,Anderson,matthew.anderson31@example.com,Washington,DC,East,Consumer,Bronze,2024-02-25
+CUST-00108,Robert,Hernandez,robert.hernandez85@example.com,Denver,CO,West,Corporate,Silver,2023-06-05
+CUST-00109,Ashley,Walker,ashley.walker76@example.com,Boston,MA,North,Consumer,Bronze,2024-03-26
+CUST-00110,Michael,Taylor,michael.taylor53@example.com,Los Angeles,CA,West,Corporate,Platinum,2023-03-18
+CUST-00111,Donald,Sanchez,donald.sanchez51@example.com,Baltimore,MD,East,Consumer,Gold,2024-11-21
+CUST-00112,Paul,Gonzalez,paul.gonzalez5@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-12-01
+CUST-00113,Charles,Davis,charles.davis98@example.com,Detroit,MI,North,Consumer,Gold,2024-03-30
+CUST-00114,William,Thompson,william.thompson8@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-05-30
+CUST-00115,Jessica,Taylor,jessica.taylor24@example.com,Phoenix,AZ,West,Consumer,Bronze,2024-01-27
+CUST-00116,Michelle,Perez,michelle.perez19@example.com,Houston,TX,South,Consumer,Silver,2024-04-15
+CUST-00117,Thomas,Perez,thomas.perez87@example.com,Detroit,MI,North,Consumer,Bronze,2023-12-20
+CUST-00118,Donna,Martinez,donna.martinez39@example.com,Seattle,WA,West,Consumer,Bronze,2024-05-09
+CUST-00119,Michael,Davis,michael.davis38@example.com,Phoenix,AZ,West,Small Business,Bronze,2024-11-05
+CUST-00120,Betty,Rodriguez,betty.rodriguez96@example.com,New York,NY,North,Consumer,Gold,2023-10-21
+CUST-00121,Joseph,Martin,joseph.martin80@example.com,Washington,DC,East,Consumer,Gold,2024-11-06
+CUST-00122,David,Lee,david.lee57@example.com,New York,NY,North,Consumer,Bronze,2023-05-15
+CUST-00123,Jennifer,Robinson,jennifer.robinson23@example.com,Baltimore,MD,East,Consumer,Gold,2024-01-10
+CUST-00124,Kimberly,Taylor,kimberly.taylor62@example.com,Washington,DC,East,Small Business,Bronze,2023-12-13
+CUST-00125,Linda,Anderson,linda.anderson29@example.com,Boston,MA,North,Corporate,Silver,2024-02-11
+CUST-00126,Emily,Lopez,,Detroit,MI,North,Consumer,Silver,2024-11-19
+CUST-00127,Thomas,Jackson,thomas.jackson30@example.com,Seattle,WA,West,Consumer,Silver,2024-07-28
+CUST-00128,Christopher,Robinson,christopher.robinson60@example.com,Atlanta,GA,South,Small Business,Bronze,2024-02-23
+CUST-00129,Linda,Jones,linda.jones64@example.com,New York,NY,North,Consumer,Bronze,2024-07-04
+CUST-00130,David,Gonzalez,david.gonzalez96@example.com,Seattle,WA,West,Corporate,Silver,2024-08-24
+CUST-00131,Elizabeth,Lewis,elizabeth.lewis79@example.com,Los Angeles,CA,West,Consumer,Platinum,2023-02-03
+CUST-00132,Lisa,Miller,lisa.miller47@example.com,Denver,CO,West,Consumer,Silver,2024-07-11
+CUST-00133,Daniel,Johnson,daniel.johnson16@example.com,Seattle,WA,West,Small Business,Gold,2023-04-04
+CUST-00134,Susan,Lee,susan.lee32@example.com,New York,NY,North,Small Business,Gold,2023-07-30
+CUST-00135,John,Clark,john.clark30@example.com,Charlotte,NC,South,Consumer,Bronze,2024-09-02
+CUST-00136,James,Rodriguez,james.rodriguez23@example.com,Miami,FL,South,Consumer,Gold,2023-05-15
+CUST-00137,James,Lopez,james.lopez23@example.com,Charlotte,NC,South,Consumer,Bronze,2024-03-07
+CUST-00138,Kimberly,Brown,kimberly.brown47@example.com,Detroit,MI,North,Consumer,Bronze,2024-05-30
+CUST-00139,Joseph,Walker,joseph.walker4@example.com,Chicago,IL,North,Consumer,Silver,2024-02-16
+CUST-00140,Margaret,Perez,margaret.perez57@example.com,Detroit,MI,North,Consumer,Bronze,2024-09-14
+CUST-00141,Elizabeth,Williams,elizabeth.williams75@example.com,Dallas,TX,South,Consumer,Bronze,2024-09-03
+CUST-00142,Kimberly,Martinez,kimberly.martinez13@example.com,Phoenix,AZ,West,Corporate,Bronze,2024-11-01
+CUST-00143,Emily,White,emily.white30@example.com,Houston,TX,South,Consumer,Gold,2024-02-13
+CUST-00144,Anthony,White,anthony.white86@example.com,Chicago,IL,North,Consumer,Platinum,2024-04-30
+CUST-00145,John,Williams,john.williams96@example.com,New York,NY,North,Corporate,Gold,2024-07-23
+CUST-00146,Patricia,Jackson,patricia.jackson86@example.com,Philadelphia,PA,East,Small Business,Bronze,2023-02-22
+CUST-00147,Charles,Martin,charles.martin65@example.com,Baltimore,MD,East,Consumer,Silver,2023-08-18
+CUST-00148,Michael,Lopez,michael.lopez74@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-07-28
+CUST-00149,Michelle,Martin,,Chicago,IL,North,Consumer,Gold,2023-12-14
+CUST-00150,Daniel,Smith,daniel.smith52@example.com,Miami,FL,South,Consumer,Silver,2023-02-01
+CUST-00151,Jennifer,White,jennifer.white44@example.com,Houston,TX,South,Consumer,Bronze,2023-11-29
+CUST-00152,Andrew,Martin,andrew.martin97@example.com,New York,NY,North,Consumer,Silver,2023-10-06
+CUST-00153,Mark,Perez,mark.perez54@example.com,Denver,CO,West,Consumer,Gold,2023-04-27
+CUST-00154,Daniel,Wilson,daniel.wilson76@example.com,Chicago,IL,North,Consumer,Silver,2023-02-16
+CUST-00155,Joseph,Gonzalez,joseph.gonzalez28@example.com,New York,NY,North,Corporate,Gold,2023-10-24
+CUST-00156,Christopher,Brown,christopher.brown23@example.com,Detroit,MI,North,Consumer,Silver,2023-08-24
+CUST-00157,Steven,Moore,steven.moore95@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-03-21
+CUST-00158,Christopher,Jackson,christopher.jackson82@example.com,Phoenix,AZ,West,Consumer,Bronze,2023-01-22
+CUST-00159,Christopher,Garcia,christopher.garcia14@example.com,Seattle,WA,West,Consumer,Silver,2024-06-20
+CUST-00160,Jennifer,Gonzalez,jennifer.gonzalez22@example.com,Baltimore,MD,East,Consumer,Silver,2024-06-27
+CUST-00161,Steven,Miller,steven.miller83@example.com,Baltimore,MD,East,Corporate,Bronze,2023-05-30
+CUST-00162,Thomas,Miller,thomas.miller98@example.com,Charlotte,NC,South,Corporate,Bronze,2024-10-05
+CUST-00163,Ashley,Anderson,ashley.anderson80@example.com,Phoenix,AZ,West,Consumer,Platinum,2023-11-20
+CUST-00164,Elizabeth,Anderson,elizabeth.anderson39@example.com,Detroit,MI,North,Corporate,Silver,2023-12-27
+CUST-00165,Steven,Williams,steven.williams8@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-10-22
+CUST-00166,Jennifer,Martin,jennifer.martin95@example.com,Denver,CO,West,Corporate,Bronze,2024-08-08
+CUST-00167,Richard,Hernandez,richard.hernandez8@example.com,Phoenix,AZ,West,Consumer,Gold,2023-12-18
+CUST-00168,Jennifer,Taylor,jennifer.taylor57@example.com,Atlanta,GA,South,Small Business,Silver,2024-09-16
+CUST-00169,William,Lopez,william.lopez44@example.com,Baltimore,MD,East,Corporate,Bronze,2024-10-08
+CUST-00170,Nancy,Williams,nancy.williams50@example.com,Philadelphia,PA,East,Consumer,Silver,2024-11-03
+CUST-00171,Joshua,Ramirez,joshua.ramirez85@example.com,Dallas,TX,South,Consumer,Bronze,2024-11-02
+CUST-00172,Betty,Jones,betty.jones83@example.com,Chicago,IL,North,Corporate,Gold,2024-11-17
+CUST-00173,Kimberly,Williams,kimberly.williams47@example.com,Phoenix,AZ,West,Consumer,Platinum,2023-12-16
+CUST-00174,Ashley,Miller,ashley.miller38@example.com,Miami,FL,South,Corporate,Bronze,2024-07-06
+CUST-00175,Kimberly,Johnson,kimberly.johnson20@example.com,Washington,DC,East,Consumer,Gold,2024-10-01
+CUST-00176,William,White,william.white87@example.com,Los Angeles,CA,West,Corporate,Platinum,2024-09-17
+CUST-00177,Charles,Harris,charles.harris40@example.com,San Francisco,CA,West,Small Business,Gold,2023-07-18
+CUST-00178,Lisa,Perez,lisa.perez49@example.com,Denver,CO,West,Consumer,Bronze,2023-06-15
+CUST-00179,Richard,Sanchez,richard.sanchez62@example.com,Dallas,TX,South,Corporate,Silver,2023-04-16
+CUST-00180,Kimberly,Ramirez,kimberly.ramirez21@example.com,Chicago,IL,North,Consumer,Gold,2023-05-31
+CUST-00181,Margaret,Williams,margaret.williams4@example.com,Houston,TX,South,Consumer,Bronze,2024-01-18
+CUST-00182,Jessica,Gonzalez,jessica.gonzalez41@example.com,Chicago,IL,North,Small Business,Gold,2024-10-27
+CUST-00183,Nancy,Sanchez,nancy.sanchez61@example.com,Miami,FL,South,Corporate,Bronze,2024-04-25
+CUST-00184,Mark,Martin,,New York,NY,North,Consumer,Bronze,2024-09-15
+CUST-00185,Kimberly,Wilson,kimberly.wilson16@example.com,Chicago,IL,North,Consumer,Bronze,2024-09-29
+CUST-00186,Sandra,Williams,sandra.williams3@example.com,Detroit,MI,North,Consumer,Silver,2023-05-28
+CUST-00187,Charles,Wilson,charles.wilson54@example.com,Chicago,IL,North,Consumer,Silver,2024-06-20
+CUST-00188,Lisa,Williams,lisa.williams6@example.com,Detroit,MI,North,Consumer,Platinum,2023-09-17
+CUST-00189,Mary,Lopez,mary.lopez85@example.com,Chicago,IL,North,Consumer,Gold,2023-12-07
+CUST-00190,David,Johnson,david.johnson23@example.com,Baltimore,MD,East,Corporate,Silver,2024-05-05
+CUST-00191,Barbara,Sanchez,barbara.sanchez59@example.com,Atlanta,GA,South,Consumer,Bronze,2023-07-24
+CUST-00192,Robert,Hernandez,robert.hernandez70@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-10-24
+CUST-00193,Richard,Martinez,richard.martinez43@example.com,Philadelphia,PA,East,Consumer,Gold,2024-03-23
+CUST-00194,Betty,White,betty.white24@example.com,Denver,CO,West,Consumer,Silver,2024-06-15
+CUST-00195,Sarah,Sanchez,sarah.sanchez78@example.com,Detroit,MI,North,Small Business,Bronze,2023-10-28
+CUST-00196,Christopher,Brown,christopher.brown40@example.com,Chicago,IL,North,Consumer,Silver,2023-06-20
+CUST-00197,Mark,Lopez,mark.lopez46@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-10-16
+CUST-00198,Patricia,Williams,patricia.williams96@example.com,Seattle,WA,West,Corporate,Platinum,2023-05-27
+CUST-00199,Joshua,Perez,joshua.perez31@example.com,Los Angeles,CA,West,Corporate,Bronze,2024-01-28
+CUST-00200,Andrew,Johnson,andrew.johnson48@example.com,Houston,TX,South,Consumer,Bronze,2023-05-21
+CUST-00201,Kimberly,Lopez,kimberly.lopez32@example.com,Seattle,WA,West,Small Business,Bronze,2023-07-10
+CUST-00202,Ashley,Taylor,ashley.taylor34@example.com,Phoenix,AZ,West,Corporate,Bronze,2024-09-18
+CUST-00203,Charles,Thompson,charles.thompson10@example.com,San Francisco,CA,West,Consumer,Gold,2024-03-31
+CUST-00204,Jennifer,Sanchez,jennifer.sanchez71@example.com,Baltimore,MD,East,Consumer,Gold,2023-06-11
+CUST-00205,Barbara,Sanchez,barbara.sanchez26@example.com,Washington,DC,East,Corporate,Bronze,2024-05-20
+CUST-00206,Mary,Lopez,mary.lopez71@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-03-09
+CUST-00207,Karen,Gonzalez,karen.gonzalez53@example.com,Phoenix,AZ,West,Corporate,Bronze,2023-11-21
+CUST-00208,John,Anderson,john.anderson71@example.com,Phoenix,AZ,West,Consumer,Bronze,2023-05-13
+CUST-00209,Margaret,Taylor,margaret.taylor39@example.com,New York,NY,North,Consumer,Bronze,2023-08-19
+CUST-00210,Daniel,Walker,daniel.walker82@example.com,Philadelphia,PA,East,Small Business,Bronze,2024-10-02
+CUST-00211,Karen,Martin,karen.martin75@example.com,Boston,MA,North,Consumer,Silver,2024-09-11
+CUST-00212,Nancy,Clark,nancy.clark83@example.com,New York,NY,North,Corporate,Bronze,2023-08-04
+CUST-00213,Andrew,Wilson,andrew.wilson70@example.com,Detroit,MI,North,Consumer,Platinum,2024-05-09
+CUST-00214,Jessica,Sanchez,jessica.sanchez89@example.com,Seattle,WA,West,Consumer,Bronze,2024-05-10
+CUST-00215,Sandra,Miller,sandra.miller92@example.com,Washington,DC,East,Consumer,Platinum,2023-12-20
+CUST-00216,Betty,Jones,betty.jones60@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-05-25
+CUST-00217,Michael,Johnson,michael.johnson54@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-06-13
+CUST-00218,Christopher,Robinson,christopher.robinson64@example.com,Washington,DC,East,Small Business,Silver,2023-11-12
+CUST-00219,Ashley,Smith,ashley.smith31@example.com,Detroit,MI,North,Consumer,Bronze,2023-02-21
+CUST-00220,Charles,Thomas,charles.thomas14@example.com,Seattle,WA,West,Consumer,Gold,2024-01-10
+CUST-00221,Betty,Lopez,betty.lopez72@example.com,Detroit,MI,North,Consumer,Silver,2023-03-17
+CUST-00222,Matthew,Taylor,matthew.taylor80@example.com,Phoenix,AZ,West,Corporate,Bronze,2023-04-10
+CUST-00223,Betty,Lopez,betty.lopez26@example.com,Baltimore,MD,East,Consumer,Bronze,2023-02-11
+CUST-00224,Robert,Johnson,robert.johnson67@example.com,Dallas,TX,South,Consumer,Silver,2024-06-11
+CUST-00225,David,Hernandez,david.hernandez79@example.com,Washington,DC,East,Corporate,Bronze,2023-12-11
+CUST-00226,Steven,Clark,steven.clark3@example.com,Phoenix,AZ,West,Consumer,Silver,2024-03-02
+CUST-00227,Donna,Martinez,donna.martinez84@example.com,Detroit,MI,North,Corporate,Gold,2024-08-14
+CUST-00228,Joseph,White,joseph.white81@example.com,Detroit,MI,North,Corporate,Gold,2024-01-25
+CUST-00229,Elizabeth,Clark,elizabeth.clark90@example.com,Atlanta,GA,South,Consumer,Bronze,2023-11-18
+CUST-00230,Anthony,Jones,anthony.jones79@example.com,San Francisco,CA,West,Small Business,Gold,2023-03-05
+CUST-00231,David,Taylor,david.taylor85@example.com,Charlotte,NC,South,Consumer,Bronze,2023-06-27
+CUST-00232,Sandra,Robinson,sandra.robinson93@example.com,Baltimore,MD,East,Corporate,Gold,2023-09-28
+CUST-00233,Michelle,Thomas,michelle.thomas39@example.com,Miami,FL,South,Consumer,Platinum,2023-11-01
+CUST-00234,Charles,Thompson,charles.thompson45@example.com,Houston,TX,South,Consumer,Platinum,2023-10-08
+CUST-00235,Charles,Brown,charles.brown99@example.com,Denver,CO,West,Corporate,Bronze,2023-10-22
+CUST-00236,Jennifer,Lopez,jennifer.lopez28@example.com,Seattle,WA,West,Consumer,Silver,2024-07-29
+CUST-00237,Sarah,Jones,sarah.jones86@example.com,Boston,MA,North,Small Business,Bronze,2023-08-27
+CUST-00238,Patricia,Brown,patricia.brown13@example.com,Seattle,WA,West,Corporate,Bronze,2024-07-17
+CUST-00239,William,Wilson,william.wilson97@example.com,Denver,CO,West,Small Business,Bronze,2024-10-23
+CUST-00240,Patricia,Robinson,patricia.robinson93@example.com,Boston,MA,North,Corporate,Bronze,2023-06-29
+CUST-00241,Anthony,Lewis,anthony.lewis51@example.com,Atlanta,GA,South,Corporate,Bronze,2023-10-24
+CUST-00242,Robert,Smith,robert.smith43@example.com,Philadelphia,PA,East,Consumer,Platinum,2024-07-10
+CUST-00243,Kimberly,Thomas,kimberly.thomas25@example.com,Charlotte,NC,South,Corporate,Bronze,2024-04-14
+CUST-00244,Thomas,Thompson,thomas.thompson38@example.com,Atlanta,GA,South,Consumer,Gold,2023-06-29
+CUST-00245,Michelle,Ramirez,michelle.ramirez12@example.com,Denver,CO,West,Consumer,Bronze,2023-05-24
+CUST-00246,Donald,Hernandez,donald.hernandez31@example.com,Atlanta,GA,South,Consumer,Bronze,2023-12-04
+CUST-00247,Karen,Jackson,karen.jackson89@example.com,Chicago,IL,North,Consumer,Silver,2024-04-21
+CUST-00248,Karen,Garcia,karen.garcia91@example.com,Phoenix,AZ,West,Corporate,Silver,2024-10-16
+CUST-00249,Charles,Lopez,charles.lopez62@example.com,Miami,FL,South,Consumer,Silver,2024-09-12
+CUST-00250,Lisa,Wilson,lisa.wilson28@example.com,Phoenix,AZ,West,Corporate,Silver,2024-09-02
+CUST-00251,Jennifer,Taylor,jennifer.taylor10@example.com,Phoenix,AZ,West,Small Business,Bronze,2024-07-14
+CUST-00252,Steven,Miller,steven.miller67@example.com,Miami,FL,South,Consumer,Silver,2024-08-20
+CUST-00253,Ashley,Williams,ashley.williams66@example.com,Los Angeles,CA,West,Consumer,Silver,2024-07-26
+CUST-00254,Sandra,Perez,sandra.perez1@example.com,Philadelphia,PA,East,Corporate,Silver,2023-02-16
+CUST-00255,Margaret,Lopez,margaret.lopez9@example.com,New York,NY,North,Small Business,Silver,2023-10-21
+CUST-00256,Anthony,Garcia,anthony.garcia49@example.com,Houston,TX,South,Consumer,Gold,2024-01-22
+CUST-00257,Matthew,Williams,matthew.williams69@example.com,Dallas,TX,South,Consumer,Bronze,2023-08-17
+CUST-00258,James,Harris,james.harris93@example.com,Chicago,IL,North,Consumer,Silver,2023-08-24
+CUST-00259,Jessica,Anderson,jessica.anderson93@example.com,Washington,DC,East,Corporate,Bronze,2024-11-07
+CUST-00260,Anthony,Martin,anthony.martin13@example.com,Boston,MA,North,Consumer,Bronze,2024-11-19
+CUST-00261,Patricia,Davis,patricia.davis70@example.com,Detroit,MI,North,Consumer,Gold,2023-02-27
+CUST-00262,David,Taylor,david.taylor94@example.com,Washington,DC,East,Consumer,Silver,2024-11-19
+CUST-00263,Christopher,Davis,christopher.davis67@example.com,Washington,DC,East,Consumer,Bronze,2023-03-04
+CUST-00264,Emily,Walker,emily.walker7@example.com,Houston,TX,South,Small Business,Platinum,2024-11-18
+CUST-00265,Matthew,Sanchez,matthew.sanchez39@example.com,Pittsburgh,PA,East,Consumer,Gold,2024-04-29
+CUST-00266,Jessica,Ramirez,jessica.ramirez19@example.com,Dallas,TX,South,Corporate,Gold,2024-07-29
+CUST-00267,Anthony,Walker,anthony.walker50@example.com,Phoenix,AZ,West,Consumer,Bronze,2024-10-24
+CUST-00268,Jennifer,Robinson,jennifer.robinson93@example.com,Seattle,WA,West,Corporate,Bronze,2024-01-22
+CUST-00269,Joshua,Martin,joshua.martin98@example.com,New York,NY,North,Consumer,Silver,2023-08-11
+CUST-00270,Donald,Miller,donald.miller2@example.com,Baltimore,MD,East,Consumer,Bronze,2023-05-01
+CUST-00271,Donald,Robinson,donald.robinson51@example.com,Charlotte,NC,South,Small Business,Silver,2023-10-17
+CUST-00272,Matthew,Anderson,matthew.anderson66@example.com,Baltimore,MD,East,Corporate,Silver,2024-04-25
+CUST-00273,Christopher,Robinson,christopher.robinson6@example.com,Dallas,TX,South,Consumer,Bronze,2023-05-30
+CUST-00274,Mary,Rodriguez,mary.rodriguez43@example.com,Seattle,WA,West,Consumer,Silver,2023-09-09
+CUST-00275,Ashley,Moore,ashley.moore63@example.com,Baltimore,MD,East,Small Business,Silver,2024-05-17
+CUST-00276,Sandra,Garcia,sandra.garcia70@example.com,Washington,DC,East,Consumer,Gold,2024-07-09
+CUST-00277,Patricia,Taylor,patricia.taylor86@example.com,New York,NY,North,Consumer,Bronze,2023-05-21
+CUST-00278,Joseph,Williams,joseph.williams59@example.com,Atlanta,GA,South,Consumer,Silver,2024-11-13
+CUST-00279,Michelle,Robinson,,Denver,CO,West,Consumer,Bronze,2023-01-18
+CUST-00280,Kimberly,White,,Baltimore,MD,East,Corporate,Silver,2023-07-03
+CUST-00281,Michael,Robinson,michael.robinson80@example.com,Boston,MA,North,Consumer,Gold,2023-10-01
+CUST-00282,Betty,Williams,betty.williams32@example.com,Pittsburgh,PA,East,Small Business,Bronze,2024-12-01
+CUST-00283,Jennifer,Lee,jennifer.lee49@example.com,New York,NY,North,Consumer,Bronze,2023-01-10
+CUST-00284,William,Williams,william.williams43@example.com,Denver,CO,West,Consumer,Gold,2023-04-08
+CUST-00285,Kimberly,Robinson,kimberly.robinson89@example.com,Boston,MA,North,Corporate,Silver,2023-02-17
+CUST-00286,John,Perez,john.perez41@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-05-28
+CUST-00287,Betty,Robinson,betty.robinson31@example.com,Chicago,IL,North,Consumer,Gold,2024-11-24
+CUST-00288,Paul,Hernandez,paul.hernandez89@example.com,San Francisco,CA,West,Corporate,Silver,2023-12-21
+CUST-00289,Patricia,Brown,patricia.brown44@example.com,San Francisco,CA,West,Consumer,Silver,2024-09-01
+CUST-00290,Betty,Harris,betty.harris58@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-01-20
+CUST-00291,Margaret,Garcia,margaret.garcia38@example.com,Los Angeles,CA,West,Corporate,Silver,2023-03-26
+CUST-00292,Sarah,Jones,sarah.jones41@example.com,San Francisco,CA,West,Consumer,Bronze,2023-11-12
+CUST-00293,Mark,Lopez,mark.lopez24@example.com,Philadelphia,PA,East,Consumer,Silver,2024-06-08
+CUST-00294,Anthony,Brown,anthony.brown12@example.com,New York,NY,North,Consumer,Gold,2024-01-30
+CUST-00295,James,Martinez,james.martinez93@example.com,Denver,CO,West,Small Business,Gold,2023-09-06
+CUST-00296,Andrew,Taylor,andrew.taylor35@example.com,Houston,TX,South,Consumer,Silver,2023-03-06
+CUST-00297,William,Wilson,william.wilson10@example.com,Pittsburgh,PA,East,Consumer,Platinum,2024-10-02
+CUST-00298,Ashley,Martin,ashley.martin39@example.com,Houston,TX,South,Consumer,Bronze,2024-09-27
+CUST-00299,Matthew,Sanchez,matthew.sanchez84@example.com,Pittsburgh,PA,East,Small Business,Bronze,2023-11-25
+CUST-00300,Joshua,Walker,joshua.walker51@example.com,Houston,TX,South,Small Business,Bronze,2024-10-10
+CUST-00301,Ashley,Walker,ashley.walker51@example.com,Dallas,TX,South,Consumer,Platinum,2023-07-24
+CUST-00302,Donna,Moore,,Charlotte,NC,South,Corporate,Platinum,2023-08-03
+CUST-00303,Mark,Sanchez,mark.sanchez53@example.com,Philadelphia,PA,East,Corporate,Bronze,2023-11-07
+CUST-00304,Jessica,Rodriguez,jessica.rodriguez10@example.com,Houston,TX,South,Consumer,Silver,2024-08-19
+CUST-00305,Betty,Moore,betty.moore47@example.com,Phoenix,AZ,West,Corporate,Gold,2024-08-31
+CUST-00306,Jennifer,Brown,jennifer.brown79@example.com,Dallas,TX,South,Consumer,Platinum,2024-11-24
+CUST-00307,Betty,Walker,betty.walker13@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-06-15
+CUST-00308,Emily,Jackson,emily.jackson60@example.com,Houston,TX,South,Corporate,Silver,2024-05-27
+CUST-00309,Elizabeth,Lopez,elizabeth.lopez54@example.com,Detroit,MI,North,Small Business,Bronze,2023-05-26
+CUST-00310,Daniel,Martinez,daniel.martinez67@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-03-24
+CUST-00311,Mark,Hernandez,mark.hernandez91@example.com,Chicago,IL,North,Consumer,Gold,2024-10-25
+CUST-00312,Michael,Perez,michael.perez71@example.com,Miami,FL,South,Consumer,Silver,2024-04-18
+CUST-00313,Joseph,Sanchez,joseph.sanchez85@example.com,San Francisco,CA,West,Consumer,Bronze,2024-09-20
+CUST-00314,Richard,Anderson,,Denver,CO,West,Consumer,Bronze,2023-03-06
+CUST-00315,Andrew,Brown,andrew.brown59@example.com,Dallas,TX,South,Consumer,Silver,2024-05-16
+CUST-00316,Kimberly,Walker,kimberly.walker76@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-04-13
+CUST-00317,Michelle,Garcia,michelle.garcia41@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-07-07
+CUST-00318,Lisa,Thompson,lisa.thompson77@example.com,Charlotte,NC,South,Consumer,Bronze,2023-07-10
+CUST-00319,Ashley,Lee,ashley.lee37@example.com,Charlotte,NC,South,Consumer,Bronze,2024-04-06
+CUST-00320,Michelle,Johnson,michelle.johnson25@example.com,Philadelphia,PA,East,Corporate,Platinum,2024-06-01
+CUST-00321,Ashley,Wilson,ashley.wilson57@example.com,Denver,CO,West,Consumer,Bronze,2023-02-01
+CUST-00322,Joseph,Martinez,joseph.martinez37@example.com,Chicago,IL,North,Consumer,Silver,2024-05-22
+CUST-00323,Emily,Taylor,emily.taylor70@example.com,New York,NY,North,Corporate,Bronze,2023-02-12
+CUST-00324,Mark,Moore,mark.moore84@example.com,Houston,TX,South,Corporate,Bronze,2023-02-03
+CUST-00325,Mark,Rodriguez,mark.rodriguez16@example.com,Philadelphia,PA,East,Corporate,Bronze,2024-08-25
+CUST-00326,Daniel,Ramirez,daniel.ramirez27@example.com,San Francisco,CA,West,Corporate,Gold,2024-08-06
+CUST-00327,Daniel,Moore,daniel.moore91@example.com,Washington,DC,East,Consumer,Silver,2024-06-10
+CUST-00328,Michael,Jones,michael.jones84@example.com,Los Angeles,CA,West,Consumer,Gold,2023-09-13
+CUST-00329,Elizabeth,Thompson,elizabeth.thompson87@example.com,Washington,DC,East,Consumer,Bronze,2024-10-09
+CUST-00330,Sarah,Lee,sarah.lee82@example.com,Denver,CO,West,Corporate,Gold,2024-02-17
+CUST-00331,Steven,White,steven.white63@example.com,Baltimore,MD,East,Consumer,Bronze,2023-04-06
+CUST-00332,Sandra,Lee,sandra.lee51@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-08-05
+CUST-00333,Ashley,Rodriguez,ashley.rodriguez74@example.com,Baltimore,MD,East,Consumer,Gold,2023-12-18
+CUST-00334,Patricia,Johnson,,Detroit,MI,North,Small Business,Bronze,2024-04-12
+CUST-00335,James,Walker,james.walker17@example.com,San Francisco,CA,West,Corporate,Bronze,2023-10-08
+CUST-00336,Jennifer,Lee,jennifer.lee86@example.com,Baltimore,MD,East,Small Business,Bronze,2024-02-10
+CUST-00337,Karen,White,karen.white91@example.com,Houston,TX,South,Consumer,Bronze,2023-03-21
+CUST-00338,David,Jackson,david.jackson2@example.com,Charlotte,NC,South,Consumer,Bronze,2023-05-04
+CUST-00339,Margaret,Thompson,margaret.thompson50@example.com,Houston,TX,South,Consumer,Gold,2023-04-16
+CUST-00340,Christopher,Lopez,christopher.lopez97@example.com,Washington,DC,East,Corporate,Silver,2024-11-24
+CUST-00341,Elizabeth,Williams,elizabeth.williams93@example.com,Boston,MA,North,Consumer,Silver,2024-02-26
+CUST-00342,Michelle,Perez,michelle.perez13@example.com,San Francisco,CA,West,Consumer,Bronze,2024-01-29
+CUST-00343,Daniel,Walker,daniel.walker32@example.com,Seattle,WA,West,Consumer,Bronze,2024-07-20
+CUST-00344,Joshua,Martin,joshua.martin85@example.com,Philadelphia,PA,East,Corporate,Bronze,2024-09-13
+CUST-00345,Steven,Miller,steven.miller31@example.com,Seattle,WA,West,Consumer,Bronze,2024-05-26
+CUST-00346,Joshua,Williams,joshua.williams17@example.com,Chicago,IL,North,Consumer,Gold,2024-03-06
+CUST-00347,Lisa,Moore,lisa.moore99@example.com,Houston,TX,South,Consumer,Silver,2023-01-15
+CUST-00348,Thomas,Miller,thomas.miller51@example.com,New York,NY,North,Consumer,Silver,2024-05-28
+CUST-00349,Anthony,Wilson,anthony.wilson69@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-11-14
+CUST-00350,Jennifer,Taylor,jennifer.taylor51@example.com,Miami,FL,South,Consumer,Gold,2024-10-27
+CUST-00351,John,Martinez,john.martinez12@example.com,San Francisco,CA,West,Small Business,Bronze,2024-09-18
+CUST-00352,Joshua,Johnson,joshua.johnson91@example.com,Washington,DC,East,Consumer,Bronze,2024-05-23
+CUST-00353,Daniel,Taylor,daniel.taylor96@example.com,Washington,DC,East,Corporate,Bronze,2023-05-01
+CUST-00354,Mary,Hernandez,mary.hernandez34@example.com,Seattle,WA,West,Corporate,Silver,2023-03-20
+CUST-00355,Ashley,Anderson,ashley.anderson73@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-04-16
+CUST-00356,Andrew,Perez,andrew.perez1@example.com,Boston,MA,North,Consumer,Gold,2023-09-08
+CUST-00357,Robert,Thomas,robert.thomas23@example.com,Pittsburgh,PA,East,Small Business,Gold,2024-07-20
+CUST-00358,Anthony,Davis,anthony.davis93@example.com,Washington,DC,East,Consumer,Gold,2024-08-08
+CUST-00359,Lisa,Brown,lisa.brown67@example.com,Boston,MA,North,Small Business,Platinum,2023-03-12
+CUST-00360,Sandra,Ramirez,sandra.ramirez71@example.com,Baltimore,MD,East,Consumer,Bronze,2023-10-26
+CUST-00361,Andrew,Sanchez,andrew.sanchez76@example.com,Washington,DC,East,Small Business,Platinum,2023-07-20
+CUST-00362,Paul,Harris,,Miami,FL,South,Consumer,Bronze,2023-12-21
+CUST-00363,James,Walker,james.walker49@example.com,Philadelphia,PA,East,Corporate,Silver,2023-04-17
+CUST-00364,Susan,Taylor,susan.taylor8@example.com,Houston,TX,South,Small Business,Bronze,2023-10-14
+CUST-00365,Jennifer,Johnson,jennifer.johnson48@example.com,Charlotte,NC,South,Consumer,Silver,2024-08-17
+CUST-00366,Michael,Taylor,michael.taylor73@example.com,Houston,TX,South,Consumer,Silver,2023-05-14
+CUST-00367,Jessica,Martinez,jessica.martinez51@example.com,Baltimore,MD,East,Corporate,Silver,2023-11-22
+CUST-00368,Mark,Rodriguez,mark.rodriguez18@example.com,Atlanta,GA,South,Corporate,Silver,2023-06-09
+CUST-00369,Michael,Garcia,michael.garcia16@example.com,Denver,CO,West,Consumer,Platinum,2023-08-01
+CUST-00370,Mark,Martinez,mark.martinez12@example.com,Seattle,WA,West,Consumer,Silver,2024-09-09
+CUST-00371,Robert,Miller,robert.miller32@example.com,Washington,DC,East,Small Business,Bronze,2023-02-20
+CUST-00372,Karen,Rodriguez,karen.rodriguez58@example.com,Atlanta,GA,South,Consumer,Silver,2023-04-07
+CUST-00373,Sandra,Brown,,Atlanta,GA,South,Corporate,Platinum,2023-05-14
+CUST-00374,Richard,Clark,richard.clark83@example.com,Seattle,WA,West,Consumer,Silver,2023-03-18
+CUST-00375,Mary,Williams,mary.williams12@example.com,Houston,TX,South,Small Business,Gold,2023-12-06
+CUST-00376,Linda,Johnson,linda.johnson74@example.com,Los Angeles,CA,West,Consumer,Silver,2024-05-23
+CUST-00377,Mary,Gonzalez,mary.gonzalez24@example.com,San Francisco,CA,West,Consumer,Bronze,2023-06-02
+CUST-00378,Robert,Martin,robert.martin71@example.com,Dallas,TX,South,Consumer,Bronze,2024-01-28
+CUST-00379,David,Wilson,david.wilson70@example.com,Charlotte,NC,South,Corporate,Platinum,2024-01-03
+CUST-00380,Donald,Moore,donald.moore65@example.com,Seattle,WA,West,Consumer,Bronze,2023-01-27
+CUST-00381,Christopher,Martin,christopher.martin36@example.com,Atlanta,GA,South,Consumer,Platinum,2024-06-26
+CUST-00382,Daniel,Harris,daniel.harris85@example.com,Miami,FL,South,Consumer,Silver,2023-02-27
+CUST-00383,Joseph,Jackson,joseph.jackson23@example.com,Seattle,WA,West,Consumer,Silver,2024-01-03
+CUST-00384,Donna,Smith,donna.smith25@example.com,Washington,DC,East,Corporate,Gold,2024-05-19
+CUST-00385,Paul,Martinez,paul.martinez8@example.com,Houston,TX,South,Consumer,Bronze,2024-06-23
+CUST-00386,Donald,Smith,donald.smith44@example.com,Washington,DC,East,Corporate,Gold,2023-11-28
+CUST-00387,Patricia,Smith,patricia.smith19@example.com,Charlotte,NC,South,Corporate,Gold,2024-01-09
+CUST-00388,John,Lopez,john.lopez39@example.com,Phoenix,AZ,West,Consumer,Platinum,2024-03-23
+CUST-00389,Ashley,Lee,ashley.lee72@example.com,Washington,DC,East,Corporate,Gold,2024-01-01
+CUST-00390,Joseph,Perez,joseph.perez89@example.com,Houston,TX,South,Consumer,Bronze,2023-01-02
+CUST-00391,Andrew,Gonzalez,andrew.gonzalez79@example.com,Boston,MA,North,Consumer,Silver,2024-05-23
+CUST-00392,Elizabeth,Hernandez,elizabeth.hernandez41@example.com,Boston,MA,North,Consumer,Gold,2023-04-01
+CUST-00393,Nancy,Anderson,nancy.anderson89@example.com,Chicago,IL,North,Consumer,Bronze,2023-04-21
+CUST-00394,James,Johnson,james.johnson22@example.com,Denver,CO,West,Corporate,Silver,2024-01-23
+CUST-00395,Daniel,Moore,daniel.moore74@example.com,Los Angeles,CA,West,Corporate,Silver,2023-06-16
+CUST-00396,Mark,Williams,,Chicago,IL,North,Consumer,Bronze,2023-12-17
+CUST-00397,William,Lewis,william.lewis71@example.com,San Francisco,CA,West,Small Business,Platinum,2023-12-13
+CUST-00398,Joshua,Martin,joshua.martin84@example.com,Los Angeles,CA,West,Consumer,Gold,2023-06-10
+CUST-00399,Patricia,Brown,patricia.brown53@example.com,Washington,DC,East,Corporate,Silver,2024-07-07
+CUST-00400,Thomas,Perez,thomas.perez7@example.com,Baltimore,MD,East,Consumer,Silver,2024-05-17
+CUST-00401,Elizabeth,Johnson,elizabeth.johnson38@example.com,Philadelphia,PA,East,Corporate,Silver,2024-05-06
+CUST-00402,Richard,Brown,richard.brown38@example.com,Boston,MA,North,Small Business,Silver,2023-04-29
+CUST-00403,Karen,Sanchez,karen.sanchez85@example.com,Denver,CO,West,Consumer,Silver,2024-02-01
+CUST-00404,Barbara,Lopez,barbara.lopez6@example.com,Seattle,WA,West,Consumer,Silver,2023-08-20
+CUST-00405,Sarah,Jackson,sarah.jackson86@example.com,Boston,MA,North,Consumer,Silver,2024-07-08
+CUST-00406,Anthony,Harris,anthony.harris50@example.com,Charlotte,NC,South,Corporate,Bronze,2024-07-02
+CUST-00407,Donald,Jackson,donald.jackson51@example.com,Houston,TX,South,Small Business,Silver,2024-05-29
+CUST-00408,Andrew,Lewis,andrew.lewis58@example.com,Atlanta,GA,South,Consumer,Platinum,2023-08-05
+CUST-00409,Richard,Jones,richard.jones88@example.com,Detroit,MI,North,Consumer,Platinum,2024-10-04
+CUST-00410,Elizabeth,Clark,elizabeth.clark9@example.com,Baltimore,MD,East,Consumer,Silver,2024-07-19
+CUST-00411,Christopher,Ramirez,christopher.ramirez2@example.com,Pittsburgh,PA,East,Corporate,Silver,2024-06-19
+CUST-00412,Anthony,Brown,anthony.brown76@example.com,San Francisco,CA,West,Consumer,Platinum,2023-04-13
+CUST-00413,Michael,Jackson,michael.jackson45@example.com,Chicago,IL,North,Corporate,Bronze,2024-11-01
+CUST-00414,Ashley,Jackson,ashley.jackson52@example.com,Los Angeles,CA,West,Consumer,Silver,2024-02-16
+CUST-00415,Robert,Gonzalez,robert.gonzalez61@example.com,Washington,DC,East,Small Business,Gold,2023-01-21
+CUST-00416,Nancy,Clark,nancy.clark63@example.com,Baltimore,MD,East,Corporate,Silver,2023-08-22
+CUST-00417,David,Martinez,david.martinez54@example.com,Seattle,WA,West,Consumer,Bronze,2024-03-28
+CUST-00418,Susan,Robinson,susan.robinson48@example.com,Denver,CO,West,Corporate,Silver,2023-06-12
+CUST-00419,John,Martinez,john.martinez68@example.com,San Francisco,CA,West,Corporate,Bronze,2023-07-17
+CUST-00420,Richard,Clark,richard.clark7@example.com,Boston,MA,North,Small Business,Silver,2023-10-08
+CUST-00421,Lisa,Clark,lisa.clark16@example.com,Phoenix,AZ,West,Corporate,Bronze,2024-05-15
+CUST-00422,Joshua,Anderson,joshua.anderson45@example.com,Houston,TX,South,Consumer,Gold,2023-09-22
+CUST-00423,Jennifer,Martinez,jennifer.martinez74@example.com,Detroit,MI,North,Corporate,Bronze,2023-08-15
+CUST-00424,Joseph,Perez,joseph.perez66@example.com,Dallas,TX,South,Consumer,Gold,2024-11-29
+CUST-00425,James,Thomas,james.thomas2@example.com,Miami,FL,South,Consumer,Silver,2023-11-09
+CUST-00426,Sarah,Wilson,sarah.wilson28@example.com,Seattle,WA,West,Consumer,Silver,2024-09-30
+CUST-00427,Betty,Jackson,betty.jackson85@example.com,New York,NY,North,Small Business,Gold,2024-07-28
+CUST-00428,Joshua,Martin,joshua.martin62@example.com,Baltimore,MD,East,Consumer,Platinum,2024-10-17
+CUST-00429,Christopher,Ramirez,christopher.ramirez84@example.com,Baltimore,MD,East,Consumer,Bronze,2023-09-04
+CUST-00430,Patricia,Sanchez,patricia.sanchez93@example.com,Seattle,WA,West,Consumer,Silver,2023-10-30
+CUST-00431,Thomas,Robinson,thomas.robinson5@example.com,Denver,CO,West,Consumer,Platinum,2023-07-14
+CUST-00432,Nancy,White,nancy.white61@example.com,Charlotte,NC,South,Small Business,Silver,2024-06-03
+CUST-00433,Karen,Ramirez,karen.ramirez13@example.com,Charlotte,NC,South,Consumer,Silver,2024-07-26
+CUST-00434,Barbara,Walker,barbara.walker29@example.com,Philadelphia,PA,East,Corporate,Bronze,2023-12-06
+CUST-00435,Lisa,Rodriguez,lisa.rodriguez61@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-08-17
+CUST-00436,Michelle,Williams,michelle.williams88@example.com,San Francisco,CA,West,Consumer,Bronze,2023-02-25
+CUST-00437,Elizabeth,Jones,elizabeth.jones73@example.com,Dallas,TX,South,Corporate,Platinum,2023-05-27
+CUST-00438,Christopher,Ramirez,christopher.ramirez81@example.com,Atlanta,GA,South,Small Business,Bronze,2023-03-01
+CUST-00439,James,Anderson,james.anderson22@example.com,Washington,DC,East,Consumer,Bronze,2023-04-01
+CUST-00440,David,Martin,david.martin62@example.com,Denver,CO,West,Consumer,Bronze,2023-07-24
+CUST-00441,Lisa,Walker,lisa.walker68@example.com,Chicago,IL,North,Consumer,Silver,2024-10-03
+CUST-00442,Jessica,Davis,jessica.davis50@example.com,Baltimore,MD,East,Consumer,Bronze,2023-03-08
+CUST-00443,Robert,Martinez,robert.martinez77@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-05-18
+CUST-00444,Nancy,Lewis,nancy.lewis22@example.com,Seattle,WA,West,Small Business,Gold,2024-02-18
+CUST-00445,Mary,Davis,mary.davis3@example.com,Miami,FL,South,Consumer,Bronze,2024-01-11
+CUST-00446,Robert,Gonzalez,robert.gonzalez7@example.com,Philadelphia,PA,East,Corporate,Silver,2023-01-21
+CUST-00447,Patricia,Thompson,patricia.thompson16@example.com,Detroit,MI,North,Consumer,Silver,2023-06-06
+CUST-00448,Susan,Thompson,susan.thompson13@example.com,Chicago,IL,North,Corporate,Bronze,2024-09-12
+CUST-00449,David,Wilson,david.wilson14@example.com,New York,NY,North,Consumer,Silver,2023-09-27
+CUST-00450,Kimberly,Miller,kimberly.miller6@example.com,Pittsburgh,PA,East,Consumer,Gold,2024-05-07
+CUST-00451,Nancy,Davis,nancy.davis15@example.com,New York,NY,North,Corporate,Silver,2023-06-02
+CUST-00452,Jennifer,Harris,jennifer.harris83@example.com,New York,NY,North,Consumer,Platinum,2023-10-31
+CUST-00453,Thomas,Anderson,thomas.anderson6@example.com,New York,NY,North,Corporate,Bronze,2024-11-24
+CUST-00454,Christopher,Wilson,christopher.wilson6@example.com,New York,NY,North,Consumer,Bronze,2024-10-24
+CUST-00455,William,Hernandez,william.hernandez35@example.com,Pittsburgh,PA,East,Corporate,Bronze,2023-12-17
+CUST-00456,Barbara,Brown,barbara.brown35@example.com,Denver,CO,West,Corporate,Silver,2024-05-04
+CUST-00457,Anthony,Lee,anthony.lee93@example.com,Atlanta,GA,South,Consumer,Platinum,2023-06-13
+CUST-00458,Michael,Wilson,michael.wilson24@example.com,Phoenix,AZ,West,Consumer,Gold,2024-09-18
+CUST-00459,Mary,Ramirez,mary.ramirez15@example.com,Houston,TX,South,Corporate,Bronze,2023-03-06
+CUST-00460,Thomas,Lee,thomas.lee87@example.com,Philadelphia,PA,East,Consumer,Silver,2024-08-01
+CUST-00461,Joseph,Walker,joseph.walker94@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-11-23
+CUST-00462,Matthew,Jones,matthew.jones21@example.com,New York,NY,North,Consumer,Silver,2024-05-22
+CUST-00463,William,Williams,william.williams36@example.com,Seattle,WA,West,Consumer,Bronze,2024-10-20
+CUST-00464,Matthew,Gonzalez,matthew.gonzalez74@example.com,Atlanta,GA,South,Consumer,Gold,2024-04-02
+CUST-00465,Christopher,Brown,christopher.brown53@example.com,Los Angeles,CA,West,Consumer,Silver,2023-04-04
+CUST-00466,Joshua,Walker,joshua.walker59@example.com,Washington,DC,East,Small Business,Bronze,2023-02-25
+CUST-00467,Joseph,Ramirez,joseph.ramirez80@example.com,Seattle,WA,West,Consumer,Silver,2024-01-08
+CUST-00468,Mark,Brown,,Boston,MA,North,Consumer,Silver,2023-10-26
+CUST-00469,Emily,Taylor,emily.taylor22@example.com,Philadelphia,PA,East,Consumer,Gold,2024-02-24
+CUST-00470,Michael,Rodriguez,michael.rodriguez51@example.com,Miami,FL,South,Consumer,Gold,2023-07-15
+CUST-00471,Nancy,Brown,nancy.brown87@example.com,Los Angeles,CA,West,Consumer,Gold,2024-04-06
+CUST-00472,Sandra,Perez,,Houston,TX,South,Corporate,Silver,2024-03-19
+CUST-00473,Donna,Thomas,donna.thomas17@example.com,Charlotte,NC,South,Consumer,Silver,2024-09-12
+CUST-00474,Christopher,Taylor,christopher.taylor89@example.com,Denver,CO,West,Corporate,Bronze,2023-12-18
+CUST-00475,Charles,Anderson,charles.anderson90@example.com,Miami,FL,South,Corporate,Silver,2024-07-14
+CUST-00476,Christopher,Thompson,christopher.thompson92@example.com,Miami,FL,South,Consumer,Bronze,2024-11-19
+CUST-00477,David,Thompson,david.thompson82@example.com,Charlotte,NC,South,Consumer,Bronze,2023-12-27
+CUST-00478,Emily,Thomas,emily.thomas55@example.com,Phoenix,AZ,West,Corporate,Silver,2023-01-26
+CUST-00479,Matthew,Jones,matthew.jones97@example.com,New York,NY,North,Corporate,Platinum,2024-11-30
+CUST-00480,Thomas,Jones,thomas.jones70@example.com,Chicago,IL,North,Consumer,Gold,2023-04-15
+CUST-00481,Michelle,Ramirez,michelle.ramirez66@example.com,Charlotte,NC,South,Corporate,Gold,2023-10-22
+CUST-00482,Patricia,Robinson,patricia.robinson88@example.com,Denver,CO,West,Consumer,Silver,2023-01-14
+CUST-00483,Thomas,Miller,thomas.miller91@example.com,San Francisco,CA,West,Corporate,Bronze,2024-08-25
+CUST-00484,Paul,White,paul.white23@example.com,Miami,FL,South,Small Business,Bronze,2023-06-27
+CUST-00485,Steven,Brown,steven.brown72@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-09-19
+CUST-00486,James,Hernandez,james.hernandez42@example.com,San Francisco,CA,West,Consumer,Gold,2024-10-02
+CUST-00487,Michelle,Clark,michelle.clark71@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-11-22
+CUST-00488,Kimberly,Davis,kimberly.davis65@example.com,Charlotte,NC,South,Consumer,Silver,2024-02-18
+CUST-00489,Jennifer,Lopez,jennifer.lopez43@example.com,Miami,FL,South,Consumer,Bronze,2024-09-25
+CUST-00490,Kimberly,Thomas,kimberly.thomas58@example.com,New York,NY,North,Consumer,Silver,2024-09-28
+CUST-00491,Jessica,Walker,jessica.walker15@example.com,Chicago,IL,North,Consumer,Silver,2023-10-17
+CUST-00492,Mary,Robinson,mary.robinson38@example.com,Pittsburgh,PA,East,Corporate,Bronze,2024-06-10
+CUST-00493,Jennifer,Walker,jennifer.walker99@example.com,Boston,MA,North,Consumer,Bronze,2023-03-09
+CUST-00494,Susan,Perez,susan.perez27@example.com,Houston,TX,South,Consumer,Silver,2024-03-21
+CUST-00495,John,White,john.white43@example.com,Atlanta,GA,South,Consumer,Bronze,2023-07-02
+CUST-00496,Thomas,Moore,thomas.moore53@example.com,Boston,MA,North,Consumer,Silver,2024-03-19
+CUST-00497,Christopher,Smith,christopher.smith83@example.com,Los Angeles,CA,West,Corporate,Bronze,2024-08-22
+CUST-00498,Robert,Thompson,robert.thompson14@example.com,Chicago,IL,North,Consumer,Silver,2024-09-13
+CUST-00499,Jennifer,Martinez,jennifer.martinez85@example.com,Denver,CO,West,Consumer,Bronze,2023-08-14
+CUST-00500,David,White,david.white82@example.com,Phoenix,AZ,West,Consumer,Silver,2024-10-25
+CUST-00501,Lisa,Walker,lisa.walker1@example.com,Boston,MA,North,Consumer,Bronze,2024-07-14
+CUST-00502,Jennifer,Martinez,jennifer.martinez83@example.com,Dallas,TX,South,Corporate,Bronze,2023-07-08
+CUST-00503,Joseph,Martin,joseph.martin86@example.com,Washington,DC,East,Corporate,Gold,2024-07-16
+CUST-00504,Sandra,Lee,sandra.lee33@example.com,Chicago,IL,North,Consumer,Silver,2024-05-13
+CUST-00505,Nancy,Lopez,nancy.lopez80@example.com,Miami,FL,South,Consumer,Bronze,2024-05-12
+CUST-00506,Mark,Hernandez,mark.hernandez47@example.com,Washington,DC,East,Corporate,Platinum,2023-06-22
+CUST-00507,James,Hernandez,james.hernandez83@example.com,Miami,FL,South,Consumer,Gold,2023-05-18
+CUST-00508,Nancy,Lewis,nancy.lewis40@example.com,Denver,CO,West,Consumer,Bronze,2024-10-23
+CUST-00509,Joshua,Williams,joshua.williams26@example.com,Washington,DC,East,Consumer,Gold,2023-03-20
+CUST-00510,John,Lewis,john.lewis75@example.com,New York,NY,North,Consumer,Silver,2023-02-07
+CUST-00511,Emily,Rodriguez,emily.rodriguez29@example.com,San Francisco,CA,West,Corporate,Silver,2023-10-25
+CUST-00512,David,Anderson,david.anderson2@example.com,Detroit,MI,North,Corporate,Gold,2024-09-20
+CUST-00513,William,Harris,william.harris73@example.com,Houston,TX,South,Small Business,Silver,2023-05-30
+CUST-00514,Donald,Walker,donald.walker63@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-08-28
+CUST-00515,Robert,Perez,robert.perez47@example.com,Charlotte,NC,South,Consumer,Gold,2023-02-17
+CUST-00516,Robert,Lee,robert.lee67@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-09-27
+CUST-00517,Donna,Moore,donna.moore47@example.com,Houston,TX,South,Consumer,Gold,2023-03-21
+CUST-00518,Kimberly,Rodriguez,kimberly.rodriguez46@example.com,San Francisco,CA,West,Corporate,Bronze,2024-05-08
+CUST-00519,Joshua,Smith,joshua.smith10@example.com,Houston,TX,South,Consumer,Bronze,2023-06-03
+CUST-00520,Barbara,Garcia,barbara.garcia54@example.com,Philadelphia,PA,East,Corporate,Silver,2024-05-08
+CUST-00521,Donald,Thomas,donald.thomas53@example.com,Charlotte,NC,South,Consumer,Bronze,2024-08-10
+CUST-00522,Donna,Garcia,donna.garcia74@example.com,Charlotte,NC,South,Consumer,Bronze,2023-07-04
+CUST-00523,Kimberly,Walker,kimberly.walker82@example.com,Phoenix,AZ,West,Consumer,Silver,2024-11-08
+CUST-00524,Charles,Walker,charles.walker61@example.com,Boston,MA,North,Corporate,Bronze,2024-02-25
+CUST-00525,Joshua,Jones,joshua.jones34@example.com,Charlotte,NC,South,Consumer,Silver,2024-04-09
+CUST-00526,Joshua,Jackson,joshua.jackson17@example.com,Boston,MA,North,Consumer,Bronze,2024-05-31
+CUST-00527,Anthony,Clark,anthony.clark61@example.com,Charlotte,NC,South,Small Business,Silver,2024-06-28
+CUST-00528,Steven,Harris,steven.harris17@example.com,New York,NY,North,Small Business,Silver,2023-01-02
+CUST-00529,Margaret,Taylor,margaret.taylor90@example.com,Seattle,WA,West,Consumer,Bronze,2024-05-08
+CUST-00530,Matthew,Lopez,matthew.lopez62@example.com,Detroit,MI,North,Corporate,Gold,2023-03-27
+CUST-00531,Charles,Martin,charles.martin91@example.com,Seattle,WA,West,Corporate,Bronze,2024-06-19
+CUST-00532,Linda,Taylor,linda.taylor89@example.com,Detroit,MI,North,Corporate,Bronze,2023-04-20
+CUST-00533,Elizabeth,Wilson,elizabeth.wilson55@example.com,Baltimore,MD,East,Consumer,Silver,2024-11-27
+CUST-00534,Betty,Harris,betty.harris72@example.com,Houston,TX,South,Consumer,Bronze,2024-07-22
+CUST-00535,Donald,Rodriguez,donald.rodriguez51@example.com,Baltimore,MD,East,Corporate,Gold,2024-11-06
+CUST-00536,Linda,White,linda.white21@example.com,Houston,TX,South,Consumer,Silver,2023-12-13
+CUST-00537,Emily,Martin,emily.martin82@example.com,Boston,MA,North,Consumer,Bronze,2023-05-29
+CUST-00538,Donald,Robinson,donald.robinson29@example.com,Los Angeles,CA,West,Consumer,Silver,2024-01-29
+CUST-00539,Betty,Martin,betty.martin23@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-07-26
+CUST-00540,Kimberly,Martinez,kimberly.martinez66@example.com,Atlanta,GA,South,Consumer,Bronze,2023-06-23
+CUST-00541,Robert,Lopez,robert.lopez12@example.com,Atlanta,GA,South,Small Business,Gold,2023-12-28
+CUST-00542,Betty,Gonzalez,,Charlotte,NC,South,Corporate,Gold,2024-07-16
+CUST-00543,Charles,White,charles.white36@example.com,Baltimore,MD,East,Consumer,Platinum,2024-04-10
+CUST-00544,Betty,Jackson,betty.jackson65@example.com,Chicago,IL,North,Consumer,Bronze,2023-10-29
+CUST-00545,Nancy,Walker,nancy.walker74@example.com,Chicago,IL,North,Consumer,Bronze,2024-01-22
+CUST-00546,Andrew,Thomas,andrew.thomas59@example.com,Dallas,TX,South,Corporate,Gold,2023-01-29
+CUST-00547,Donald,Brown,donald.brown29@example.com,Philadelphia,PA,East,Corporate,Bronze,2023-11-20
+CUST-00548,Anthony,Walker,anthony.walker34@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-11-20
+CUST-00549,Nancy,Williams,nancy.williams28@example.com,Houston,TX,South,Corporate,Bronze,2024-11-30
+CUST-00550,Richard,Thomas,richard.thomas34@example.com,Miami,FL,South,Consumer,Bronze,2023-09-13
+CUST-00551,Michelle,Lopez,michelle.lopez11@example.com,Atlanta,GA,South,Corporate,Silver,2024-09-20
+CUST-00552,James,Harris,james.harris41@example.com,Detroit,MI,North,Consumer,Platinum,2024-08-11
+CUST-00553,Sarah,Thomas,sarah.thomas29@example.com,Charlotte,NC,South,Corporate,Bronze,2024-06-22
+CUST-00554,Margaret,Thomas,margaret.thomas88@example.com,Chicago,IL,North,Corporate,Silver,2023-05-04
+CUST-00555,Kimberly,Anderson,,Philadelphia,PA,East,Consumer,Silver,2023-11-30
+CUST-00556,Lisa,Martin,lisa.martin31@example.com,Washington,DC,East,Consumer,Platinum,2023-12-18
+CUST-00557,Lisa,Garcia,lisa.garcia90@example.com,Denver,CO,West,Corporate,Bronze,2024-02-15
+CUST-00558,Sarah,Anderson,sarah.anderson74@example.com,Charlotte,NC,South,Corporate,Gold,2023-10-04
+CUST-00559,Jessica,Moore,jessica.moore95@example.com,Denver,CO,West,Consumer,Gold,2023-06-30
+CUST-00560,Anthony,Thomas,anthony.thomas41@example.com,Charlotte,NC,South,Corporate,Bronze,2024-07-29
+CUST-00561,Andrew,Johnson,andrew.johnson8@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-10-06
+CUST-00562,Michael,Anderson,michael.anderson72@example.com,Baltimore,MD,East,Consumer,Gold,2023-12-19
+CUST-00563,Mary,Wilson,mary.wilson78@example.com,Chicago,IL,North,Consumer,Silver,2024-10-26
+CUST-00564,Paul,Garcia,paul.garcia66@example.com,Baltimore,MD,East,Consumer,Silver,2023-03-22
+CUST-00565,Matthew,Martin,matthew.martin19@example.com,Pittsburgh,PA,East,Corporate,Silver,2023-12-12
+CUST-00566,Anthony,Lee,anthony.lee44@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-10-26
+CUST-00567,Sarah,Martin,sarah.martin47@example.com,Seattle,WA,West,Corporate,Silver,2024-04-06
+CUST-00568,Anthony,Garcia,anthony.garcia31@example.com,Atlanta,GA,South,Corporate,Platinum,2023-03-23
+CUST-00569,Susan,Garcia,susan.garcia61@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-02-11
+CUST-00570,Kimberly,Harris,kimberly.harris20@example.com,New York,NY,North,Consumer,Platinum,2024-02-04
+CUST-00571,Karen,Davis,karen.davis17@example.com,Dallas,TX,South,Consumer,Gold,2023-01-30
+CUST-00572,Robert,Perez,robert.perez60@example.com,Baltimore,MD,East,Small Business,Silver,2023-10-06
+CUST-00573,Emily,Anderson,emily.anderson77@example.com,Charlotte,NC,South,Consumer,Silver,2024-07-31
+CUST-00574,Margaret,Taylor,margaret.taylor30@example.com,Baltimore,MD,East,Corporate,Bronze,2024-01-10
+CUST-00575,Anthony,Rodriguez,,Dallas,TX,South,Consumer,Gold,2023-05-20
+CUST-00576,Daniel,Martinez,,Phoenix,AZ,West,Small Business,Platinum,2024-05-03
+CUST-00577,Karen,Smith,karen.smith1@example.com,Seattle,WA,West,Consumer,Bronze,2024-07-28
+CUST-00578,Margaret,Gonzalez,margaret.gonzalez83@example.com,Miami,FL,South,Consumer,Bronze,2023-09-27
+CUST-00579,Jennifer,Wilson,jennifer.wilson79@example.com,Charlotte,NC,South,Corporate,Silver,2023-10-19
+CUST-00580,Paul,Sanchez,paul.sanchez9@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-10-14
+CUST-00581,Sandra,Martin,sandra.martin63@example.com,Seattle,WA,West,Consumer,Bronze,2023-02-20
+CUST-00582,Paul,Smith,paul.smith17@example.com,Atlanta,GA,South,Corporate,Silver,2023-08-27
+CUST-00583,Jennifer,Jones,jennifer.jones54@example.com,Detroit,MI,North,Consumer,Gold,2024-01-16
+CUST-00584,Sandra,Thompson,sandra.thompson97@example.com,Chicago,IL,North,Small Business,Bronze,2024-02-06
+CUST-00585,John,Moore,john.moore33@example.com,San Francisco,CA,West,Corporate,Gold,2023-05-05
+CUST-00586,Jessica,Gonzalez,jessica.gonzalez5@example.com,San Francisco,CA,West,Consumer,Silver,2023-04-07
+CUST-00587,Kimberly,Perez,kimberly.perez40@example.com,Houston,TX,South,Small Business,Bronze,2023-02-13
+CUST-00588,Emily,Taylor,emily.taylor39@example.com,Chicago,IL,North,Consumer,Gold,2024-11-13
+CUST-00589,Susan,Brown,susan.brown22@example.com,Houston,TX,South,Corporate,Silver,2024-02-10
+CUST-00590,Jessica,Smith,jessica.smith20@example.com,Detroit,MI,North,Consumer,Bronze,2023-06-11
+CUST-00591,Ashley,Williams,ashley.williams83@example.com,Philadelphia,PA,East,Consumer,Silver,2023-04-20
+CUST-00592,David,Thomas,david.thomas83@example.com,Dallas,TX,South,Corporate,Gold,2024-03-25
+CUST-00593,Richard,Smith,richard.smith33@example.com,Seattle,WA,West,Corporate,Silver,2024-03-24
+CUST-00594,Emily,Martinez,emily.martinez70@example.com,San Francisco,CA,West,Consumer,Silver,2023-10-09
+CUST-00595,Joshua,Robinson,joshua.robinson58@example.com,Atlanta,GA,South,Consumer,Bronze,2024-01-11
+CUST-00596,Sandra,Smith,sandra.smith80@example.com,San Francisco,CA,West,Corporate,Gold,2023-09-02
+CUST-00597,Christopher,White,christopher.white88@example.com,Detroit,MI,North,Consumer,Silver,2024-09-19
+CUST-00598,Charles,Hernandez,charles.hernandez67@example.com,Seattle,WA,West,Corporate,Bronze,2023-05-13
+CUST-00599,Barbara,Ramirez,barbara.ramirez25@example.com,Boston,MA,North,Consumer,Silver,2024-02-02
+CUST-00600,Ashley,Taylor,ashley.taylor78@example.com,Philadelphia,PA,East,Corporate,Bronze,2023-08-02
+CUST-00601,Ashley,Robinson,ashley.robinson8@example.com,Detroit,MI,North,Consumer,Silver,2024-03-01
+CUST-00602,Lisa,Sanchez,lisa.sanchez94@example.com,Chicago,IL,North,Consumer,Bronze,2023-08-10
+CUST-00603,Kimberly,Brown,kimberly.brown25@example.com,Boston,MA,North,Consumer,Silver,2024-08-06
+CUST-00604,Barbara,Moore,barbara.moore74@example.com,Los Angeles,CA,West,Consumer,Silver,2024-11-12
+CUST-00605,Margaret,Lewis,margaret.lewis71@example.com,Boston,MA,North,Consumer,Bronze,2023-06-11
+CUST-00606,Paul,Martin,paul.martin71@example.com,Seattle,WA,West,Small Business,Bronze,2024-01-16
+CUST-00607,Anthony,Harris,anthony.harris73@example.com,Seattle,WA,West,Consumer,Bronze,2024-07-17
+CUST-00608,Thomas,Lopez,thomas.lopez1@example.com,Denver,CO,West,Corporate,Platinum,2024-09-02
+CUST-00609,Mary,Taylor,,Dallas,TX,South,Small Business,Bronze,2023-11-19
+CUST-00610,Mary,Harris,mary.harris59@example.com,Washington,DC,East,Consumer,Bronze,2024-01-11
+CUST-00611,Donna,Davis,donna.davis12@example.com,Dallas,TX,South,Consumer,Silver,2023-08-11
+CUST-00612,John,White,john.white89@example.com,Pittsburgh,PA,East,Corporate,Gold,2023-04-08
+CUST-00613,Joshua,Lee,joshua.lee74@example.com,Philadelphia,PA,East,Consumer,Gold,2023-12-09
+CUST-00614,Daniel,Lewis,daniel.lewis16@example.com,Denver,CO,West,Corporate,Bronze,2024-10-30
+CUST-00615,Joshua,Robinson,joshua.robinson68@example.com,Detroit,MI,North,Consumer,Silver,2023-06-03
+CUST-00616,Christopher,Taylor,christopher.taylor94@example.com,Miami,FL,South,Small Business,Platinum,2024-09-01
+CUST-00617,Andrew,Taylor,andrew.taylor51@example.com,Boston,MA,North,Consumer,Bronze,2024-05-02
+CUST-00618,Andrew,White,andrew.white52@example.com,Detroit,MI,North,Consumer,Gold,2023-05-14
+CUST-00619,David,Thomas,david.thomas74@example.com,Houston,TX,South,Consumer,Silver,2024-06-20
+CUST-00620,Jessica,Davis,jessica.davis42@example.com,Chicago,IL,North,Corporate,Silver,2023-04-26
+CUST-00621,Anthony,Wilson,anthony.wilson45@example.com,Baltimore,MD,East,Consumer,Bronze,2023-11-09
+CUST-00622,William,Lopez,william.lopez6@example.com,Phoenix,AZ,West,Small Business,Bronze,2024-01-18
+CUST-00623,Elizabeth,Harris,elizabeth.harris32@example.com,New York,NY,North,Small Business,Gold,2023-10-22
+CUST-00624,James,Hernandez,james.hernandez3@example.com,Chicago,IL,North,Consumer,Silver,2023-08-05
+CUST-00625,Susan,Moore,susan.moore19@example.com,Pittsburgh,PA,East,Corporate,Silver,2024-01-21
+CUST-00626,Donna,Lewis,donna.lewis37@example.com,Chicago,IL,North,Consumer,Silver,2023-10-05
+CUST-00627,Patricia,Anderson,patricia.anderson35@example.com,New York,NY,North,Corporate,Gold,2024-01-04
+CUST-00628,Michael,Smith,michael.smith49@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-11-20
+CUST-00629,Ashley,Ramirez,ashley.ramirez59@example.com,Boston,MA,North,Consumer,Silver,2023-02-10
+CUST-00630,Jessica,Robinson,jessica.robinson96@example.com,Baltimore,MD,East,Consumer,Bronze,2023-12-27
+CUST-00631,Daniel,Lee,daniel.lee65@example.com,Washington,DC,East,Consumer,Bronze,2023-09-21
+CUST-00632,Matthew,Lewis,matthew.lewis44@example.com,Chicago,IL,North,Corporate,Silver,2023-03-31
+CUST-00633,Matthew,Taylor,matthew.taylor20@example.com,Houston,TX,South,Consumer,Bronze,2024-09-11
+CUST-00634,Nancy,Anderson,nancy.anderson75@example.com,Miami,FL,South,Consumer,Gold,2023-05-22
+CUST-00635,Karen,Thompson,karen.thompson99@example.com,Houston,TX,South,Consumer,Platinum,2023-06-11
+CUST-00636,Christopher,Williams,christopher.williams19@example.com,Boston,MA,North,Corporate,Gold,2024-02-28
+CUST-00637,Anthony,Martinez,anthony.martinez25@example.com,Seattle,WA,West,Consumer,Bronze,2024-09-18
+CUST-00638,Michelle,Rodriguez,michelle.rodriguez88@example.com,Charlotte,NC,South,Consumer,Bronze,2024-05-03
+CUST-00639,David,Taylor,david.taylor50@example.com,Seattle,WA,West,Consumer,Bronze,2023-07-17
+CUST-00640,Joseph,Johnson,joseph.johnson53@example.com,Los Angeles,CA,West,Consumer,Silver,2023-07-27
+CUST-00641,Susan,Williams,susan.williams63@example.com,Houston,TX,South,Corporate,Gold,2023-09-10
+CUST-00642,Margaret,Gonzalez,margaret.gonzalez51@example.com,Detroit,MI,North,Consumer,Silver,2024-08-31
+CUST-00643,Paul,Taylor,paul.taylor6@example.com,New York,NY,North,Corporate,Bronze,2024-07-04
+CUST-00644,Betty,White,betty.white81@example.com,Detroit,MI,North,Small Business,Bronze,2024-03-26
+CUST-00645,Betty,Lewis,betty.lewis55@example.com,Baltimore,MD,East,Consumer,Gold,2024-06-13
+CUST-00646,Elizabeth,Anderson,elizabeth.anderson15@example.com,Los Angeles,CA,West,Consumer,Silver,2024-07-13
+CUST-00647,David,Gonzalez,david.gonzalez23@example.com,Seattle,WA,West,Consumer,Gold,2023-07-26
+CUST-00648,Sandra,Williams,sandra.williams92@example.com,Baltimore,MD,East,Corporate,Silver,2023-05-07
+CUST-00649,Jennifer,Brown,jennifer.brown91@example.com,Seattle,WA,West,Consumer,Gold,2024-06-07
+CUST-00650,Michelle,Walker,michelle.walker6@example.com,Houston,TX,South,Corporate,Gold,2024-08-02
+CUST-00651,Elizabeth,Garcia,elizabeth.garcia7@example.com,Miami,FL,South,Consumer,Bronze,2024-04-01
+CUST-00652,Charles,Lee,charles.lee26@example.com,Atlanta,GA,South,Consumer,Gold,2023-01-13
+CUST-00653,Sandra,Thomas,sandra.thomas78@example.com,Phoenix,AZ,West,Corporate,Bronze,2024-08-25
+CUST-00654,Donald,Anderson,donald.anderson77@example.com,Denver,CO,West,Consumer,Gold,2023-10-12
+CUST-00655,Michelle,Lee,michelle.lee8@example.com,Atlanta,GA,South,Corporate,Bronze,2023-02-03
+CUST-00656,Andrew,Clark,andrew.clark7@example.com,Baltimore,MD,East,Consumer,Platinum,2023-06-15
+CUST-00657,Charles,Martin,charles.martin47@example.com,Houston,TX,South,Small Business,Bronze,2023-11-03
+CUST-00658,Christopher,Lopez,christopher.lopez71@example.com,Los Angeles,CA,West,Consumer,Silver,2023-05-05
+CUST-00659,Sarah,Hernandez,sarah.hernandez27@example.com,Phoenix,AZ,West,Consumer,Bronze,2024-10-06
+CUST-00660,Kimberly,Williams,kimberly.williams91@example.com,Phoenix,AZ,West,Consumer,Silver,2023-11-21
+CUST-00661,Thomas,Taylor,thomas.taylor64@example.com,Washington,DC,East,Consumer,Silver,2024-05-19
+CUST-00662,Barbara,Lewis,barbara.lewis1@example.com,Dallas,TX,South,Consumer,Silver,2023-05-01
+CUST-00663,Susan,Sanchez,susan.sanchez45@example.com,Denver,CO,West,Consumer,Silver,2023-01-12
+CUST-00664,Richard,Thompson,richard.thompson40@example.com,Baltimore,MD,East,Consumer,Silver,2023-01-07
+CUST-00665,Linda,Perez,linda.perez73@example.com,Baltimore,MD,East,Consumer,Bronze,2023-06-29
+CUST-00666,Richard,Hernandez,richard.hernandez5@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-10-04
+CUST-00667,Sandra,Lewis,sandra.lewis53@example.com,Pittsburgh,PA,East,Small Business,Bronze,2024-06-17
+CUST-00668,Karen,Jackson,karen.jackson88@example.com,Philadelphia,PA,East,Consumer,Gold,2023-12-29
+CUST-00669,John,Jones,john.jones49@example.com,Philadelphia,PA,East,Consumer,Gold,2024-08-07
+CUST-00670,Joshua,Gonzalez,joshua.gonzalez97@example.com,Charlotte,NC,South,Consumer,Gold,2023-02-02
+CUST-00671,Sarah,Wilson,sarah.wilson48@example.com,Detroit,MI,North,Consumer,Platinum,2023-08-10
+CUST-00672,Kimberly,Martinez,kimberly.martinez5@example.com,Atlanta,GA,South,Corporate,Gold,2024-03-30
+CUST-00673,Steven,Smith,steven.smith44@example.com,Phoenix,AZ,West,Small Business,Silver,2024-06-20
+CUST-00674,Karen,Harris,karen.harris13@example.com,Washington,DC,East,Corporate,Platinum,2024-11-23
+CUST-00675,David,Miller,david.miller67@example.com,Detroit,MI,North,Consumer,Bronze,2023-02-15
+CUST-00676,Joshua,Ramirez,joshua.ramirez6@example.com,Chicago,IL,North,Consumer,Gold,2023-11-16
+CUST-00677,Mary,Jackson,mary.jackson25@example.com,Washington,DC,East,Consumer,Silver,2024-03-27
+CUST-00678,Linda,Rodriguez,linda.rodriguez2@example.com,Miami,FL,South,Small Business,Silver,2023-04-15
+CUST-00679,Susan,Moore,susan.moore91@example.com,Baltimore,MD,East,Corporate,Silver,2023-06-25
+CUST-00680,John,Martinez,john.martinez4@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-04-19
+CUST-00681,Matthew,Johnson,matthew.johnson91@example.com,Detroit,MI,North,Consumer,Silver,2024-04-01
+CUST-00682,Michelle,Lopez,michelle.lopez92@example.com,Baltimore,MD,East,Corporate,Gold,2023-03-22
+CUST-00683,Sandra,Jackson,sandra.jackson90@example.com,Atlanta,GA,South,Consumer,Silver,2024-12-01
+CUST-00684,Sandra,Thomas,sandra.thomas79@example.com,Miami,FL,South,Consumer,Bronze,2023-07-07
+CUST-00685,Nancy,Sanchez,nancy.sanchez9@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-04-17
+CUST-00686,William,Martinez,william.martinez52@example.com,Washington,DC,East,Corporate,Gold,2023-11-30
+CUST-00687,Emily,Lee,emily.lee52@example.com,Chicago,IL,North,Consumer,Bronze,2023-09-07
+CUST-00688,Emily,Garcia,emily.garcia27@example.com,Denver,CO,West,Corporate,Silver,2024-03-21
+CUST-00689,Andrew,Sanchez,andrew.sanchez86@example.com,Washington,DC,East,Consumer,Platinum,2024-08-10
+CUST-00690,Ashley,Brown,ashley.brown57@example.com,Seattle,WA,West,Consumer,Platinum,2023-03-13
+CUST-00691,Joshua,Brown,joshua.brown85@example.com,Seattle,WA,West,Consumer,Bronze,2023-05-23
+CUST-00692,Donna,Lewis,donna.lewis58@example.com,Boston,MA,North,Consumer,Bronze,2024-08-14
+CUST-00693,Mark,Miller,mark.miller87@example.com,Dallas,TX,South,Consumer,Platinum,2024-03-21
+CUST-00694,Daniel,Williams,daniel.williams38@example.com,Detroit,MI,North,Consumer,Gold,2023-02-24
+CUST-00695,James,Thompson,james.thompson4@example.com,Philadelphia,PA,East,Consumer,Silver,2024-02-08
+CUST-00696,Christopher,Thompson,christopher.thompson70@example.com,Denver,CO,West,Consumer,Bronze,2023-05-23
+CUST-00697,Richard,Moore,richard.moore20@example.com,Seattle,WA,West,Consumer,Gold,2023-05-09
+CUST-00698,David,Smith,david.smith63@example.com,New York,NY,North,Corporate,Platinum,2023-05-20
+CUST-00699,Jennifer,Jones,jennifer.jones90@example.com,Denver,CO,West,Consumer,Bronze,2023-07-04
+CUST-00700,Sandra,Taylor,sandra.taylor50@example.com,Phoenix,AZ,West,Consumer,Bronze,2024-09-11
+CUST-00701,James,Jackson,james.jackson35@example.com,San Francisco,CA,West,Consumer,Silver,2024-01-11
+CUST-00702,Robert,Johnson,robert.johnson62@example.com,Seattle,WA,West,Small Business,Bronze,2024-06-23
+CUST-00703,Sarah,Anderson,sarah.anderson81@example.com,New York,NY,North,Corporate,Platinum,2023-03-21
+CUST-00704,Paul,Sanchez,paul.sanchez69@example.com,Philadelphia,PA,East,Corporate,Silver,2024-06-08
+CUST-00705,Donald,Jackson,donald.jackson38@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-09-03
+CUST-00706,Karen,White,karen.white75@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-10-26
+CUST-00707,Michelle,Smith,michelle.smith65@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-09-16
+CUST-00708,David,Martin,david.martin2@example.com,Baltimore,MD,East,Corporate,Silver,2024-08-28
+CUST-00709,Elizabeth,Perez,elizabeth.perez34@example.com,Seattle,WA,West,Corporate,Bronze,2023-07-05
+CUST-00710,Kimberly,Ramirez,kimberly.ramirez19@example.com,Chicago,IL,North,Consumer,Gold,2024-05-22
+CUST-00711,Anthony,Harris,anthony.harris93@example.com,San Francisco,CA,West,Consumer,Bronze,2023-12-20
+CUST-00712,Patricia,Lee,patricia.lee60@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-06-29
+CUST-00713,Joseph,Gonzalez,joseph.gonzalez68@example.com,Denver,CO,West,Corporate,Bronze,2024-04-04
+CUST-00714,Matthew,Perez,matthew.perez69@example.com,Philadelphia,PA,East,Consumer,Platinum,2024-03-18
+CUST-00715,Michelle,Robinson,michelle.robinson13@example.com,Baltimore,MD,East,Consumer,Silver,2024-04-17
+CUST-00716,Jessica,White,jessica.white89@example.com,Charlotte,NC,South,Small Business,Bronze,2023-01-11
+CUST-00717,James,Clark,james.clark68@example.com,New York,NY,North,Consumer,Bronze,2023-08-13
+CUST-00718,Charles,Rodriguez,,Atlanta,GA,South,Consumer,Platinum,2024-11-03
+CUST-00719,Susan,Walker,susan.walker78@example.com,New York,NY,North,Consumer,Silver,2024-10-25
+CUST-00720,Andrew,Sanchez,andrew.sanchez33@example.com,Atlanta,GA,South,Consumer,Silver,2023-03-19
+CUST-00721,Sandra,Robinson,sandra.robinson86@example.com,Pittsburgh,PA,East,Corporate,Bronze,2023-06-15
+CUST-00722,John,Rodriguez,john.rodriguez8@example.com,Detroit,MI,North,Consumer,Gold,2023-07-02
+CUST-00723,Mark,Williams,mark.williams23@example.com,San Francisco,CA,West,Consumer,Bronze,2024-07-07
+CUST-00724,Margaret,Miller,margaret.miller14@example.com,Detroit,MI,North,Consumer,Bronze,2023-09-14
+CUST-00725,Mark,Smith,mark.smith1@example.com,San Francisco,CA,West,Small Business,Silver,2023-09-30
+CUST-00726,Elizabeth,Thompson,elizabeth.thompson66@example.com,Pittsburgh,PA,East,Corporate,Gold,2024-05-04
+CUST-00727,Margaret,Gonzalez,,Boston,MA,North,Small Business,Gold,2024-05-08
+CUST-00728,Linda,Jackson,linda.jackson52@example.com,Baltimore,MD,East,Consumer,Platinum,2024-10-24
+CUST-00729,Jennifer,Lopez,jennifer.lopez98@example.com,Philadelphia,PA,East,Corporate,Silver,2023-06-30
+CUST-00730,Emily,Johnson,emily.johnson50@example.com,San Francisco,CA,West,Corporate,Silver,2024-01-03
+CUST-00731,Ashley,Williams,ashley.williams25@example.com,San Francisco,CA,West,Consumer,Platinum,2023-09-02
+CUST-00732,Ashley,Gonzalez,ashley.gonzalez58@example.com,Chicago,IL,North,Small Business,Bronze,2023-12-14
+CUST-00733,Patricia,Hernandez,patricia.hernandez84@example.com,Detroit,MI,North,Corporate,Silver,2024-11-25
+CUST-00734,Paul,Jones,paul.jones19@example.com,Atlanta,GA,South,Consumer,Bronze,2024-09-25
+CUST-00735,Robert,Davis,robert.davis7@example.com,Atlanta,GA,South,Small Business,Gold,2023-04-10
+CUST-00736,Sandra,Martin,sandra.martin14@example.com,Charlotte,NC,South,Consumer,Silver,2024-09-22
+CUST-00737,Joseph,Williams,joseph.williams95@example.com,Houston,TX,South,Corporate,Bronze,2024-12-01
+CUST-00738,Andrew,Moore,andrew.moore28@example.com,Dallas,TX,South,Corporate,Silver,2023-12-10
+CUST-00739,John,Brown,john.brown22@example.com,Washington,DC,East,Corporate,Silver,2024-03-25
+CUST-00740,Jessica,Robinson,jessica.robinson81@example.com,Boston,MA,North,Consumer,Gold,2023-01-17
+CUST-00741,Ashley,Williams,ashley.williams12@example.com,New York,NY,North,Corporate,Silver,2023-10-18
+CUST-00742,Anthony,Thompson,anthony.thompson82@example.com,San Francisco,CA,West,Consumer,Silver,2023-09-02
+CUST-00743,Barbara,Martin,barbara.martin79@example.com,Boston,MA,North,Small Business,Silver,2023-11-05
+CUST-00744,Daniel,Wilson,daniel.wilson68@example.com,Boston,MA,North,Small Business,Silver,2024-07-06
+CUST-00745,Steven,Davis,steven.davis25@example.com,San Francisco,CA,West,Consumer,Bronze,2024-04-30
+CUST-00746,Ashley,Garcia,ashley.garcia47@example.com,Atlanta,GA,South,Consumer,Bronze,2023-12-09
+CUST-00747,Michelle,Sanchez,michelle.sanchez7@example.com,Los Angeles,CA,West,Small Business,Bronze,2023-01-30
+CUST-00748,Ashley,Taylor,ashley.taylor93@example.com,New York,NY,North,Consumer,Silver,2024-03-05
+CUST-00749,Richard,White,richard.white42@example.com,Washington,DC,East,Consumer,Bronze,2024-02-27
+CUST-00750,Richard,Gonzalez,richard.gonzalez63@example.com,Atlanta,GA,South,Consumer,Bronze,2023-08-10
+CUST-00751,Michelle,Anderson,michelle.anderson59@example.com,Houston,TX,South,Corporate,Silver,2023-10-04
+CUST-00752,Richard,Hernandez,richard.hernandez8@example.com,Atlanta,GA,South,Consumer,Bronze,2024-04-21
+CUST-00753,Sandra,Wilson,sandra.wilson38@example.com,Dallas,TX,South,Consumer,Gold,2024-10-15
+CUST-00754,Michelle,Lewis,michelle.lewis30@example.com,Charlotte,NC,South,Consumer,Gold,2024-05-15
+CUST-00755,Susan,Jackson,susan.jackson94@example.com,Denver,CO,West,Consumer,Gold,2023-09-11
+CUST-00756,Christopher,Wilson,christopher.wilson74@example.com,Charlotte,NC,South,Corporate,Bronze,2023-02-15
+CUST-00757,Robert,Thomas,robert.thomas62@example.com,Detroit,MI,North,Corporate,Silver,2023-04-11
+CUST-00758,Mark,Thomas,mark.thomas2@example.com,Atlanta,GA,South,Corporate,Bronze,2023-08-12
+CUST-00759,David,Lopez,david.lopez12@example.com,Washington,DC,East,Consumer,Silver,2023-06-15
+CUST-00760,Sandra,Ramirez,sandra.ramirez18@example.com,Detroit,MI,North,Corporate,Bronze,2024-01-15
+CUST-00761,Sandra,Thompson,sandra.thompson89@example.com,New York,NY,North,Consumer,Bronze,2024-03-12
+CUST-00762,Sarah,Thompson,sarah.thompson43@example.com,Atlanta,GA,South,Corporate,Bronze,2024-11-21
+CUST-00763,Lisa,Lewis,lisa.lewis60@example.com,New York,NY,North,Consumer,Bronze,2023-06-29
+CUST-00764,Emily,Thompson,emily.thompson43@example.com,Boston,MA,North,Consumer,Bronze,2024-05-04
+CUST-00765,Donna,Ramirez,donna.ramirez35@example.com,Miami,FL,South,Consumer,Bronze,2023-02-25
+CUST-00766,John,Lopez,john.lopez68@example.com,Pittsburgh,PA,East,Corporate,Silver,2024-06-28
+CUST-00767,Paul,Lewis,paul.lewis87@example.com,Pittsburgh,PA,East,Small Business,Gold,2023-03-09
+CUST-00768,Richard,Lewis,richard.lewis23@example.com,Los Angeles,CA,West,Consumer,Platinum,2023-04-22
+CUST-00769,William,Rodriguez,william.rodriguez27@example.com,Boston,MA,North,Consumer,Silver,2023-10-28
+CUST-00770,Anthony,Perez,anthony.perez57@example.com,Houston,TX,South,Corporate,Bronze,2023-07-13
+CUST-00771,John,Smith,john.smith53@example.com,Charlotte,NC,South,Consumer,Silver,2023-12-01
+CUST-00772,Ashley,Jackson,ashley.jackson17@example.com,Denver,CO,West,Corporate,Bronze,2023-09-24
+CUST-00773,Joseph,Thomas,joseph.thomas7@example.com,Baltimore,MD,East,Consumer,Bronze,2023-06-20
+CUST-00774,Michelle,Robinson,michelle.robinson23@example.com,Charlotte,NC,South,Corporate,Silver,2024-11-13
+CUST-00775,Elizabeth,Garcia,elizabeth.garcia41@example.com,Atlanta,GA,South,Consumer,Bronze,2024-01-14
+CUST-00776,Barbara,Miller,barbara.miller19@example.com,Chicago,IL,North,Consumer,Silver,2023-06-16
+CUST-00777,Paul,Martinez,paul.martinez64@example.com,New York,NY,North,Corporate,Platinum,2023-11-24
+CUST-00778,Elizabeth,Smith,elizabeth.smith38@example.com,Baltimore,MD,East,Small Business,Gold,2024-08-10
+CUST-00779,Elizabeth,Sanchez,elizabeth.sanchez94@example.com,Seattle,WA,West,Consumer,Bronze,2024-11-25
+CUST-00780,Emily,Brown,emily.brown29@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-02-26
+CUST-00781,Joshua,Lee,joshua.lee99@example.com,Charlotte,NC,South,Consumer,Bronze,2024-07-05
+CUST-00782,Mark,Perez,mark.perez41@example.com,Detroit,MI,North,Consumer,Silver,2023-02-27
+CUST-00783,Lisa,Gonzalez,lisa.gonzalez48@example.com,Houston,TX,South,Consumer,Bronze,2023-11-12
+CUST-00784,Mark,Ramirez,mark.ramirez57@example.com,Boston,MA,North,Corporate,Bronze,2024-03-29
+CUST-00785,Charles,Garcia,charles.garcia76@example.com,Denver,CO,West,Consumer,Bronze,2023-11-07
+CUST-00786,Donald,Ramirez,donald.ramirez76@example.com,Philadelphia,PA,East,Corporate,Bronze,2024-02-24
+CUST-00787,Sarah,Wilson,sarah.wilson73@example.com,Charlotte,NC,South,Corporate,Bronze,2023-07-10
+CUST-00788,Matthew,Martinez,matthew.martinez39@example.com,Los Angeles,CA,West,Corporate,Bronze,2024-07-26
+CUST-00789,Sandra,Davis,sandra.davis39@example.com,New York,NY,North,Small Business,Gold,2024-04-28
+CUST-00790,Linda,Lee,linda.lee89@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-10-11
+CUST-00791,Ashley,Williams,ashley.williams34@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-05-03
+CUST-00792,Lisa,Taylor,lisa.taylor8@example.com,Chicago,IL,North,Consumer,Silver,2023-05-19
+CUST-00793,Daniel,Garcia,daniel.garcia82@example.com,Chicago,IL,North,Small Business,Bronze,2023-10-24
+CUST-00794,Charles,Taylor,charles.taylor24@example.com,Boston,MA,North,Corporate,Silver,2023-06-21
+CUST-00795,Paul,Hernandez,paul.hernandez90@example.com,Baltimore,MD,East,Corporate,Bronze,2024-08-16
+CUST-00796,Daniel,Clark,daniel.clark37@example.com,Atlanta,GA,South,Consumer,Silver,2023-12-15
+CUST-00797,William,Brown,william.brown25@example.com,Miami,FL,South,Corporate,Silver,2024-06-22
+CUST-00798,Paul,Thompson,paul.thompson10@example.com,Detroit,MI,North,Consumer,Bronze,2023-01-18
+CUST-00799,Donald,Lopez,donald.lopez57@example.com,Baltimore,MD,East,Corporate,Silver,2023-12-17
+CUST-00800,Barbara,Thompson,barbara.thompson16@example.com,Philadelphia,PA,East,Consumer,Gold,2023-05-26
+CUST-00801,Joseph,Martinez,joseph.martinez11@example.com,Miami,FL,South,Consumer,Gold,2023-04-25
+CUST-00802,John,Smith,john.smith14@example.com,Denver,CO,West,Consumer,Silver,2024-08-30
+CUST-00803,Patricia,Thomas,patricia.thomas39@example.com,Chicago,IL,North,Corporate,Gold,2023-05-07
+CUST-00804,Joshua,Miller,joshua.miller4@example.com,Miami,FL,South,Consumer,Gold,2023-10-12
+CUST-00805,Donna,Lopez,donna.lopez94@example.com,Washington,DC,East,Consumer,Silver,2023-03-11
+CUST-00806,Michael,Clark,michael.clark37@example.com,Boston,MA,North,Consumer,Gold,2023-01-05
+CUST-00807,Michael,Robinson,michael.robinson61@example.com,Charlotte,NC,South,Consumer,Silver,2024-03-26
+CUST-00808,Michael,Garcia,michael.garcia66@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-11-18
+CUST-00809,Linda,Anderson,linda.anderson47@example.com,Boston,MA,North,Corporate,Silver,2023-02-11
+CUST-00810,Jennifer,Hernandez,jennifer.hernandez59@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-03-30
+CUST-00811,Joseph,Moore,joseph.moore55@example.com,Seattle,WA,West,Consumer,Bronze,2024-05-02
+CUST-00812,Lisa,Garcia,lisa.garcia51@example.com,Detroit,MI,North,Consumer,Silver,2023-03-29
+CUST-00813,Linda,Jones,linda.jones14@example.com,Denver,CO,West,Corporate,Gold,2023-06-22
+CUST-00814,John,Lopez,john.lopez52@example.com,Dallas,TX,South,Consumer,Gold,2024-05-26
+CUST-00815,Sarah,Harris,sarah.harris86@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-05-11
+CUST-00816,Steven,Rodriguez,steven.rodriguez33@example.com,Houston,TX,South,Consumer,Bronze,2023-05-18
+CUST-00817,Mary,Brown,mary.brown4@example.com,New York,NY,North,Small Business,Bronze,2024-11-26
+CUST-00818,Christopher,Jones,christopher.jones85@example.com,Philadelphia,PA,East,Corporate,Gold,2024-04-22
+CUST-00819,Richard,Martinez,richard.martinez70@example.com,Denver,CO,West,Consumer,Gold,2024-07-13
+CUST-00820,Mary,Walker,mary.walker16@example.com,Detroit,MI,North,Consumer,Bronze,2024-01-21
+CUST-00821,Mark,Anderson,mark.anderson85@example.com,New York,NY,North,Corporate,Bronze,2023-06-18
+CUST-00822,Ashley,Wilson,ashley.wilson63@example.com,Dallas,TX,South,Corporate,Silver,2024-05-17
+CUST-00823,Emily,Perez,emily.perez21@example.com,Denver,CO,West,Consumer,Bronze,2024-05-21
+CUST-00824,Donna,Gonzalez,donna.gonzalez4@example.com,Baltimore,MD,East,Consumer,Bronze,2024-01-11
+CUST-00825,Daniel,Sanchez,daniel.sanchez55@example.com,Chicago,IL,North,Consumer,Bronze,2023-12-26
+CUST-00826,Patricia,Perez,patricia.perez40@example.com,Miami,FL,South,Consumer,Gold,2023-03-09
+CUST-00827,Karen,Brown,,Washington,DC,East,Consumer,Silver,2024-03-08
+CUST-00828,Andrew,Taylor,,Seattle,WA,West,Consumer,Bronze,2023-11-21
+CUST-00829,Matthew,Jackson,matthew.jackson63@example.com,Seattle,WA,West,Consumer,Silver,2023-12-11
+CUST-00830,Ashley,Taylor,ashley.taylor47@example.com,Washington,DC,East,Small Business,Bronze,2024-10-12
+CUST-00831,John,Clark,john.clark39@example.com,Dallas,TX,South,Small Business,Bronze,2023-08-20
+CUST-00832,Michelle,White,michelle.white35@example.com,New York,NY,North,Consumer,Gold,2024-05-01
+CUST-00833,Margaret,Miller,margaret.miller39@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-11-10
+CUST-00834,Paul,Hernandez,paul.hernandez80@example.com,Houston,TX,South,Consumer,Silver,2024-07-14
+CUST-00835,Barbara,Lewis,barbara.lewis28@example.com,Boston,MA,North,Corporate,Gold,2024-04-23
+CUST-00836,Sarah,Robinson,sarah.robinson8@example.com,Phoenix,AZ,West,Consumer,Bronze,2023-06-01
+CUST-00837,Jessica,Jones,jessica.jones9@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-10-01
+CUST-00838,Charles,Lee,charles.lee31@example.com,Dallas,TX,South,Consumer,Bronze,2023-07-16
+CUST-00839,Mary,Davis,mary.davis56@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-07-26
+CUST-00840,William,Rodriguez,william.rodriguez36@example.com,Atlanta,GA,South,Corporate,Bronze,2023-02-13
+CUST-00841,Ashley,Sanchez,ashley.sanchez11@example.com,New York,NY,North,Consumer,Bronze,2023-03-07
+CUST-00842,Anthony,Lewis,anthony.lewis93@example.com,Philadelphia,PA,East,Corporate,Bronze,2024-08-07
+CUST-00843,Steven,Robinson,steven.robinson12@example.com,Chicago,IL,North,Consumer,Bronze,2023-11-17
+CUST-00844,Nancy,Clark,nancy.clark28@example.com,San Francisco,CA,West,Consumer,Bronze,2023-10-09
+CUST-00845,Mark,Wilson,mark.wilson48@example.com,Philadelphia,PA,East,Corporate,Bronze,2024-07-12
+CUST-00846,Margaret,Thomas,margaret.thomas19@example.com,Dallas,TX,South,Consumer,Silver,2023-11-12
+CUST-00847,Mary,Lee,mary.lee86@example.com,New York,NY,North,Consumer,Silver,2023-11-13
+CUST-00848,Lisa,Lewis,lisa.lewis50@example.com,Boston,MA,North,Consumer,Platinum,2023-09-19
+CUST-00849,Karen,Williams,karen.williams21@example.com,Dallas,TX,South,Small Business,Silver,2024-10-21
+CUST-00850,Anthony,Sanchez,anthony.sanchez63@example.com,Chicago,IL,North,Consumer,Bronze,2023-12-07
+CUST-00851,Margaret,Lewis,margaret.lewis65@example.com,Boston,MA,North,Consumer,Bronze,2024-07-14
+CUST-00852,Christopher,Anderson,christopher.anderson24@example.com,New York,NY,North,Consumer,Gold,2023-05-20
+CUST-00853,James,Gonzalez,james.gonzalez11@example.com,Dallas,TX,South,Consumer,Bronze,2024-10-26
+CUST-00854,David,Ramirez,david.ramirez95@example.com,Seattle,WA,West,Consumer,Bronze,2024-08-30
+CUST-00855,Christopher,Sanchez,christopher.sanchez48@example.com,Washington,DC,East,Consumer,Gold,2024-08-07
+CUST-00856,Joseph,Smith,joseph.smith60@example.com,Boston,MA,North,Consumer,Silver,2023-06-22
+CUST-00857,Patricia,Gonzalez,patricia.gonzalez12@example.com,Phoenix,AZ,West,Small Business,Bronze,2024-08-03
+CUST-00858,Linda,Smith,linda.smith64@example.com,Denver,CO,West,Consumer,Silver,2023-07-15
+CUST-00859,Sarah,Martinez,sarah.martinez27@example.com,Denver,CO,West,Consumer,Platinum,2023-10-17
+CUST-00860,Richard,Wilson,richard.wilson4@example.com,Houston,TX,South,Consumer,Bronze,2024-09-24
+CUST-00861,Mark,Robinson,mark.robinson83@example.com,Dallas,TX,South,Consumer,Bronze,2023-05-17
+CUST-00862,Christopher,Thompson,christopher.thompson91@example.com,San Francisco,CA,West,Consumer,Silver,2023-03-16
+CUST-00863,Michael,Moore,michael.moore31@example.com,New York,NY,North,Consumer,Bronze,2024-09-12
+CUST-00864,Joshua,Thompson,joshua.thompson80@example.com,New York,NY,North,Consumer,Platinum,2024-11-18
+CUST-00865,Lisa,Jones,lisa.jones65@example.com,Boston,MA,North,Consumer,Bronze,2024-04-24
+CUST-00866,David,Williams,david.williams15@example.com,Pittsburgh,PA,East,Consumer,Platinum,2024-05-26
+CUST-00867,Sarah,White,sarah.white34@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-09-28
+CUST-00868,Kimberly,Hernandez,kimberly.hernandez63@example.com,San Francisco,CA,West,Corporate,Bronze,2024-11-04
+CUST-00869,Mark,Johnson,mark.johnson24@example.com,Miami,FL,South,Consumer,Bronze,2024-04-23
+CUST-00870,Margaret,Brown,margaret.brown91@example.com,Los Angeles,CA,West,Consumer,Silver,2023-04-26
+CUST-00871,Elizabeth,Brown,elizabeth.brown37@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-06-04
+CUST-00872,Sarah,Jackson,sarah.jackson1@example.com,Charlotte,NC,South,Consumer,Silver,2024-03-02
+CUST-00873,John,Davis,john.davis4@example.com,Los Angeles,CA,West,Consumer,Platinum,2023-05-05
+CUST-00874,Betty,Lopez,betty.lopez11@example.com,Chicago,IL,North,Consumer,Silver,2024-05-06
+CUST-00875,Sandra,Lee,sandra.lee6@example.com,Philadelphia,PA,East,Corporate,Platinum,2023-11-29
+CUST-00876,Andrew,Jones,andrew.jones37@example.com,Atlanta,GA,South,Consumer,Bronze,2023-03-14
+CUST-00877,Emily,Walker,emily.walker23@example.com,Los Angeles,CA,West,Consumer,Gold,2024-02-13
+CUST-00878,Jennifer,Smith,jennifer.smith52@example.com,Miami,FL,South,Consumer,Gold,2024-10-31
+CUST-00879,Elizabeth,Brown,elizabeth.brown95@example.com,Pittsburgh,PA,East,Corporate,Bronze,2024-09-09
+CUST-00880,David,Lopez,david.lopez63@example.com,Chicago,IL,North,Consumer,Bronze,2023-10-02
+CUST-00881,Andrew,Martin,andrew.martin48@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-03-12
+CUST-00882,Jennifer,Johnson,jennifer.johnson83@example.com,Pittsburgh,PA,East,Corporate,Bronze,2024-05-22
+CUST-00883,Kimberly,Lee,kimberly.lee11@example.com,Chicago,IL,North,Small Business,Silver,2023-06-02
+CUST-00884,David,Perez,david.perez38@example.com,Washington,DC,East,Consumer,Silver,2023-02-16
+CUST-00885,Steven,Brown,steven.brown85@example.com,Denver,CO,West,Corporate,Gold,2023-12-30
+CUST-00886,Thomas,Jackson,thomas.jackson85@example.com,New York,NY,North,Consumer,Gold,2024-02-07
+CUST-00887,Robert,Williams,robert.williams93@example.com,Seattle,WA,West,Consumer,Silver,2024-09-30
+CUST-00888,Thomas,Hernandez,thomas.hernandez96@example.com,Miami,FL,South,Small Business,Bronze,2024-11-20
+CUST-00889,Michael,Wilson,michael.wilson2@example.com,New York,NY,North,Consumer,Silver,2024-02-19
+CUST-00890,Joshua,White,joshua.white79@example.com,Seattle,WA,West,Consumer,Silver,2024-11-22
+CUST-00891,Betty,Sanchez,betty.sanchez2@example.com,Philadelphia,PA,East,Consumer,Gold,2023-07-12
+CUST-00892,Mary,Miller,mary.miller56@example.com,San Francisco,CA,West,Corporate,Gold,2024-07-05
+CUST-00893,Richard,Williams,richard.williams55@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-06-06
+CUST-00894,Mark,Walker,,Denver,CO,West,Consumer,Bronze,2023-10-29
+CUST-00895,Andrew,Clark,andrew.clark14@example.com,Los Angeles,CA,West,Consumer,Silver,2024-03-01
+CUST-00896,Ashley,White,ashley.white63@example.com,Philadelphia,PA,East,Consumer,Silver,2024-11-25
+CUST-00897,Ashley,Davis,ashley.davis41@example.com,New York,NY,North,Consumer,Bronze,2024-10-25
+CUST-00898,Anthony,Lewis,anthony.lewis83@example.com,Los Angeles,CA,West,Consumer,Silver,2023-01-22
+CUST-00899,William,Martinez,william.martinez30@example.com,Houston,TX,South,Consumer,Silver,2023-12-14
+CUST-00900,Joshua,Ramirez,joshua.ramirez93@example.com,San Francisco,CA,West,Corporate,Platinum,2024-11-20
+CUST-00901,Lisa,Sanchez,lisa.sanchez37@example.com,San Francisco,CA,West,Corporate,Bronze,2024-05-09
+CUST-00902,David,Garcia,david.garcia13@example.com,Miami,FL,South,Corporate,Platinum,2024-05-20
+CUST-00903,Karen,Davis,karen.davis3@example.com,Charlotte,NC,South,Consumer,Bronze,2024-11-24
+CUST-00904,William,Garcia,william.garcia15@example.com,New York,NY,North,Consumer,Bronze,2023-08-18
+CUST-00905,Ashley,Rodriguez,ashley.rodriguez99@example.com,Baltimore,MD,East,Corporate,Bronze,2023-06-04
+CUST-00906,Steven,Martin,steven.martin57@example.com,New York,NY,North,Corporate,Platinum,2023-04-24
+CUST-00907,Michael,Sanchez,michael.sanchez22@example.com,New York,NY,North,Consumer,Gold,2024-01-06
+CUST-00908,William,White,william.white64@example.com,Pittsburgh,PA,East,Corporate,Bronze,2024-10-24
+CUST-00909,Lisa,Hernandez,lisa.hernandez57@example.com,Atlanta,GA,South,Small Business,Gold,2023-01-07
+CUST-00910,Jessica,Clark,jessica.clark22@example.com,Seattle,WA,West,Consumer,Bronze,2024-02-29
+CUST-00911,Lisa,Lee,lisa.lee68@example.com,Miami,FL,South,Consumer,Bronze,2024-03-15
+CUST-00912,Anthony,Robinson,anthony.robinson67@example.com,Denver,CO,West,Corporate,Bronze,2023-01-31
+CUST-00913,Mark,Jones,mark.jones41@example.com,New York,NY,North,Consumer,Gold,2024-03-20
+CUST-00914,Patricia,Gonzalez,patricia.gonzalez8@example.com,Boston,MA,North,Small Business,Platinum,2024-11-07
+CUST-00915,Kimberly,Martinez,kimberly.martinez90@example.com,Denver,CO,West,Consumer,Bronze,2023-11-18
+CUST-00916,Daniel,Smith,daniel.smith58@example.com,Washington,DC,East,Consumer,Gold,2024-10-01
+CUST-00917,Michelle,Lee,michelle.lee84@example.com,Seattle,WA,West,Consumer,Bronze,2023-11-05
+CUST-00918,Jennifer,Johnson,jennifer.johnson95@example.com,Pittsburgh,PA,East,Corporate,Silver,2024-07-07
+CUST-00919,Charles,Miller,charles.miller97@example.com,Chicago,IL,North,Consumer,Bronze,2024-07-06
+CUST-00920,Donna,Rodriguez,donna.rodriguez65@example.com,Dallas,TX,South,Consumer,Bronze,2024-01-17
+CUST-00921,Thomas,Lee,thomas.lee84@example.com,Philadelphia,PA,East,Small Business,Bronze,2024-08-09
+CUST-00922,James,Anderson,james.anderson75@example.com,Washington,DC,East,Consumer,Gold,2024-10-04
+CUST-00923,Paul,Ramirez,paul.ramirez86@example.com,Dallas,TX,South,Corporate,Silver,2024-11-19
+CUST-00924,David,Thompson,david.thompson14@example.com,Phoenix,AZ,West,Consumer,Silver,2024-01-05
+CUST-00925,Sandra,Brown,sandra.brown11@example.com,Houston,TX,South,Consumer,Bronze,2023-05-14
+CUST-00926,Donald,Miller,donald.miller68@example.com,Los Angeles,CA,West,Consumer,Silver,2024-02-09
+CUST-00927,Thomas,Jackson,thomas.jackson89@example.com,Denver,CO,West,Small Business,Silver,2024-03-02
+CUST-00928,William,Jones,william.jones17@example.com,Houston,TX,South,Small Business,Silver,2024-06-25
+CUST-00929,Linda,Thompson,linda.thompson96@example.com,Houston,TX,South,Consumer,Silver,2023-05-02
+CUST-00930,Joshua,Ramirez,joshua.ramirez74@example.com,Los Angeles,CA,West,Consumer,Silver,2023-05-01
+CUST-00931,Lisa,Martinez,lisa.martinez4@example.com,Baltimore,MD,East,Corporate,Bronze,2024-08-26
+CUST-00932,Anthony,Johnson,anthony.johnson95@example.com,Baltimore,MD,East,Consumer,Bronze,2023-12-24
+CUST-00933,John,Ramirez,john.ramirez40@example.com,Detroit,MI,North,Consumer,Gold,2024-01-22
+CUST-00934,Donald,Clark,donald.clark59@example.com,Miami,FL,South,Corporate,Silver,2023-06-02
+CUST-00935,Christopher,Williams,christopher.williams51@example.com,Denver,CO,West,Consumer,Bronze,2024-11-17
+CUST-00936,Mark,White,mark.white91@example.com,Philadelphia,PA,East,Consumer,Silver,2023-11-13
+CUST-00937,Emily,Lee,emily.lee80@example.com,New York,NY,North,Consumer,Gold,2024-08-06
+CUST-00938,Kimberly,Miller,kimberly.miller16@example.com,Phoenix,AZ,West,Corporate,Silver,2023-01-20
+CUST-00939,Sarah,Sanchez,sarah.sanchez75@example.com,Miami,FL,South,Consumer,Gold,2024-09-13
+CUST-00940,Christopher,Gonzalez,christopher.gonzalez3@example.com,Detroit,MI,North,Consumer,Bronze,2023-01-25
+CUST-00941,Kimberly,Hernandez,kimberly.hernandez13@example.com,Seattle,WA,West,Consumer,Bronze,2023-07-07
+CUST-00942,Thomas,Harris,thomas.harris53@example.com,Boston,MA,North,Corporate,Bronze,2023-11-30
+CUST-00943,Barbara,Smith,barbara.smith41@example.com,Chicago,IL,North,Consumer,Gold,2023-09-22
+CUST-00944,Matthew,Walker,matthew.walker97@example.com,New York,NY,North,Consumer,Bronze,2024-06-04
+CUST-00945,Steven,Gonzalez,steven.gonzalez60@example.com,Chicago,IL,North,Consumer,Bronze,2023-01-30
+CUST-00946,Anthony,Lee,anthony.lee76@example.com,Atlanta,GA,South,Corporate,Bronze,2024-07-22
+CUST-00947,David,Martinez,david.martinez82@example.com,Denver,CO,West,Consumer,Gold,2023-05-26
+CUST-00948,Lisa,Moore,lisa.moore55@example.com,Miami,FL,South,Small Business,Silver,2023-02-12
+CUST-00949,James,Clark,james.clark22@example.com,Phoenix,AZ,West,Consumer,Platinum,2024-05-08
+CUST-00950,Sarah,Martin,sarah.martin81@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-10-16
+CUST-00951,Robert,Garcia,robert.garcia90@example.com,Chicago,IL,North,Consumer,Bronze,2024-07-23
+CUST-00952,Sarah,Lewis,sarah.lewis41@example.com,San Francisco,CA,West,Corporate,Platinum,2024-10-12
+CUST-00953,Thomas,Harris,thomas.harris42@example.com,Seattle,WA,West,Consumer,Silver,2024-09-05
+CUST-00954,Nancy,Smith,nancy.smith1@example.com,Atlanta,GA,South,Small Business,Silver,2024-02-28
+CUST-00955,Emily,Lewis,emily.lewis84@example.com,Denver,CO,West,Corporate,Silver,2024-11-18
+CUST-00956,Mark,Perez,mark.perez49@example.com,Chicago,IL,North,Corporate,Bronze,2023-07-01
+CUST-00957,James,Brown,james.brown57@example.com,Seattle,WA,West,Consumer,Silver,2023-10-15
+CUST-00958,Daniel,Miller,daniel.miller29@example.com,Chicago,IL,North,Consumer,Silver,2024-01-07
+CUST-00959,Robert,Rodriguez,robert.rodriguez26@example.com,Phoenix,AZ,West,Small Business,Silver,2023-04-24
+CUST-00960,Sarah,Jackson,sarah.jackson85@example.com,San Francisco,CA,West,Corporate,Silver,2024-09-09
+CUST-00961,Andrew,Garcia,andrew.garcia17@example.com,Boston,MA,North,Consumer,Silver,2023-08-22
+CUST-00962,Kimberly,White,kimberly.white3@example.com,Washington,DC,East,Small Business,Silver,2024-06-29
+CUST-00963,Michelle,Rodriguez,michelle.rodriguez83@example.com,Los Angeles,CA,West,Corporate,Silver,2023-11-27
+CUST-00964,Margaret,Ramirez,margaret.ramirez67@example.com,Seattle,WA,West,Consumer,Bronze,2023-02-14
+CUST-00965,Joseph,Johnson,joseph.johnson41@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-03-25
+CUST-00966,Andrew,Sanchez,andrew.sanchez55@example.com,Boston,MA,North,Small Business,Gold,2023-07-21
+CUST-00967,William,Hernandez,william.hernandez13@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-01-25
+CUST-00968,Donna,Sanchez,donna.sanchez61@example.com,Baltimore,MD,East,Consumer,Bronze,2023-02-25
+CUST-00969,Nancy,Taylor,nancy.taylor80@example.com,Atlanta,GA,South,Consumer,Bronze,2024-04-02
+CUST-00970,Donna,Brown,donna.brown49@example.com,New York,NY,North,Consumer,Gold,2023-03-08
+CUST-00971,David,Johnson,david.johnson81@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-02-27
+CUST-00972,Emily,Johnson,emily.johnson80@example.com,Pittsburgh,PA,East,Corporate,Bronze,2024-09-05
+CUST-00973,Michelle,Smith,michelle.smith55@example.com,Denver,CO,West,Corporate,Silver,2023-12-14
+CUST-00974,Mary,Anderson,mary.anderson2@example.com,Washington,DC,East,Consumer,Bronze,2023-07-18
+CUST-00975,Andrew,Jones,andrew.jones93@example.com,Baltimore,MD,East,Consumer,Bronze,2023-05-21
+CUST-00976,Robert,Johnson,robert.johnson66@example.com,Dallas,TX,South,Small Business,Gold,2023-11-15
+CUST-00977,Donna,Lewis,donna.lewis78@example.com,Miami,FL,South,Consumer,Bronze,2023-01-09
+CUST-00978,Kimberly,Jackson,kimberly.jackson72@example.com,Atlanta,GA,South,Corporate,Bronze,2023-07-20
+CUST-00979,Richard,Lee,richard.lee86@example.com,Atlanta,GA,South,Consumer,Silver,2024-04-23
+CUST-00980,Joshua,Thompson,joshua.thompson54@example.com,Baltimore,MD,East,Consumer,Bronze,2023-02-13
+CUST-00981,Ashley,Davis,ashley.davis60@example.com,Boston,MA,North,Consumer,Bronze,2023-12-06
+CUST-00982,Matthew,Miller,matthew.miller1@example.com,San Francisco,CA,West,Consumer,Bronze,2023-01-31
+CUST-00983,Emily,Brown,emily.brown81@example.com,Dallas,TX,South,Consumer,Gold,2023-02-14
+CUST-00984,Mary,Miller,mary.miller34@example.com,Dallas,TX,South,Corporate,Bronze,2024-07-21
+CUST-00985,Jessica,Garcia,jessica.garcia34@example.com,Atlanta,GA,South,Small Business,Bronze,2024-11-24
+CUST-00986,David,Gonzalez,david.gonzalez40@example.com,Chicago,IL,North,Consumer,Bronze,2024-01-17
+CUST-00987,William,Walker,william.walker17@example.com,Los Angeles,CA,West,Corporate,Bronze,2024-01-23
+CUST-00988,Lisa,Hernandez,lisa.hernandez98@example.com,San Francisco,CA,West,Consumer,Bronze,2024-07-02
+CUST-00989,Charles,Sanchez,charles.sanchez81@example.com,Dallas,TX,South,Corporate,Gold,2024-06-04
+CUST-00990,Donna,Lewis,donna.lewis61@example.com,San Francisco,CA,West,Corporate,Silver,2023-06-21
+CUST-00991,Steven,Gonzalez,steven.gonzalez23@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-05-09
+CUST-00992,Ashley,Thomas,ashley.thomas75@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-07-27
+CUST-00993,Mark,Ramirez,mark.ramirez55@example.com,Houston,TX,South,Corporate,Silver,2024-01-19
+CUST-00994,Thomas,Moore,thomas.moore38@example.com,Boston,MA,North,Consumer,Bronze,2024-08-20
+CUST-00995,Robert,Anderson,robert.anderson56@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-11-21
+CUST-00996,Sarah,Gonzalez,sarah.gonzalez34@example.com,Boston,MA,North,Consumer,Bronze,2023-03-26
+CUST-00997,Charles,Clark,charles.clark13@example.com,Chicago,IL,North,Consumer,Bronze,2024-07-13
+CUST-00998,Richard,Hernandez,richard.hernandez96@example.com,Dallas,TX,South,Corporate,Silver,2023-10-09
+CUST-00999,Richard,Thompson,richard.thompson2@example.com,Charlotte,NC,South,Corporate,Bronze,2023-12-21
+CUST-01000,Betty,Walker,betty.walker2@example.com,Phoenix,AZ,West,Consumer,Silver,2023-06-02
+CUST-01001,Betty,Davis,betty.davis67@example.com,Miami,FL,South,Consumer,Silver,2024-04-24
+CUST-01002,Sandra,Hernandez,sandra.hernandez55@example.com,Chicago,IL,North,Corporate,Silver,2023-08-03
+CUST-01003,Mark,Anderson,mark.anderson17@example.com,Chicago,IL,North,Consumer,Silver,2024-05-26
+CUST-01004,Daniel,Hernandez,daniel.hernandez97@example.com,Houston,TX,South,Consumer,Gold,2024-07-04
+CUST-01005,Karen,Hernandez,karen.hernandez20@example.com,New York,NY,North,Small Business,Platinum,2024-08-04
+CUST-01006,Joshua,Robinson,joshua.robinson51@example.com,Denver,CO,West,Consumer,Bronze,2024-05-01
+CUST-01007,Michael,Hernandez,michael.hernandez14@example.com,Seattle,WA,West,Corporate,Bronze,2024-09-09
+CUST-01008,Ashley,Smith,ashley.smith50@example.com,Miami,FL,South,Consumer,Bronze,2024-11-06
+CUST-01009,Kimberly,Williams,kimberly.williams2@example.com,Los Angeles,CA,West,Consumer,Gold,2024-02-25
+CUST-01010,Betty,Garcia,betty.garcia62@example.com,Boston,MA,North,Corporate,Bronze,2023-07-31
+CUST-01011,David,Ramirez,david.ramirez91@example.com,Dallas,TX,South,Corporate,Bronze,2024-08-11
+CUST-01012,Karen,Jackson,karen.jackson59@example.com,Charlotte,NC,South,Consumer,Bronze,2023-05-27
+CUST-01013,Mark,Williams,mark.williams68@example.com,Phoenix,AZ,West,Consumer,Silver,2024-05-17
+CUST-01014,Sandra,Anderson,sandra.anderson59@example.com,New York,NY,North,Consumer,Gold,2023-11-01
+CUST-01015,Betty,Martin,betty.martin80@example.com,Houston,TX,South,Corporate,Silver,2024-11-05
+CUST-01016,Barbara,Thompson,barbara.thompson6@example.com,Detroit,MI,North,Consumer,Gold,2023-10-08
+CUST-01017,Paul,Martinez,paul.martinez53@example.com,Boston,MA,North,Small Business,Silver,2024-01-13
+CUST-01018,John,Harris,john.harris22@example.com,Chicago,IL,North,Consumer,Silver,2024-04-18
+CUST-01019,Mary,Williams,mary.williams52@example.com,Denver,CO,West,Corporate,Bronze,2023-01-11
+CUST-01020,Thomas,Brown,thomas.brown60@example.com,Dallas,TX,South,Consumer,Bronze,2024-07-15
+CUST-01021,Jessica,Thompson,jessica.thompson36@example.com,San Francisco,CA,West,Corporate,Bronze,2023-01-19
+CUST-01022,Joshua,Brown,joshua.brown95@example.com,Dallas,TX,South,Consumer,Bronze,2023-01-12
+CUST-01023,Sarah,Jones,sarah.jones92@example.com,Seattle,WA,West,Consumer,Silver,2023-08-10
+CUST-01024,Mark,Thompson,mark.thompson40@example.com,New York,NY,North,Consumer,Silver,2023-02-19
+CUST-01025,Matthew,Harris,matthew.harris31@example.com,Miami,FL,South,Consumer,Bronze,2023-01-29
+CUST-01026,James,Hernandez,james.hernandez13@example.com,Atlanta,GA,South,Corporate,Gold,2023-06-21
+CUST-01027,William,Johnson,william.johnson42@example.com,Phoenix,AZ,West,Consumer,Silver,2024-10-01
+CUST-01028,Susan,Robinson,susan.robinson28@example.com,Denver,CO,West,Consumer,Bronze,2023-01-16
+CUST-01029,Betty,Lee,betty.lee59@example.com,Philadelphia,PA,East,Consumer,Silver,2023-10-13
+CUST-01030,Michelle,Lopez,michelle.lopez53@example.com,New York,NY,North,Consumer,Silver,2023-04-15
+CUST-01031,Paul,Sanchez,paul.sanchez77@example.com,Dallas,TX,South,Consumer,Silver,2024-02-02
+CUST-01032,David,Hernandez,david.hernandez86@example.com,Dallas,TX,South,Consumer,Bronze,2024-09-15
+CUST-01033,Donna,Anderson,donna.anderson30@example.com,Phoenix,AZ,West,Consumer,Silver,2023-01-14
+CUST-01034,Joseph,Smith,joseph.smith55@example.com,Chicago,IL,North,Corporate,Silver,2023-03-03
+CUST-01035,David,Lopez,david.lopez49@example.com,Seattle,WA,West,Consumer,Bronze,2024-09-04
+CUST-01036,Mark,White,mark.white83@example.com,Washington,DC,East,Corporate,Bronze,2024-02-29
+CUST-01037,Charles,Harris,charles.harris43@example.com,Boston,MA,North,Consumer,Bronze,2023-02-25
+CUST-01038,Jessica,Sanchez,jessica.sanchez67@example.com,Charlotte,NC,South,Consumer,Bronze,2023-01-07
+CUST-01039,John,Ramirez,john.ramirez7@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-07-29
+CUST-01040,David,Williams,david.williams27@example.com,Charlotte,NC,South,Consumer,Bronze,2024-04-23
+CUST-01041,Karen,Garcia,karen.garcia78@example.com,Miami,FL,South,Consumer,Bronze,2024-04-04
+CUST-01042,Richard,Rodriguez,richard.rodriguez47@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-03-27
+CUST-01043,Margaret,Taylor,margaret.taylor62@example.com,San Francisco,CA,West,Consumer,Bronze,2023-03-27
+CUST-01044,Karen,Martin,karen.martin33@example.com,Charlotte,NC,South,Consumer,Bronze,2023-10-18
+CUST-01045,Matthew,Moore,matthew.moore92@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-07-14
+CUST-01046,James,Smith,james.smith54@example.com,Pittsburgh,PA,East,Small Business,Platinum,2024-01-18
+CUST-01047,Matthew,Thomas,matthew.thomas5@example.com,Philadelphia,PA,East,Small Business,Bronze,2024-08-02
+CUST-01048,William,Miller,william.miller97@example.com,Seattle,WA,West,Corporate,Silver,2024-05-15
+CUST-01049,Lisa,Thompson,lisa.thompson95@example.com,Detroit,MI,North,Consumer,Silver,2024-01-06
+CUST-01050,Mary,Thompson,mary.thompson88@example.com,Dallas,TX,South,Consumer,Bronze,2024-08-15
+CUST-01051,William,Smith,william.smith50@example.com,New York,NY,North,Consumer,Silver,2023-03-24
+CUST-01052,Kimberly,Robinson,kimberly.robinson55@example.com,Houston,TX,South,Consumer,Bronze,2024-06-29
+CUST-01053,Matthew,Jackson,matthew.jackson94@example.com,Pittsburgh,PA,East,Corporate,Bronze,2024-08-09
+CUST-01054,Daniel,Clark,daniel.clark96@example.com,Dallas,TX,South,Consumer,Bronze,2023-06-22
+CUST-01055,Ashley,Smith,ashley.smith54@example.com,New York,NY,North,Consumer,Silver,2024-03-17
+CUST-01056,William,Garcia,william.garcia26@example.com,Washington,DC,East,Consumer,Silver,2023-04-23
+CUST-01057,Mark,Jackson,mark.jackson96@example.com,Miami,FL,South,Consumer,Gold,2023-09-23
+CUST-01058,Anthony,Anderson,anthony.anderson11@example.com,Boston,MA,North,Consumer,Bronze,2023-12-17
+CUST-01059,Mary,Jackson,mary.jackson98@example.com,Houston,TX,South,Consumer,Bronze,2023-01-08
+CUST-01060,Donna,Sanchez,donna.sanchez1@example.com,New York,NY,North,Consumer,Silver,2023-09-30
+CUST-01061,Ashley,Thomas,ashley.thomas88@example.com,Pittsburgh,PA,East,Corporate,Platinum,2023-09-03
+CUST-01062,Lisa,Perez,lisa.perez46@example.com,Denver,CO,West,Corporate,Gold,2023-01-04
+CUST-01063,Sandra,Ramirez,,San Francisco,CA,West,Consumer,Silver,2023-09-12
+CUST-01064,Lisa,Anderson,lisa.anderson25@example.com,Phoenix,AZ,West,Consumer,Silver,2023-11-26
+CUST-01065,Mary,Lee,mary.lee95@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-09-13
+CUST-01066,Ashley,Gonzalez,ashley.gonzalez61@example.com,Chicago,IL,North,Small Business,Gold,2023-04-13
+CUST-01067,Matthew,Martinez,matthew.martinez74@example.com,Miami,FL,South,Corporate,Silver,2023-02-02
+CUST-01068,David,Thomas,david.thomas71@example.com,Chicago,IL,North,Small Business,Silver,2024-04-01
+CUST-01069,Linda,Thomas,linda.thomas97@example.com,Miami,FL,South,Small Business,Silver,2023-04-19
+CUST-01070,Margaret,Thompson,margaret.thompson42@example.com,Boston,MA,North,Small Business,Gold,2023-08-14
+CUST-01071,Thomas,Perez,thomas.perez69@example.com,Los Angeles,CA,West,Consumer,Silver,2023-12-07
+CUST-01072,Joseph,Robinson,joseph.robinson92@example.com,Chicago,IL,North,Corporate,Silver,2024-10-31
+CUST-01073,Emily,Walker,emily.walker15@example.com,San Francisco,CA,West,Consumer,Bronze,2023-12-15
+CUST-01074,Donna,Robinson,donna.robinson17@example.com,Atlanta,GA,South,Corporate,Platinum,2024-08-13
+CUST-01075,James,Martinez,james.martinez55@example.com,Boston,MA,North,Consumer,Bronze,2024-11-26
+CUST-01076,David,Taylor,david.taylor69@example.com,Atlanta,GA,South,Corporate,Bronze,2023-10-31
+CUST-01077,Joseph,Thomas,joseph.thomas19@example.com,San Francisco,CA,West,Corporate,Gold,2023-02-05
+CUST-01078,Joshua,Hernandez,joshua.hernandez91@example.com,Philadelphia,PA,East,Consumer,Silver,2023-08-09
+CUST-01079,Ashley,Martinez,ashley.martinez43@example.com,Los Angeles,CA,West,Consumer,Silver,2023-08-19
+CUST-01080,Patricia,Robinson,patricia.robinson39@example.com,Houston,TX,South,Small Business,Silver,2023-06-13
+CUST-01081,Mary,Moore,mary.moore61@example.com,Seattle,WA,West,Small Business,Gold,2024-02-05
+CUST-01082,John,Taylor,john.taylor25@example.com,Baltimore,MD,East,Corporate,Silver,2023-04-10
+CUST-01083,David,Hernandez,david.hernandez21@example.com,Chicago,IL,North,Consumer,Bronze,2024-05-09
+CUST-01084,Charles,Lewis,charles.lewis96@example.com,Miami,FL,South,Consumer,Silver,2024-01-06
+CUST-01085,Andrew,Brown,andrew.brown55@example.com,Houston,TX,South,Corporate,Bronze,2023-02-27
+CUST-01086,Michael,Lopez,michael.lopez16@example.com,San Francisco,CA,West,Small Business,Silver,2024-08-30
+CUST-01087,Margaret,Jones,margaret.jones31@example.com,San Francisco,CA,West,Consumer,Bronze,2024-09-02
+CUST-01088,Barbara,Lee,barbara.lee84@example.com,Los Angeles,CA,West,Consumer,Silver,2024-03-31
+CUST-01089,Lisa,Smith,lisa.smith63@example.com,New York,NY,North,Consumer,Gold,2023-08-19
+CUST-01090,Mary,Jackson,mary.jackson13@example.com,Seattle,WA,West,Corporate,Bronze,2024-05-10
+CUST-01091,Margaret,Martinez,margaret.martinez92@example.com,Atlanta,GA,South,Small Business,Gold,2023-07-09
+CUST-01092,Betty,Clark,betty.clark69@example.com,Detroit,MI,North,Corporate,Silver,2023-03-07
+CUST-01093,Kimberly,Clark,kimberly.clark16@example.com,Boston,MA,North,Consumer,Silver,2023-07-04
+CUST-01094,James,Moore,james.moore17@example.com,Seattle,WA,West,Consumer,Silver,2023-03-31
+CUST-01095,Emily,Rodriguez,emily.rodriguez65@example.com,New York,NY,North,Consumer,Platinum,2023-06-25
+CUST-01096,Margaret,Walker,margaret.walker67@example.com,Boston,MA,North,Small Business,Bronze,2024-06-30
+CUST-01097,Mark,Jones,mark.jones46@example.com,Seattle,WA,West,Consumer,Silver,2023-04-12
+CUST-01098,Robert,Davis,robert.davis28@example.com,Boston,MA,North,Small Business,Silver,2023-08-10
+CUST-01099,Donna,Lopez,donna.lopez55@example.com,Washington,DC,East,Consumer,Bronze,2024-01-26
+CUST-01100,William,Gonzalez,william.gonzalez87@example.com,Los Angeles,CA,West,Consumer,Silver,2024-07-02
+CUST-01101,Susan,Williams,susan.williams73@example.com,Washington,DC,East,Corporate,Gold,2024-09-11
+CUST-01102,William,Wilson,william.wilson56@example.com,Dallas,TX,South,Consumer,Platinum,2023-09-11
+CUST-01103,John,Rodriguez,john.rodriguez53@example.com,New York,NY,North,Consumer,Silver,2024-01-07
+CUST-01104,Nancy,Harris,nancy.harris29@example.com,Washington,DC,East,Consumer,Bronze,2023-08-16
+CUST-01105,Matthew,Walker,matthew.walker94@example.com,New York,NY,North,Corporate,Silver,2024-05-16
+CUST-01106,Michael,Taylor,michael.taylor78@example.com,Baltimore,MD,East,Consumer,Bronze,2023-11-22
+CUST-01107,Matthew,Garcia,matthew.garcia17@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-06-09
+CUST-01108,David,Jones,david.jones7@example.com,Phoenix,AZ,West,Small Business,Silver,2024-01-15
+CUST-01109,Jessica,Perez,jessica.perez46@example.com,Denver,CO,West,Corporate,Silver,2023-10-10
+CUST-01110,Margaret,Taylor,margaret.taylor12@example.com,Dallas,TX,South,Small Business,Bronze,2023-11-17
+CUST-01111,Jennifer,Lee,jennifer.lee12@example.com,New York,NY,North,Consumer,Bronze,2023-10-20
+CUST-01112,Emily,Robinson,emily.robinson55@example.com,Los Angeles,CA,West,Corporate,Platinum,2023-05-20
+CUST-01113,Donald,Thomas,,Detroit,MI,North,Consumer,Gold,2023-01-08
+CUST-01114,Margaret,Thompson,margaret.thompson85@example.com,Washington,DC,East,Small Business,Gold,2024-06-24
+CUST-01115,Joshua,Johnson,joshua.johnson98@example.com,San Francisco,CA,West,Consumer,Bronze,2023-03-18
+CUST-01116,Lisa,Clark,lisa.clark7@example.com,Charlotte,NC,South,Consumer,Bronze,2024-01-18
+CUST-01117,Linda,Hernandez,linda.hernandez16@example.com,Charlotte,NC,South,Consumer,Silver,2023-09-29
+CUST-01118,Susan,Smith,susan.smith83@example.com,San Francisco,CA,West,Consumer,Gold,2024-04-19
+CUST-01119,Michelle,Ramirez,michelle.ramirez79@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-04-20
+CUST-01120,James,Lopez,james.lopez13@example.com,Houston,TX,South,Consumer,Bronze,2024-06-25
+CUST-01121,Steven,Lewis,steven.lewis63@example.com,Houston,TX,South,Consumer,Gold,2023-09-14
+CUST-01122,Joseph,Thomas,joseph.thomas55@example.com,Seattle,WA,West,Corporate,Silver,2023-10-03
+CUST-01123,Michael,Anderson,michael.anderson96@example.com,San Francisco,CA,West,Consumer,Bronze,2023-07-23
+CUST-01124,Linda,Miller,linda.miller54@example.com,Philadelphia,PA,East,Corporate,Gold,2023-06-14
+CUST-01125,Richard,Walker,richard.walker63@example.com,Seattle,WA,West,Consumer,Gold,2023-05-11
+CUST-01126,Christopher,Harris,christopher.harris95@example.com,Phoenix,AZ,West,Corporate,Bronze,2023-04-23
+CUST-01127,Michael,Sanchez,michael.sanchez65@example.com,Boston,MA,North,Consumer,Silver,2023-02-23
+CUST-01128,Nancy,Wilson,nancy.wilson37@example.com,Detroit,MI,North,Consumer,Gold,2023-09-11
+CUST-01129,Michelle,Jones,michelle.jones15@example.com,Miami,FL,South,Corporate,Platinum,2023-09-11
+CUST-01130,Margaret,Miller,margaret.miller65@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-08-28
+CUST-01131,Elizabeth,Davis,elizabeth.davis36@example.com,Boston,MA,North,Small Business,Gold,2024-03-12
+CUST-01132,Mary,Martin,mary.martin49@example.com,Atlanta,GA,South,Consumer,Bronze,2024-10-10
+CUST-01133,Joseph,Davis,joseph.davis66@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-04-23
+CUST-01134,Sarah,Lopez,sarah.lopez32@example.com,Baltimore,MD,East,Consumer,Bronze,2023-02-11
+CUST-01135,James,Johnson,james.johnson36@example.com,Washington,DC,East,Small Business,Bronze,2023-07-09
+CUST-01136,Thomas,Walker,thomas.walker15@example.com,Seattle,WA,West,Consumer,Bronze,2024-07-19
+CUST-01137,David,Hernandez,david.hernandez76@example.com,Baltimore,MD,East,Consumer,Bronze,2024-10-27
+CUST-01138,Sarah,Miller,sarah.miller17@example.com,Los Angeles,CA,West,Consumer,Silver,2023-02-12
+CUST-01139,Donna,Walker,donna.walker13@example.com,Miami,FL,South,Consumer,Silver,2023-12-18
+CUST-01140,Karen,White,karen.white20@example.com,San Francisco,CA,West,Consumer,Bronze,2024-07-17
+CUST-01141,Thomas,Lewis,thomas.lewis92@example.com,Baltimore,MD,East,Consumer,Bronze,2024-05-09
+CUST-01142,Anthony,Taylor,anthony.taylor90@example.com,Boston,MA,North,Small Business,Bronze,2024-08-02
+CUST-01143,Patricia,Sanchez,patricia.sanchez69@example.com,Houston,TX,South,Corporate,Platinum,2023-06-19
+CUST-01144,Mark,Harris,mark.harris52@example.com,Phoenix,AZ,West,Consumer,Bronze,2023-01-04
+CUST-01145,William,Jackson,william.jackson66@example.com,Charlotte,NC,South,Consumer,Silver,2024-06-21
+CUST-01146,Thomas,Martinez,thomas.martinez71@example.com,Dallas,TX,South,Consumer,Bronze,2024-06-30
+CUST-01147,Jessica,Martinez,jessica.martinez36@example.com,Boston,MA,North,Small Business,Bronze,2023-02-22
+CUST-01148,Jessica,Clark,jessica.clark84@example.com,Charlotte,NC,South,Consumer,Silver,2024-01-13
+CUST-01149,Christopher,Williams,christopher.williams79@example.com,Washington,DC,East,Consumer,Platinum,2024-10-02
+CUST-01150,James,Clark,james.clark36@example.com,Washington,DC,East,Consumer,Platinum,2024-07-04
+CUST-01151,Donna,Brown,donna.brown82@example.com,Seattle,WA,West,Consumer,Bronze,2024-03-28
+CUST-01152,Joseph,Hernandez,joseph.hernandez97@example.com,Washington,DC,East,Consumer,Bronze,2024-03-20
+CUST-01153,Lisa,Jones,lisa.jones59@example.com,Los Angeles,CA,West,Consumer,Gold,2023-07-13
+CUST-01154,Andrew,Thomas,,Dallas,TX,South,Consumer,Bronze,2024-02-08
+CUST-01155,Joshua,Miller,joshua.miller32@example.com,Boston,MA,North,Consumer,Silver,2024-02-17
+CUST-01156,Michael,White,michael.white49@example.com,Atlanta,GA,South,Consumer,Bronze,2023-01-14
+CUST-01157,Robert,Jones,robert.jones81@example.com,Atlanta,GA,South,Consumer,Gold,2023-01-10
+CUST-01158,Michael,Moore,michael.moore62@example.com,Philadelphia,PA,East,Corporate,Gold,2023-06-17
+CUST-01159,Karen,Hernandez,karen.hernandez70@example.com,San Francisco,CA,West,Corporate,Silver,2023-05-07
+CUST-01160,Mary,Clark,mary.clark14@example.com,New York,NY,North,Consumer,Gold,2023-05-26
+CUST-01161,James,Robinson,james.robinson50@example.com,Atlanta,GA,South,Consumer,Silver,2023-08-20
+CUST-01162,Matthew,Perez,matthew.perez15@example.com,Detroit,MI,North,Consumer,Platinum,2023-10-16
+CUST-01163,Daniel,Williams,daniel.williams11@example.com,Philadelphia,PA,East,Corporate,Silver,2023-07-02
+CUST-01164,Margaret,Taylor,margaret.taylor20@example.com,Washington,DC,East,Corporate,Silver,2024-10-01
+CUST-01165,Charles,Lopez,charles.lopez85@example.com,Chicago,IL,North,Consumer,Bronze,2023-03-20
+CUST-01166,James,Ramirez,james.ramirez50@example.com,Miami,FL,South,Consumer,Gold,2024-05-04
+CUST-01167,John,Brown,john.brown42@example.com,Seattle,WA,West,Small Business,Bronze,2024-01-30
+CUST-01168,Daniel,Hernandez,daniel.hernandez53@example.com,Denver,CO,West,Consumer,Silver,2023-05-22
+CUST-01169,Jessica,Gonzalez,jessica.gonzalez69@example.com,Phoenix,AZ,West,Consumer,Silver,2023-08-24
+CUST-01170,Matthew,Williams,matthew.williams89@example.com,Phoenix,AZ,West,Corporate,Bronze,2023-03-31
+CUST-01171,Jessica,Lopez,jessica.lopez3@example.com,Boston,MA,North,Consumer,Silver,2023-05-17
+CUST-01172,Linda,Johnson,linda.johnson18@example.com,Baltimore,MD,East,Consumer,Bronze,2024-07-18
+CUST-01173,Anthony,Davis,anthony.davis18@example.com,Miami,FL,South,Consumer,Silver,2023-05-27
+CUST-01174,Matthew,White,matthew.white90@example.com,Detroit,MI,North,Consumer,Silver,2024-05-03
+CUST-01175,Joshua,Ramirez,joshua.ramirez19@example.com,Atlanta,GA,South,Consumer,Bronze,2024-08-05
+CUST-01176,Anthony,Jones,anthony.jones96@example.com,Houston,TX,South,Consumer,Platinum,2024-04-26
+CUST-01177,Anthony,White,anthony.white89@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-03-03
+CUST-01178,Robert,Martin,robert.martin51@example.com,Charlotte,NC,South,Corporate,Silver,2024-04-10
+CUST-01179,Emily,Thompson,emily.thompson55@example.com,Baltimore,MD,East,Small Business,Bronze,2023-04-05
+CUST-01180,Kimberly,Gonzalez,kimberly.gonzalez8@example.com,Miami,FL,South,Consumer,Bronze,2024-07-26
+CUST-01181,Joshua,Clark,joshua.clark84@example.com,Detroit,MI,North,Consumer,Gold,2023-06-18
+CUST-01182,Patricia,Sanchez,patricia.sanchez14@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-12-10
+CUST-01183,Mary,Davis,mary.davis9@example.com,Washington,DC,East,Consumer,Bronze,2023-11-13
+CUST-01184,Richard,Moore,richard.moore11@example.com,Atlanta,GA,South,Small Business,Silver,2024-07-31
+CUST-01185,Donald,Johnson,donald.johnson40@example.com,Chicago,IL,North,Consumer,Bronze,2023-10-17
+CUST-01186,Betty,Taylor,betty.taylor93@example.com,Dallas,TX,South,Consumer,Bronze,2024-11-21
+CUST-01187,Michael,Hernandez,michael.hernandez20@example.com,Phoenix,AZ,West,Consumer,Gold,2024-05-03
+CUST-01188,Donna,Ramirez,donna.ramirez88@example.com,Chicago,IL,North,Consumer,Gold,2023-04-06
+CUST-01189,Joseph,Lewis,joseph.lewis21@example.com,Miami,FL,South,Small Business,Silver,2024-09-15
+CUST-01190,Kimberly,Robinson,kimberly.robinson44@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-03-17
+CUST-01191,Robert,Lewis,robert.lewis79@example.com,San Francisco,CA,West,Consumer,Platinum,2024-08-03
+CUST-01192,Ashley,Brown,ashley.brown40@example.com,Boston,MA,North,Consumer,Platinum,2023-03-31
+CUST-01193,Ashley,Brown,ashley.brown38@example.com,Seattle,WA,West,Consumer,Bronze,2024-01-08
+CUST-01194,Daniel,Williams,daniel.williams59@example.com,Boston,MA,North,Consumer,Silver,2023-09-20
+CUST-01195,Mark,Lee,mark.lee63@example.com,Atlanta,GA,South,Consumer,Gold,2024-02-15
+CUST-01196,Anthony,Ramirez,anthony.ramirez80@example.com,Houston,TX,South,Small Business,Bronze,2024-11-29
+CUST-01197,Anthony,Taylor,anthony.taylor88@example.com,Seattle,WA,West,Consumer,Platinum,2023-02-28
+CUST-01198,Jessica,Thompson,jessica.thompson38@example.com,Boston,MA,North,Consumer,Silver,2023-03-16
+CUST-01199,Joseph,Gonzalez,joseph.gonzalez60@example.com,Los Angeles,CA,West,Consumer,Gold,2024-04-21
+CUST-01200,Michael,Williams,michael.williams51@example.com,Atlanta,GA,South,Corporate,Bronze,2023-12-03
+CUST-01201,John,Hernandez,john.hernandez95@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-02-09
+CUST-01202,Paul,Jones,paul.jones41@example.com,San Francisco,CA,West,Consumer,Platinum,2024-01-25
+CUST-01203,Patricia,Robinson,patricia.robinson28@example.com,Pittsburgh,PA,East,Consumer,Gold,2024-12-01
+CUST-01204,Margaret,Rodriguez,margaret.rodriguez9@example.com,Washington,DC,East,Consumer,Bronze,2024-04-07
+CUST-01205,Anthony,Taylor,anthony.taylor7@example.com,Dallas,TX,South,Consumer,Gold,2023-12-17
+CUST-01206,Karen,Garcia,karen.garcia62@example.com,Dallas,TX,South,Consumer,Silver,2023-06-14
+CUST-01207,Margaret,Lopez,margaret.lopez77@example.com,Los Angeles,CA,West,Consumer,Silver,2024-08-15
+CUST-01208,Michelle,Jones,,Baltimore,MD,East,Corporate,Platinum,2024-05-26
+CUST-01209,Christopher,Brown,christopher.brown1@example.com,Seattle,WA,West,Small Business,Platinum,2023-05-09
+CUST-01210,Mark,Lee,mark.lee25@example.com,New York,NY,North,Consumer,Silver,2023-06-20
+CUST-01211,Joshua,Gonzalez,joshua.gonzalez25@example.com,Dallas,TX,South,Small Business,Silver,2023-01-15
+CUST-01212,Lisa,Clark,lisa.clark40@example.com,Philadelphia,PA,East,Consumer,Gold,2024-05-26
+CUST-01213,Sandra,Wilson,sandra.wilson70@example.com,Seattle,WA,West,Consumer,Platinum,2023-12-10
+CUST-01214,Linda,Robinson,linda.robinson23@example.com,Houston,TX,South,Consumer,Bronze,2024-03-22
+CUST-01215,Matthew,Martinez,matthew.martinez13@example.com,Seattle,WA,West,Small Business,Gold,2023-04-17
+CUST-01216,Jennifer,Lee,jennifer.lee96@example.com,Detroit,MI,North,Corporate,Gold,2023-04-13
+CUST-01217,Mark,Taylor,mark.taylor28@example.com,Chicago,IL,North,Consumer,Silver,2024-01-26
+CUST-01218,Linda,Miller,linda.miller60@example.com,Los Angeles,CA,West,Consumer,Gold,2024-02-10
+CUST-01219,James,Walker,james.walker35@example.com,Washington,DC,East,Corporate,Bronze,2024-02-29
+CUST-01220,Jessica,Smith,,Los Angeles,CA,West,Consumer,Bronze,2024-06-15
+CUST-01221,Joshua,Hernandez,joshua.hernandez56@example.com,Washington,DC,East,Consumer,Platinum,2023-07-17
+CUST-01222,Michelle,Lee,michelle.lee74@example.com,Los Angeles,CA,West,Consumer,Platinum,2024-02-04
+CUST-01223,Barbara,Gonzalez,barbara.gonzalez13@example.com,Washington,DC,East,Corporate,Bronze,2023-05-02
+CUST-01224,Andrew,Sanchez,andrew.sanchez21@example.com,Seattle,WA,West,Small Business,Bronze,2023-04-06
+CUST-01225,Mary,Wilson,,Boston,MA,North,Corporate,Gold,2023-03-22
+CUST-01226,Andrew,Gonzalez,andrew.gonzalez82@example.com,Boston,MA,North,Consumer,Bronze,2023-09-03
+CUST-01227,Joseph,Martinez,joseph.martinez93@example.com,Charlotte,NC,South,Corporate,Gold,2023-09-24
+CUST-01228,Patricia,Rodriguez,patricia.rodriguez82@example.com,Boston,MA,North,Small Business,Gold,2023-04-24
+CUST-01229,Sandra,Robinson,sandra.robinson34@example.com,New York,NY,North,Corporate,Bronze,2024-05-21
+CUST-01230,Lisa,Robinson,lisa.robinson3@example.com,Houston,TX,South,Consumer,Silver,2024-10-02
+CUST-01231,John,Miller,john.miller82@example.com,Denver,CO,West,Small Business,Gold,2023-07-04
+CUST-01232,Karen,Smith,karen.smith5@example.com,Charlotte,NC,South,Consumer,Bronze,2023-12-22
+CUST-01233,Donald,Martin,donald.martin33@example.com,Boston,MA,North,Small Business,Bronze,2023-01-31
+CUST-01234,Paul,Smith,paul.smith15@example.com,Miami,FL,South,Corporate,Bronze,2023-05-22
+CUST-01235,Joseph,Williams,joseph.williams26@example.com,Dallas,TX,South,Small Business,Bronze,2024-07-18
+CUST-01236,Charles,Anderson,charles.anderson52@example.com,Denver,CO,West,Small Business,Bronze,2023-07-22
+CUST-01237,Sarah,Walker,sarah.walker99@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-07-30
+CUST-01238,Ashley,Wilson,ashley.wilson35@example.com,Denver,CO,West,Corporate,Silver,2024-09-13
+CUST-01239,Matthew,Wilson,matthew.wilson81@example.com,Charlotte,NC,South,Corporate,Bronze,2023-02-04
+CUST-01240,Steven,Rodriguez,steven.rodriguez83@example.com,Seattle,WA,West,Small Business,Silver,2024-02-12
+CUST-01241,Mary,Brown,mary.brown24@example.com,Dallas,TX,South,Consumer,Bronze,2024-11-03
+CUST-01242,Lisa,Lopez,lisa.lopez41@example.com,Dallas,TX,South,Corporate,Silver,2023-08-07
+CUST-01243,Sandra,Jackson,sandra.jackson50@example.com,Washington,DC,East,Consumer,Bronze,2023-08-11
+CUST-01244,Michael,Moore,michael.moore83@example.com,Philadelphia,PA,East,Consumer,Gold,2023-11-22
+CUST-01245,Christopher,Miller,christopher.miller64@example.com,Atlanta,GA,South,Consumer,Bronze,2023-05-03
+CUST-01246,Linda,Anderson,linda.anderson50@example.com,Charlotte,NC,South,Consumer,Bronze,2023-01-19
+CUST-01247,Andrew,Smith,andrew.smith52@example.com,Seattle,WA,West,Consumer,Silver,2024-06-24
+CUST-01248,Robert,Hernandez,robert.hernandez54@example.com,New York,NY,North,Corporate,Bronze,2023-12-21
+CUST-01249,Betty,Williams,betty.williams51@example.com,Pittsburgh,PA,East,Consumer,Platinum,2024-05-20
+CUST-01250,Linda,Clark,,Philadelphia,PA,East,Consumer,Bronze,2023-04-18
+CUST-01251,Christopher,Ramirez,christopher.ramirez25@example.com,San Francisco,CA,West,Corporate,Gold,2024-07-04
+CUST-01252,James,Robinson,james.robinson6@example.com,Chicago,IL,North,Consumer,Platinum,2023-03-18
+CUST-01253,Thomas,Hernandez,thomas.hernandez18@example.com,Seattle,WA,West,Consumer,Bronze,2023-11-23
+CUST-01254,Elizabeth,Harris,elizabeth.harris67@example.com,Denver,CO,West,Consumer,Silver,2024-11-08
+CUST-01255,Ashley,Rodriguez,ashley.rodriguez34@example.com,Pittsburgh,PA,East,Corporate,Silver,2023-12-28
+CUST-01256,Emily,Clark,emily.clark10@example.com,Miami,FL,South,Small Business,Bronze,2023-01-14
+CUST-01257,Susan,Anderson,susan.anderson44@example.com,San Francisco,CA,West,Consumer,Silver,2024-06-24
+CUST-01258,Steven,Ramirez,steven.ramirez84@example.com,Baltimore,MD,East,Consumer,Silver,2023-05-14
+CUST-01259,Joseph,Robinson,joseph.robinson80@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-07-12
+CUST-01260,John,Rodriguez,john.rodriguez74@example.com,San Francisco,CA,West,Consumer,Bronze,2023-04-20
+CUST-01261,Linda,Davis,linda.davis4@example.com,Detroit,MI,North,Consumer,Silver,2023-12-27
+CUST-01262,Thomas,Brown,thomas.brown20@example.com,Chicago,IL,North,Consumer,Bronze,2023-12-08
+CUST-01263,Patricia,Anderson,patricia.anderson84@example.com,Baltimore,MD,East,Consumer,Gold,2023-07-18
+CUST-01264,Charles,Miller,charles.miller68@example.com,San Francisco,CA,West,Consumer,Silver,2023-04-22
+CUST-01265,Patricia,Lee,patricia.lee7@example.com,Atlanta,GA,South,Corporate,Silver,2023-09-02
+CUST-01266,John,Moore,john.moore80@example.com,Chicago,IL,North,Corporate,Bronze,2024-02-07
+CUST-01267,Michael,Davis,michael.davis27@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-09-02
+CUST-01268,Charles,White,charles.white90@example.com,New York,NY,North,Consumer,Silver,2023-09-02
+CUST-01269,William,Hernandez,william.hernandez59@example.com,Boston,MA,North,Consumer,Bronze,2024-04-30
+CUST-01270,Margaret,Hernandez,margaret.hernandez10@example.com,Boston,MA,North,Consumer,Gold,2023-01-10
+CUST-01271,Joshua,Lopez,,Phoenix,AZ,West,Corporate,Silver,2023-02-16
+CUST-01272,Mary,Jackson,mary.jackson22@example.com,Washington,DC,East,Corporate,Gold,2023-04-13
+CUST-01273,Karen,Sanchez,karen.sanchez45@example.com,Pittsburgh,PA,East,Small Business,Bronze,2024-05-13
+CUST-01274,Thomas,Lopez,thomas.lopez39@example.com,Los Angeles,CA,West,Corporate,Gold,2024-11-10
+CUST-01275,Joshua,Thomas,joshua.thomas94@example.com,Chicago,IL,North,Consumer,Bronze,2024-02-25
+CUST-01276,Joseph,Perez,joseph.perez32@example.com,Dallas,TX,South,Consumer,Silver,2024-03-17
+CUST-01277,Lisa,Miller,lisa.miller49@example.com,Boston,MA,North,Consumer,Platinum,2024-10-03
+CUST-01278,Paul,Lewis,paul.lewis87@example.com,Phoenix,AZ,West,Consumer,Bronze,2024-08-26
+CUST-01279,Anthony,Walker,anthony.walker75@example.com,Baltimore,MD,East,Consumer,Bronze,2024-09-19
+CUST-01280,Linda,Wilson,linda.wilson45@example.com,Phoenix,AZ,West,Consumer,Platinum,2024-05-25
+CUST-01281,Elizabeth,Anderson,elizabeth.anderson80@example.com,Charlotte,NC,South,Consumer,Bronze,2024-05-13
+CUST-01282,Charles,Williams,charles.williams28@example.com,Philadelphia,PA,East,Consumer,Silver,2023-02-24
+CUST-01283,Ashley,Martinez,ashley.martinez1@example.com,Detroit,MI,North,Consumer,Bronze,2023-10-18
+CUST-01284,Steven,Perez,steven.perez19@example.com,Atlanta,GA,South,Small Business,Bronze,2024-08-22
+CUST-01285,Jennifer,Martinez,jennifer.martinez46@example.com,Atlanta,GA,South,Consumer,Silver,2024-01-31
+CUST-01286,Margaret,Gonzalez,margaret.gonzalez77@example.com,Chicago,IL,North,Consumer,Silver,2024-11-26
+CUST-01287,Christopher,Sanchez,christopher.sanchez54@example.com,Miami,FL,South,Consumer,Bronze,2023-03-29
+CUST-01288,Karen,Jackson,karen.jackson56@example.com,Phoenix,AZ,West,Consumer,Silver,2023-11-17
+CUST-01289,Steven,Robinson,steven.robinson60@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-01-29
+CUST-01290,Emily,Smith,emily.smith79@example.com,Los Angeles,CA,West,Small Business,Gold,2024-08-17
+CUST-01291,Steven,Lopez,steven.lopez73@example.com,Charlotte,NC,South,Corporate,Bronze,2024-02-07
+CUST-01292,David,Gonzalez,david.gonzalez67@example.com,Detroit,MI,North,Consumer,Bronze,2023-02-26
+CUST-01293,Sarah,Clark,sarah.clark38@example.com,Chicago,IL,North,Consumer,Silver,2023-03-04
+CUST-01294,Linda,White,linda.white72@example.com,Boston,MA,North,Corporate,Silver,2023-08-17
+CUST-01295,Elizabeth,Martinez,elizabeth.martinez80@example.com,Philadelphia,PA,East,Corporate,Bronze,2023-01-01
+CUST-01296,Elizabeth,Martin,elizabeth.martin14@example.com,New York,NY,North,Consumer,Gold,2024-03-30
+CUST-01297,Betty,Johnson,betty.johnson24@example.com,Chicago,IL,North,Corporate,Gold,2024-07-13
+CUST-01298,Thomas,Clark,thomas.clark19@example.com,Phoenix,AZ,West,Consumer,Bronze,2024-11-04
+CUST-01299,Jessica,Garcia,jessica.garcia38@example.com,Houston,TX,South,Corporate,Platinum,2024-05-19
+CUST-01300,Lisa,Perez,lisa.perez14@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-06-01
+CUST-01301,Mary,Martinez,mary.martinez2@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-10-28
+CUST-01302,Michelle,Anderson,michelle.anderson60@example.com,Chicago,IL,North,Corporate,Silver,2023-01-10
+CUST-01303,William,Lopez,william.lopez68@example.com,Dallas,TX,South,Consumer,Bronze,2024-11-02
+CUST-01304,Elizabeth,Lopez,elizabeth.lopez18@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-11-07
+CUST-01305,Betty,Williams,betty.williams78@example.com,Denver,CO,West,Corporate,Silver,2024-06-03
+CUST-01306,Kimberly,Rodriguez,kimberly.rodriguez75@example.com,Dallas,TX,South,Consumer,Silver,2024-02-18
+CUST-01307,John,Johnson,john.johnson86@example.com,Boston,MA,North,Consumer,Platinum,2024-05-02
+CUST-01308,Christopher,Harris,christopher.harris23@example.com,Miami,FL,South,Corporate,Bronze,2024-03-06
+CUST-01309,John,Johnson,john.johnson96@example.com,Philadelphia,PA,East,Consumer,Gold,2024-09-13
+CUST-01310,Mary,Robinson,mary.robinson58@example.com,Dallas,TX,South,Consumer,Platinum,2024-08-10
+CUST-01311,Emily,Miller,emily.miller87@example.com,Dallas,TX,South,Consumer,Bronze,2023-06-15
+CUST-01312,Margaret,Clark,margaret.clark81@example.com,Atlanta,GA,South,Small Business,Bronze,2023-02-04
+CUST-01313,David,Lewis,david.lewis73@example.com,Chicago,IL,North,Consumer,Bronze,2023-07-09
+CUST-01314,Kimberly,Thomas,kimberly.thomas61@example.com,Miami,FL,South,Consumer,Bronze,2024-07-26
+CUST-01315,David,Sanchez,david.sanchez49@example.com,Detroit,MI,North,Corporate,Silver,2023-05-11
+CUST-01316,Kimberly,Martinez,kimberly.martinez7@example.com,New York,NY,North,Consumer,Bronze,2023-08-18
+CUST-01317,Charles,Robinson,charles.robinson9@example.com,Pittsburgh,PA,East,Corporate,Bronze,2023-10-22
+CUST-01318,John,Moore,john.moore65@example.com,Charlotte,NC,South,Consumer,Silver,2024-07-13
+CUST-01319,Linda,Jackson,linda.jackson5@example.com,Seattle,WA,West,Consumer,Bronze,2023-12-09
+CUST-01320,Patricia,Jones,patricia.jones43@example.com,Charlotte,NC,South,Small Business,Silver,2023-03-05
+CUST-01321,Jessica,Thomas,jessica.thomas10@example.com,New York,NY,North,Small Business,Silver,2024-09-19
+CUST-01322,Jennifer,Lewis,jennifer.lewis6@example.com,San Francisco,CA,West,Consumer,Silver,2023-08-19
+CUST-01323,Daniel,Wilson,daniel.wilson30@example.com,Seattle,WA,West,Consumer,Bronze,2023-07-20
+CUST-01324,Paul,Martin,paul.martin7@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-05-09
+CUST-01325,Margaret,Thompson,margaret.thompson57@example.com,Phoenix,AZ,West,Consumer,Silver,2024-01-12
+CUST-01326,Daniel,Miller,daniel.miller31@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-08-21
+CUST-01327,Anthony,White,anthony.white32@example.com,New York,NY,North,Corporate,Bronze,2023-05-10
+CUST-01328,Mark,Garcia,mark.garcia78@example.com,Philadelphia,PA,East,Corporate,Bronze,2023-10-27
+CUST-01329,David,Martin,david.martin85@example.com,Denver,CO,West,Consumer,Bronze,2024-07-10
+CUST-01330,Susan,Thomas,susan.thomas39@example.com,Washington,DC,East,Small Business,Gold,2023-10-27
+CUST-01331,Jessica,Taylor,jessica.taylor65@example.com,Baltimore,MD,East,Consumer,Bronze,2024-02-25
+CUST-01332,Michelle,Thomas,michelle.thomas18@example.com,Philadelphia,PA,East,Corporate,Silver,2023-11-09
+CUST-01333,Emily,Miller,emily.miller19@example.com,Chicago,IL,North,Consumer,Bronze,2024-03-26
+CUST-01334,Sandra,Walker,sandra.walker5@example.com,New York,NY,North,Consumer,Silver,2023-11-04
+CUST-01335,Jennifer,Johnson,jennifer.johnson49@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-07-30
+CUST-01336,Matthew,Garcia,matthew.garcia40@example.com,Phoenix,AZ,West,Consumer,Gold,2023-01-27
+CUST-01337,Joshua,Harris,joshua.harris76@example.com,Baltimore,MD,East,Consumer,Bronze,2024-09-28
+CUST-01338,Margaret,Ramirez,margaret.ramirez71@example.com,Los Angeles,CA,West,Consumer,Silver,2024-11-25
+CUST-01339,Charles,Ramirez,charles.ramirez73@example.com,Denver,CO,West,Corporate,Bronze,2024-01-26
+CUST-01340,Sandra,White,sandra.white36@example.com,Miami,FL,South,Corporate,Platinum,2023-03-29
+CUST-01341,Jessica,Harris,jessica.harris5@example.com,Baltimore,MD,East,Consumer,Bronze,2024-11-06
+CUST-01342,Thomas,Sanchez,thomas.sanchez85@example.com,New York,NY,North,Consumer,Bronze,2023-07-03
+CUST-01343,Mark,Anderson,,Detroit,MI,North,Consumer,Bronze,2024-10-15
+CUST-01344,Emily,Miller,emily.miller11@example.com,Los Angeles,CA,West,Consumer,Silver,2023-11-18
+CUST-01345,John,Anderson,john.anderson36@example.com,Dallas,TX,South,Consumer,Silver,2023-08-21
+CUST-01346,Barbara,Jones,barbara.jones5@example.com,Boston,MA,North,Consumer,Silver,2024-03-26
+CUST-01347,Donna,Hernandez,donna.hernandez92@example.com,Boston,MA,North,Small Business,Platinum,2023-01-17
+CUST-01348,Daniel,Moore,daniel.moore10@example.com,Boston,MA,North,Consumer,Bronze,2023-03-21
+CUST-01349,Jessica,Miller,jessica.miller88@example.com,Baltimore,MD,East,Consumer,Silver,2023-10-17
+CUST-01350,Elizabeth,Smith,elizabeth.smith53@example.com,Baltimore,MD,East,Corporate,Bronze,2023-10-29
+CUST-01351,Michelle,Smith,michelle.smith20@example.com,Dallas,TX,South,Small Business,Bronze,2024-09-15
+CUST-01352,Susan,Sanchez,susan.sanchez49@example.com,Baltimore,MD,East,Corporate,Bronze,2023-06-03
+CUST-01353,Matthew,Harris,matthew.harris29@example.com,New York,NY,North,Consumer,Platinum,2024-10-07
+CUST-01354,Emily,White,emily.white68@example.com,Phoenix,AZ,West,Corporate,Silver,2024-11-06
+CUST-01355,Kimberly,Taylor,kimberly.taylor74@example.com,Seattle,WA,West,Consumer,Bronze,2023-09-06
+CUST-01356,Lisa,Davis,lisa.davis15@example.com,Seattle,WA,West,Corporate,Bronze,2024-02-24
+CUST-01357,Lisa,Williams,lisa.williams84@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-03-04
+CUST-01358,Joseph,Jackson,joseph.jackson53@example.com,Charlotte,NC,South,Corporate,Silver,2024-09-12
+CUST-01359,Thomas,Sanchez,thomas.sanchez11@example.com,Baltimore,MD,East,Consumer,Silver,2023-06-01
+CUST-01360,Andrew,Thomas,andrew.thomas2@example.com,Miami,FL,South,Consumer,Bronze,2024-07-21
+CUST-01361,Donald,White,donald.white56@example.com,Boston,MA,North,Consumer,Bronze,2023-03-16
+CUST-01362,David,Taylor,david.taylor52@example.com,Denver,CO,West,Corporate,Bronze,2023-10-28
+CUST-01363,Linda,Hernandez,linda.hernandez6@example.com,Philadelphia,PA,East,Consumer,Gold,2024-04-04
+CUST-01364,Anthony,Lee,anthony.lee62@example.com,Denver,CO,West,Corporate,Silver,2024-08-26
+CUST-01365,Steven,Williams,steven.williams48@example.com,Atlanta,GA,South,Corporate,Silver,2023-11-25
+CUST-01366,Mark,Garcia,mark.garcia64@example.com,Philadelphia,PA,East,Consumer,Silver,2024-06-21
+CUST-01367,Donna,Taylor,donna.taylor41@example.com,Seattle,WA,West,Corporate,Platinum,2023-02-12
+CUST-01368,Susan,Wilson,susan.wilson37@example.com,Baltimore,MD,East,Consumer,Bronze,2024-05-13
+CUST-01369,Mark,Davis,mark.davis34@example.com,Dallas,TX,South,Small Business,Gold,2023-08-26
+CUST-01370,Sarah,Jones,sarah.jones66@example.com,Boston,MA,North,Corporate,Bronze,2023-02-10
+CUST-01371,Paul,Moore,paul.moore4@example.com,Atlanta,GA,South,Consumer,Bronze,2024-08-07
+CUST-01372,Margaret,White,margaret.white59@example.com,Phoenix,AZ,West,Consumer,Bronze,2023-05-03
+CUST-01373,Mark,Lewis,mark.lewis18@example.com,Denver,CO,West,Small Business,Silver,2023-04-30
+CUST-01374,Daniel,Sanchez,daniel.sanchez42@example.com,Boston,MA,North,Consumer,Bronze,2024-04-09
+CUST-01375,Steven,Perez,steven.perez5@example.com,Chicago,IL,North,Consumer,Platinum,2024-06-17
+CUST-01376,Christopher,Miller,christopher.miller76@example.com,New York,NY,North,Consumer,Platinum,2024-11-20
+CUST-01377,Richard,Rodriguez,richard.rodriguez24@example.com,San Francisco,CA,West,Corporate,Bronze,2023-07-23
+CUST-01378,Jennifer,Walker,jennifer.walker63@example.com,Atlanta,GA,South,Consumer,Bronze,2023-07-02
+CUST-01379,Robert,Wilson,robert.wilson31@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-11-03
+CUST-01380,Barbara,Lewis,barbara.lewis86@example.com,Washington,DC,East,Consumer,Gold,2024-02-06
+CUST-01381,Joshua,Lopez,joshua.lopez15@example.com,Seattle,WA,West,Small Business,Gold,2023-10-22
+CUST-01382,Anthony,Anderson,anthony.anderson15@example.com,Washington,DC,East,Consumer,Platinum,2024-11-07
+CUST-01383,Linda,Lopez,linda.lopez62@example.com,San Francisco,CA,West,Corporate,Gold,2024-09-07
+CUST-01384,Anthony,Perez,anthony.perez65@example.com,Atlanta,GA,South,Consumer,Gold,2024-02-23
+CUST-01385,Patricia,Moore,patricia.moore53@example.com,Baltimore,MD,East,Consumer,Bronze,2024-02-13
+CUST-01386,Thomas,Robinson,thomas.robinson29@example.com,Chicago,IL,North,Consumer,Gold,2023-11-12
+CUST-01387,Mark,Wilson,mark.wilson69@example.com,Charlotte,NC,South,Consumer,Silver,2024-09-20
+CUST-01388,Michelle,Hernandez,michelle.hernandez93@example.com,Charlotte,NC,South,Consumer,Bronze,2023-12-08
+CUST-01389,Daniel,Harris,daniel.harris47@example.com,New York,NY,North,Consumer,Platinum,2024-07-02
+CUST-01390,Betty,Ramirez,betty.ramirez48@example.com,Dallas,TX,South,Consumer,Bronze,2023-09-12
+CUST-01391,James,Johnson,james.johnson63@example.com,New York,NY,North,Consumer,Bronze,2023-01-25
+CUST-01392,Joseph,Lee,joseph.lee16@example.com,Atlanta,GA,South,Corporate,Bronze,2024-02-15
+CUST-01393,David,Clark,david.clark65@example.com,Philadelphia,PA,East,Corporate,Gold,2024-03-01
+CUST-01394,Mary,Smith,mary.smith51@example.com,Atlanta,GA,South,Consumer,Silver,2023-11-16
+CUST-01395,Christopher,Wilson,christopher.wilson26@example.com,Chicago,IL,North,Consumer,Platinum,2024-08-13
+CUST-01396,Donald,Gonzalez,donald.gonzalez53@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-06-30
+CUST-01397,Steven,Davis,steven.davis94@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-07-13
+CUST-01398,Michael,Anderson,michael.anderson51@example.com,Charlotte,NC,South,Corporate,Bronze,2024-05-03
+CUST-01399,Andrew,Brown,andrew.brown81@example.com,Baltimore,MD,East,Small Business,Bronze,2023-06-23
+CUST-01400,Susan,Ramirez,susan.ramirez19@example.com,Phoenix,AZ,West,Consumer,Gold,2024-06-19
+CUST-01401,Andrew,Harris,andrew.harris33@example.com,Atlanta,GA,South,Consumer,Silver,2023-06-04
+CUST-01402,Robert,Hernandez,robert.hernandez27@example.com,Los Angeles,CA,West,Corporate,Gold,2024-07-12
+CUST-01403,Ashley,Hernandez,ashley.hernandez62@example.com,Dallas,TX,South,Consumer,Gold,2023-03-25
+CUST-01404,Michael,Wilson,michael.wilson2@example.com,Detroit,MI,North,Consumer,Silver,2023-06-20
+CUST-01405,Richard,Anderson,richard.anderson64@example.com,New York,NY,North,Consumer,Gold,2024-05-13
+CUST-01406,David,White,,Denver,CO,West,Consumer,Platinum,2024-11-23
+CUST-01407,Sarah,Taylor,sarah.taylor22@example.com,Baltimore,MD,East,Consumer,Silver,2023-07-29
+CUST-01408,Michelle,Walker,michelle.walker27@example.com,Baltimore,MD,East,Small Business,Gold,2023-05-19
+CUST-01409,William,Taylor,william.taylor23@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-01-06
+CUST-01410,Karen,Thompson,karen.thompson69@example.com,Miami,FL,South,Consumer,Bronze,2024-10-01
+CUST-01411,Sandra,Martin,sandra.martin72@example.com,Atlanta,GA,South,Corporate,Bronze,2023-01-15
+CUST-01412,Richard,Rodriguez,richard.rodriguez40@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-09-18
+CUST-01413,Emily,Moore,emily.moore14@example.com,Atlanta,GA,South,Corporate,Bronze,2023-09-27
+CUST-01414,Andrew,Brown,andrew.brown99@example.com,Charlotte,NC,South,Consumer,Silver,2024-08-29
+CUST-01415,Joshua,Rodriguez,joshua.rodriguez30@example.com,San Francisco,CA,West,Small Business,Bronze,2024-09-21
+CUST-01416,Elizabeth,Jones,elizabeth.jones42@example.com,Houston,TX,South,Consumer,Platinum,2023-05-21
+CUST-01417,Steven,Sanchez,steven.sanchez42@example.com,Denver,CO,West,Consumer,Gold,2023-09-04
+CUST-01418,Emily,Gonzalez,emily.gonzalez46@example.com,Denver,CO,West,Consumer,Silver,2024-06-27
+CUST-01419,Jennifer,Lewis,jennifer.lewis36@example.com,Miami,FL,South,Corporate,Gold,2024-07-27
+CUST-01420,Mark,Thomas,mark.thomas56@example.com,Philadelphia,PA,East,Corporate,Bronze,2024-01-10
+CUST-01421,Sandra,Harris,sandra.harris72@example.com,Pittsburgh,PA,East,Corporate,Gold,2023-07-15
+CUST-01422,Matthew,Lopez,matthew.lopez47@example.com,Atlanta,GA,South,Consumer,Bronze,2023-11-14
+CUST-01423,Nancy,Brown,nancy.brown2@example.com,Baltimore,MD,East,Consumer,Bronze,2023-10-09
+CUST-01424,Donald,Gonzalez,donald.gonzalez8@example.com,Chicago,IL,North,Small Business,Gold,2024-04-27
+CUST-01425,Joshua,Lee,joshua.lee96@example.com,Denver,CO,West,Corporate,Gold,2023-04-17
+CUST-01426,Robert,Lopez,robert.lopez23@example.com,Boston,MA,North,Corporate,Bronze,2024-03-05
+CUST-01427,Linda,Johnson,linda.johnson70@example.com,Los Angeles,CA,West,Consumer,Gold,2024-11-01
+CUST-01428,Michelle,White,michelle.white41@example.com,Chicago,IL,North,Corporate,Bronze,2024-08-23
+CUST-01429,Lisa,Taylor,lisa.taylor86@example.com,Detroit,MI,North,Corporate,Bronze,2024-05-28
+CUST-01430,Elizabeth,White,elizabeth.white6@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-06-01
+CUST-01431,Anthony,Garcia,anthony.garcia45@example.com,Chicago,IL,North,Consumer,Silver,2023-03-30
+CUST-01432,Andrew,Robinson,andrew.robinson12@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-11-22
+CUST-01433,Donna,Lee,donna.lee28@example.com,Boston,MA,North,Consumer,Silver,2023-09-10
+CUST-01434,Karen,Clark,karen.clark49@example.com,Miami,FL,South,Corporate,Bronze,2023-05-24
+CUST-01435,Andrew,Hernandez,andrew.hernandez35@example.com,San Francisco,CA,West,Corporate,Bronze,2023-10-30
+CUST-01436,Thomas,Thompson,thomas.thompson46@example.com,Seattle,WA,West,Consumer,Bronze,2024-10-19
+CUST-01437,Kimberly,Anderson,kimberly.anderson75@example.com,Atlanta,GA,South,Consumer,Silver,2023-08-04
+CUST-01438,Margaret,Lopez,margaret.lopez65@example.com,Washington,DC,East,Consumer,Silver,2023-10-03
+CUST-01439,Jennifer,Taylor,jennifer.taylor34@example.com,Dallas,TX,South,Consumer,Bronze,2024-11-05
+CUST-01440,Barbara,Thomas,barbara.thomas48@example.com,Houston,TX,South,Consumer,Silver,2023-02-04
+CUST-01441,Christopher,Thompson,christopher.thompson2@example.com,Chicago,IL,North,Consumer,Silver,2023-12-11
+CUST-01442,Michael,Garcia,michael.garcia70@example.com,Baltimore,MD,East,Consumer,Bronze,2024-09-23
+CUST-01443,Sandra,Jackson,sandra.jackson32@example.com,Denver,CO,West,Consumer,Bronze,2023-12-12
+CUST-01444,Donald,Perez,donald.perez30@example.com,Seattle,WA,West,Corporate,Gold,2024-06-03
+CUST-01445,Michael,Wilson,michael.wilson52@example.com,Seattle,WA,West,Consumer,Bronze,2023-06-20
+CUST-01446,Karen,Lewis,karen.lewis17@example.com,Charlotte,NC,South,Corporate,Gold,2023-02-25
+CUST-01447,Jennifer,Martinez,jennifer.martinez22@example.com,Dallas,TX,South,Consumer,Silver,2023-07-25
+CUST-01448,Barbara,Martinez,barbara.martinez27@example.com,Philadelphia,PA,East,Consumer,Silver,2023-06-07
+CUST-01449,Emily,Ramirez,emily.ramirez45@example.com,Philadelphia,PA,East,Consumer,Silver,2024-02-08
+CUST-01450,Susan,Robinson,susan.robinson91@example.com,Denver,CO,West,Consumer,Gold,2024-02-01
+CUST-01451,David,Hernandez,david.hernandez37@example.com,Houston,TX,South,Corporate,Silver,2024-03-10
+CUST-01452,Joshua,Gonzalez,joshua.gonzalez95@example.com,Chicago,IL,North,Small Business,Bronze,2024-09-15
+CUST-01453,Barbara,Harris,barbara.harris65@example.com,Dallas,TX,South,Corporate,Silver,2024-02-12
+CUST-01454,John,Lee,john.lee6@example.com,Miami,FL,South,Consumer,Bronze,2023-12-14
+CUST-01455,Matthew,Lee,matthew.lee40@example.com,Houston,TX,South,Consumer,Gold,2023-02-05
+CUST-01456,Thomas,Walker,thomas.walker88@example.com,San Francisco,CA,West,Consumer,Bronze,2023-03-26
+CUST-01457,Daniel,Perez,daniel.perez2@example.com,Detroit,MI,North,Consumer,Bronze,2024-06-03
+CUST-01458,Matthew,Perez,matthew.perez86@example.com,Los Angeles,CA,West,Consumer,Gold,2023-11-07
+CUST-01459,Margaret,Rodriguez,margaret.rodriguez61@example.com,Detroit,MI,North,Corporate,Gold,2024-01-09
+CUST-01460,Linda,Sanchez,linda.sanchez50@example.com,Houston,TX,South,Corporate,Bronze,2023-01-08
+CUST-01461,Nancy,Walker,nancy.walker79@example.com,Washington,DC,East,Corporate,Silver,2023-02-19
+CUST-01462,Sandra,Martinez,sandra.martinez59@example.com,New York,NY,North,Consumer,Gold,2024-01-14
+CUST-01463,Thomas,Wilson,thomas.wilson4@example.com,Baltimore,MD,East,Consumer,Bronze,2024-01-01
+CUST-01464,Anthony,Smith,anthony.smith5@example.com,Seattle,WA,West,Consumer,Bronze,2023-02-07
+CUST-01465,Paul,White,paul.white69@example.com,San Francisco,CA,West,Consumer,Silver,2024-10-10
+CUST-01466,Ashley,Wilson,ashley.wilson89@example.com,Baltimore,MD,East,Consumer,Gold,2024-06-20
+CUST-01467,Andrew,Anderson,andrew.anderson5@example.com,New York,NY,North,Consumer,Platinum,2024-10-15
+CUST-01468,Michael,Gonzalez,michael.gonzalez96@example.com,Chicago,IL,North,Consumer,Bronze,2023-07-08
+CUST-01469,Thomas,White,thomas.white25@example.com,Detroit,MI,North,Consumer,Platinum,2024-09-22
+CUST-01470,Steven,Moore,steven.moore61@example.com,Atlanta,GA,South,Consumer,Platinum,2023-10-09
+CUST-01471,Barbara,Rodriguez,barbara.rodriguez87@example.com,Detroit,MI,North,Consumer,Bronze,2023-08-01
+CUST-01472,Mary,Sanchez,mary.sanchez60@example.com,San Francisco,CA,West,Consumer,Platinum,2023-11-22
+CUST-01473,Michael,Davis,michael.davis29@example.com,Atlanta,GA,South,Consumer,Bronze,2024-09-15
+CUST-01474,Sandra,Jackson,sandra.jackson50@example.com,Phoenix,AZ,West,Consumer,Silver,2023-12-18
+CUST-01475,Nancy,Hernandez,nancy.hernandez96@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-06-24
+CUST-01476,Matthew,Rodriguez,matthew.rodriguez74@example.com,Los Angeles,CA,West,Small Business,Silver,2024-07-28
+CUST-01477,Daniel,Williams,daniel.williams38@example.com,Charlotte,NC,South,Corporate,Silver,2024-04-23
+CUST-01478,Mary,Jones,mary.jones56@example.com,Charlotte,NC,South,Consumer,Gold,2023-10-18
+CUST-01479,Emily,White,emily.white69@example.com,San Francisco,CA,West,Consumer,Silver,2023-05-07
+CUST-01480,Michael,Gonzalez,michael.gonzalez74@example.com,Miami,FL,South,Consumer,Gold,2024-02-15
+CUST-01481,Emily,Wilson,emily.wilson77@example.com,Washington,DC,East,Consumer,Gold,2024-10-07
+CUST-01482,Michael,Perez,michael.perez52@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-04-05
+CUST-01483,William,Robinson,william.robinson69@example.com,Houston,TX,South,Corporate,Gold,2024-11-02
+CUST-01484,Barbara,Perez,barbara.perez54@example.com,Detroit,MI,North,Small Business,Bronze,2024-10-13
+CUST-01485,Mary,Martin,mary.martin65@example.com,Miami,FL,South,Small Business,Silver,2024-02-23
+CUST-01486,Mary,Hernandez,mary.hernandez61@example.com,Miami,FL,South,Corporate,Platinum,2023-01-24
+CUST-01487,Joshua,Lewis,joshua.lewis25@example.com,Phoenix,AZ,West,Corporate,Bronze,2024-01-13
+CUST-01488,Jessica,Garcia,jessica.garcia38@example.com,San Francisco,CA,West,Consumer,Bronze,2024-08-14
+CUST-01489,Sandra,Anderson,sandra.anderson31@example.com,Charlotte,NC,South,Corporate,Platinum,2024-05-27
+CUST-01490,Linda,Sanchez,linda.sanchez93@example.com,Washington,DC,East,Small Business,Bronze,2023-02-03
+CUST-01491,Anthony,Ramirez,anthony.ramirez54@example.com,Denver,CO,West,Small Business,Gold,2024-07-04
+CUST-01492,Linda,Thompson,linda.thompson93@example.com,Detroit,MI,North,Consumer,Gold,2023-02-10
+CUST-01493,Lisa,Gonzalez,lisa.gonzalez14@example.com,Denver,CO,West,Consumer,Bronze,2024-08-16
+CUST-01494,Linda,White,linda.white44@example.com,Dallas,TX,South,Consumer,Bronze,2024-05-09
+CUST-01495,Susan,Rodriguez,susan.rodriguez10@example.com,Chicago,IL,North,Consumer,Silver,2023-09-08
+CUST-01496,Thomas,Hernandez,thomas.hernandez58@example.com,Pittsburgh,PA,East,Corporate,Silver,2024-08-31
+CUST-01497,Robert,Harris,robert.harris4@example.com,Miami,FL,South,Consumer,Bronze,2024-01-07
+CUST-01498,Charles,Martinez,charles.martinez61@example.com,Charlotte,NC,South,Corporate,Silver,2023-06-08
+CUST-01499,David,Jones,david.jones30@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-11-07
+CUST-01500,Elizabeth,Jackson,elizabeth.jackson66@example.com,Chicago,IL,North,Corporate,Platinum,2024-02-20
+CUST-01501,Donald,Martin,donald.martin76@example.com,Dallas,TX,South,Corporate,Bronze,2024-01-19
+CUST-01502,Matthew,Ramirez,matthew.ramirez62@example.com,San Francisco,CA,West,Consumer,Gold,2023-01-15
+CUST-01503,John,Hernandez,john.hernandez20@example.com,Dallas,TX,South,Consumer,Gold,2023-05-03
+CUST-01504,Richard,Lopez,richard.lopez82@example.com,Denver,CO,West,Small Business,Gold,2024-06-20
+CUST-01505,Joseph,White,joseph.white52@example.com,Dallas,TX,South,Consumer,Platinum,2024-06-03
+CUST-01506,John,Rodriguez,john.rodriguez67@example.com,New York,NY,North,Consumer,Bronze,2023-07-07
+CUST-01507,Jessica,Davis,jessica.davis78@example.com,San Francisco,CA,West,Consumer,Bronze,2023-07-14
+CUST-01508,John,Lewis,john.lewis27@example.com,Charlotte,NC,South,Consumer,Silver,2024-08-18
+CUST-01509,Donald,Anderson,donald.anderson82@example.com,New York,NY,North,Consumer,Silver,2024-03-28
+CUST-01510,Jennifer,Thomas,jennifer.thomas28@example.com,Atlanta,GA,South,Consumer,Bronze,2023-01-10
+CUST-01511,Donna,Wilson,donna.wilson25@example.com,Detroit,MI,North,Consumer,Silver,2024-04-12
+CUST-01512,James,Rodriguez,james.rodriguez81@example.com,Phoenix,AZ,West,Consumer,Silver,2024-06-10
+CUST-01513,Charles,Walker,charles.walker32@example.com,Baltimore,MD,East,Consumer,Silver,2024-05-30
+CUST-01514,Karen,Lee,karen.lee24@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-06-05
+CUST-01515,Donald,Thomas,donald.thomas56@example.com,Miami,FL,South,Corporate,Bronze,2024-03-29
+CUST-01516,Nancy,Lee,nancy.lee98@example.com,Miami,FL,South,Consumer,Bronze,2023-11-09
+CUST-01517,Christopher,Harris,christopher.harris79@example.com,Los Angeles,CA,West,Consumer,Silver,2023-11-28
+CUST-01518,William,Miller,william.miller79@example.com,San Francisco,CA,West,Corporate,Bronze,2024-06-12
+CUST-01519,Donald,Lee,donald.lee34@example.com,Seattle,WA,West,Consumer,Gold,2023-11-07
+CUST-01520,Lisa,Jones,lisa.jones96@example.com,Baltimore,MD,East,Consumer,Bronze,2024-07-30
+CUST-01521,Betty,Harris,betty.harris52@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-10-23
+CUST-01522,David,Anderson,david.anderson26@example.com,Philadelphia,PA,East,Consumer,Silver,2023-10-29
+CUST-01523,Lisa,Smith,lisa.smith42@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-08-09
+CUST-01524,Michelle,Taylor,michelle.taylor32@example.com,Seattle,WA,West,Consumer,Silver,2024-08-30
+CUST-01525,Donald,Walker,donald.walker91@example.com,Detroit,MI,North,Consumer,Bronze,2024-09-13
+CUST-01526,Donna,Gonzalez,donna.gonzalez44@example.com,New York,NY,North,Consumer,Bronze,2023-10-19
+CUST-01527,Linda,Thomas,linda.thomas94@example.com,Atlanta,GA,South,Consumer,Bronze,2023-06-04
+CUST-01528,Donna,Martinez,donna.martinez32@example.com,Charlotte,NC,South,Consumer,Silver,2024-11-07
+CUST-01529,Thomas,Moore,thomas.moore99@example.com,Philadelphia,PA,East,Consumer,Gold,2023-11-18
+CUST-01530,Lisa,Lewis,lisa.lewis60@example.com,San Francisco,CA,West,Consumer,Bronze,2023-07-23
+CUST-01531,Thomas,Rodriguez,thomas.rodriguez53@example.com,Boston,MA,North,Consumer,Gold,2023-02-19
+CUST-01532,Kimberly,Johnson,kimberly.johnson5@example.com,Philadelphia,PA,East,Small Business,Gold,2023-12-01
+CUST-01533,Paul,Thomas,paul.thomas95@example.com,Baltimore,MD,East,Consumer,Bronze,2024-07-25
+CUST-01534,Linda,Moore,linda.moore12@example.com,Charlotte,NC,South,Consumer,Silver,2024-10-27
+CUST-01535,Richard,Harris,richard.harris60@example.com,Detroit,MI,North,Consumer,Gold,2023-06-05
+CUST-01536,Nancy,Williams,nancy.williams68@example.com,Charlotte,NC,South,Corporate,Silver,2024-03-18
+CUST-01537,Mary,Gonzalez,mary.gonzalez50@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-03-13
+CUST-01538,Elizabeth,Rodriguez,elizabeth.rodriguez42@example.com,Charlotte,NC,South,Consumer,Silver,2023-07-25
+CUST-01539,Andrew,Robinson,andrew.robinson19@example.com,Washington,DC,East,Consumer,Bronze,2023-01-27
+CUST-01540,Paul,Martin,paul.martin9@example.com,Boston,MA,North,Consumer,Bronze,2023-08-24
+CUST-01541,Susan,Miller,susan.miller35@example.com,Washington,DC,East,Consumer,Gold,2023-12-30
+CUST-01542,Mary,Jones,mary.jones49@example.com,Los Angeles,CA,West,Consumer,Gold,2023-08-02
+CUST-01543,Matthew,Johnson,matthew.johnson27@example.com,Denver,CO,West,Corporate,Silver,2023-05-08
+CUST-01544,Jennifer,Garcia,jennifer.garcia16@example.com,Boston,MA,North,Small Business,Silver,2024-01-02
+CUST-01545,Christopher,Wilson,christopher.wilson65@example.com,Miami,FL,South,Consumer,Bronze,2023-04-25
+CUST-01546,Sandra,Smith,sandra.smith52@example.com,Detroit,MI,North,Small Business,Bronze,2024-01-05
+CUST-01547,Karen,Clark,karen.clark84@example.com,Detroit,MI,North,Consumer,Platinum,2023-03-28
+CUST-01548,Matthew,Lewis,matthew.lewis36@example.com,Los Angeles,CA,West,Corporate,Gold,2023-02-16
+CUST-01549,Elizabeth,Ramirez,elizabeth.ramirez17@example.com,Miami,FL,South,Consumer,Bronze,2024-04-26
+CUST-01550,Robert,Johnson,robert.johnson54@example.com,Dallas,TX,South,Corporate,Bronze,2023-06-28
+CUST-01551,Kimberly,Walker,kimberly.walker15@example.com,Miami,FL,South,Corporate,Bronze,2023-07-28
+CUST-01552,Karen,Gonzalez,karen.gonzalez4@example.com,Baltimore,MD,East,Corporate,Bronze,2024-04-26
+CUST-01553,Robert,White,robert.white49@example.com,Houston,TX,South,Corporate,Silver,2023-06-23
+CUST-01554,William,Brown,william.brown12@example.com,Chicago,IL,North,Consumer,Bronze,2024-05-02
+CUST-01555,Sandra,Wilson,sandra.wilson82@example.com,San Francisco,CA,West,Consumer,Silver,2023-09-21
+CUST-01556,David,Hernandez,david.hernandez96@example.com,Philadelphia,PA,East,Corporate,Silver,2023-05-09
+CUST-01557,Joseph,Taylor,joseph.taylor11@example.com,Miami,FL,South,Corporate,Silver,2023-10-17
+CUST-01558,Michelle,Brown,michelle.brown94@example.com,Miami,FL,South,Corporate,Bronze,2024-04-18
+CUST-01559,Donna,Taylor,donna.taylor48@example.com,Washington,DC,East,Corporate,Silver,2023-02-05
+CUST-01560,Matthew,Lee,matthew.lee2@example.com,Boston,MA,North,Consumer,Bronze,2023-09-01
+CUST-01561,William,Gonzalez,william.gonzalez62@example.com,Philadelphia,PA,East,Corporate,Bronze,2024-08-14
+CUST-01562,Betty,Anderson,betty.anderson70@example.com,Houston,TX,South,Consumer,Silver,2024-11-02
+CUST-01563,Steven,Robinson,steven.robinson24@example.com,Baltimore,MD,East,Consumer,Gold,2024-05-14
+CUST-01564,Emily,Anderson,emily.anderson34@example.com,Chicago,IL,North,Consumer,Bronze,2024-10-19
+CUST-01565,Mary,Walker,mary.walker59@example.com,Atlanta,GA,South,Corporate,Bronze,2023-10-30
+CUST-01566,David,Ramirez,david.ramirez71@example.com,Baltimore,MD,East,Small Business,Bronze,2024-05-31
+CUST-01567,Barbara,Gonzalez,barbara.gonzalez29@example.com,Miami,FL,South,Corporate,Bronze,2023-12-29
+CUST-01568,Kimberly,Martin,kimberly.martin68@example.com,Charlotte,NC,South,Consumer,Silver,2024-07-06
+CUST-01569,Joseph,Thompson,joseph.thompson88@example.com,Dallas,TX,South,Consumer,Silver,2024-09-25
+CUST-01570,Joseph,Clark,joseph.clark79@example.com,Charlotte,NC,South,Consumer,Bronze,2023-02-20
+CUST-01571,Betty,Martinez,betty.martinez61@example.com,Phoenix,AZ,West,Consumer,Bronze,2023-11-04
+CUST-01572,James,Williams,james.williams94@example.com,Baltimore,MD,East,Consumer,Platinum,2023-03-02
+CUST-01573,Anthony,Jones,anthony.jones98@example.com,Houston,TX,South,Small Business,Platinum,2023-09-06
+CUST-01574,Betty,Sanchez,betty.sanchez25@example.com,Houston,TX,South,Consumer,Bronze,2023-08-20
+CUST-01575,Sarah,Jones,sarah.jones75@example.com,Los Angeles,CA,West,Small Business,Bronze,2024-03-30
+CUST-01576,Elizabeth,Perez,,Baltimore,MD,East,Consumer,Bronze,2023-04-16
+CUST-01577,Joshua,Thomas,joshua.thomas16@example.com,Houston,TX,South,Consumer,Silver,2023-06-07
+CUST-01578,John,Lewis,john.lewis6@example.com,Baltimore,MD,East,Consumer,Gold,2023-04-26
+CUST-01579,Sandra,Wilson,sandra.wilson29@example.com,Houston,TX,South,Consumer,Bronze,2024-09-09
+CUST-01580,Joshua,Ramirez,joshua.ramirez86@example.com,Washington,DC,East,Consumer,Silver,2024-03-18
+CUST-01581,Anthony,Johnson,anthony.johnson94@example.com,Chicago,IL,North,Consumer,Bronze,2024-06-04
+CUST-01582,Nancy,Wilson,nancy.wilson13@example.com,Baltimore,MD,East,Corporate,Silver,2024-08-22
+CUST-01583,Ashley,Davis,ashley.davis91@example.com,Seattle,WA,West,Consumer,Silver,2024-08-02
+CUST-01584,Matthew,Martin,matthew.martin76@example.com,Los Angeles,CA,West,Corporate,Silver,2023-04-11
+CUST-01585,Andrew,Brown,andrew.brown87@example.com,Boston,MA,North,Corporate,Silver,2024-02-08
+CUST-01586,Robert,Lopez,robert.lopez67@example.com,Denver,CO,West,Consumer,Bronze,2024-10-05
+CUST-01587,Margaret,Perez,margaret.perez4@example.com,Boston,MA,North,Consumer,Bronze,2023-10-27
+CUST-01588,Anthony,Sanchez,anthony.sanchez33@example.com,Detroit,MI,North,Consumer,Silver,2023-12-27
+CUST-01589,Jessica,Rodriguez,jessica.rodriguez90@example.com,Los Angeles,CA,West,Small Business,Bronze,2023-06-14
+CUST-01590,Susan,Moore,susan.moore23@example.com,Pittsburgh,PA,East,Corporate,Gold,2023-12-08
+CUST-01591,Daniel,Martin,daniel.martin13@example.com,Dallas,TX,South,Small Business,Bronze,2024-02-20
+CUST-01592,Christopher,Martin,christopher.martin26@example.com,San Francisco,CA,West,Consumer,Silver,2023-12-26
+CUST-01593,Nancy,Sanchez,nancy.sanchez22@example.com,Seattle,WA,West,Consumer,Bronze,2024-08-18
+CUST-01594,Karen,Robinson,karen.robinson90@example.com,Washington,DC,East,Consumer,Bronze,2024-09-04
+CUST-01595,Betty,Ramirez,betty.ramirez69@example.com,Washington,DC,East,Consumer,Bronze,2024-01-30
+CUST-01596,Michael,Ramirez,michael.ramirez29@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-07-15
+CUST-01597,Elizabeth,Perez,elizabeth.perez89@example.com,Philadelphia,PA,East,Small Business,Bronze,2023-08-20
+CUST-01598,Mark,Lee,,Miami,FL,South,Consumer,Bronze,2024-09-18
+CUST-01599,Donald,Clark,donald.clark73@example.com,Denver,CO,West,Consumer,Bronze,2024-06-15
+CUST-01600,Donna,Gonzalez,donna.gonzalez47@example.com,Seattle,WA,West,Corporate,Bronze,2024-01-15
+CUST-01601,Lisa,Lewis,lisa.lewis10@example.com,Dallas,TX,South,Small Business,Bronze,2023-09-10
+CUST-01602,Paul,Jackson,paul.jackson65@example.com,Atlanta,GA,South,Corporate,Silver,2023-04-18
+CUST-01603,Joshua,Davis,joshua.davis74@example.com,Washington,DC,East,Corporate,Silver,2024-03-24
+CUST-01604,Ashley,Jackson,ashley.jackson22@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-10-27
+CUST-01605,Patricia,Lewis,patricia.lewis19@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-10-10
+CUST-01606,Andrew,Rodriguez,andrew.rodriguez98@example.com,Detroit,MI,North,Small Business,Platinum,2023-08-09
+CUST-01607,Mark,Martinez,mark.martinez66@example.com,Baltimore,MD,East,Small Business,Bronze,2024-07-06
+CUST-01608,Donna,Hernandez,donna.hernandez46@example.com,New York,NY,North,Consumer,Gold,2023-03-14
+CUST-01609,Michelle,Williams,michelle.williams32@example.com,San Francisco,CA,West,Small Business,Gold,2023-07-03
+CUST-01610,Barbara,Smith,barbara.smith13@example.com,Los Angeles,CA,West,Small Business,Silver,2024-02-01
+CUST-01611,Anthony,Gonzalez,anthony.gonzalez24@example.com,San Francisco,CA,West,Consumer,Bronze,2024-03-16
+CUST-01612,Thomas,Thomas,thomas.thomas26@example.com,Boston,MA,North,Consumer,Platinum,2024-10-10
+CUST-01613,Jennifer,Hernandez,jennifer.hernandez3@example.com,Los Angeles,CA,West,Corporate,Bronze,2024-07-24
+CUST-01614,Patricia,Perez,patricia.perez68@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-11-10
+CUST-01615,Mary,Sanchez,mary.sanchez25@example.com,Philadelphia,PA,East,Consumer,Silver,2024-07-02
+CUST-01616,Susan,Lopez,susan.lopez74@example.com,Boston,MA,North,Consumer,Bronze,2023-07-01
+CUST-01617,Steven,Jones,steven.jones69@example.com,Los Angeles,CA,West,Corporate,Gold,2023-05-04
+CUST-01618,Karen,Robinson,karen.robinson24@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-04-13
+CUST-01619,Ashley,Miller,ashley.miller59@example.com,Charlotte,NC,South,Small Business,Silver,2024-02-03
+CUST-01620,Mark,Walker,mark.walker47@example.com,New York,NY,North,Consumer,Platinum,2024-05-17
+CUST-01621,Richard,Sanchez,richard.sanchez62@example.com,Los Angeles,CA,West,Corporate,Gold,2024-08-28
+CUST-01622,Michael,Ramirez,michael.ramirez73@example.com,Chicago,IL,North,Consumer,Silver,2024-02-08
+CUST-01623,Paul,Lee,paul.lee58@example.com,Dallas,TX,South,Corporate,Bronze,2024-10-03
+CUST-01624,Margaret,Gonzalez,margaret.gonzalez4@example.com,Denver,CO,West,Consumer,Bronze,2024-05-10
+CUST-01625,Michelle,Gonzalez,michelle.gonzalez99@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-02-26
+CUST-01626,Kimberly,Clark,kimberly.clark40@example.com,Boston,MA,North,Corporate,Silver,2024-08-07
+CUST-01627,Paul,Garcia,paul.garcia7@example.com,Philadelphia,PA,East,Small Business,Bronze,2023-12-27
+CUST-01628,Paul,Johnson,paul.johnson23@example.com,Phoenix,AZ,West,Consumer,Silver,2023-02-15
+CUST-01629,Susan,Brown,susan.brown92@example.com,San Francisco,CA,West,Consumer,Silver,2024-05-22
+CUST-01630,Susan,Jackson,susan.jackson27@example.com,New York,NY,North,Small Business,Bronze,2023-10-25
+CUST-01631,James,Lewis,james.lewis50@example.com,Dallas,TX,South,Corporate,Bronze,2024-02-16
+CUST-01632,Robert,Jones,robert.jones86@example.com,Charlotte,NC,South,Consumer,Gold,2024-11-27
+CUST-01633,Andrew,Thompson,andrew.thompson84@example.com,Washington,DC,East,Corporate,Bronze,2023-01-11
+CUST-01634,Anthony,Clark,anthony.clark25@example.com,Denver,CO,West,Corporate,Silver,2024-09-06
+CUST-01635,James,Lee,james.lee58@example.com,Los Angeles,CA,West,Consumer,Silver,2023-03-14
+CUST-01636,Linda,Brown,linda.brown69@example.com,Houston,TX,South,Consumer,Platinum,2023-09-20
+CUST-01637,Betty,Martinez,betty.martinez34@example.com,Baltimore,MD,East,Consumer,Bronze,2023-07-26
+CUST-01638,Jennifer,Moore,jennifer.moore5@example.com,San Francisco,CA,West,Consumer,Bronze,2023-08-23
+CUST-01639,Robert,Clark,robert.clark89@example.com,San Francisco,CA,West,Corporate,Bronze,2024-09-22
+CUST-01640,Lisa,Anderson,lisa.anderson6@example.com,Houston,TX,South,Corporate,Silver,2023-07-13
+CUST-01641,Susan,White,susan.white20@example.com,Philadelphia,PA,East,Consumer,Platinum,2023-06-29
+CUST-01642,Daniel,Anderson,daniel.anderson20@example.com,Atlanta,GA,South,Small Business,Silver,2023-08-19
+CUST-01643,Barbara,Lee,barbara.lee57@example.com,Dallas,TX,South,Consumer,Bronze,2023-09-09
+CUST-01644,Joshua,Taylor,joshua.taylor41@example.com,Washington,DC,East,Consumer,Silver,2024-02-24
+CUST-01645,Kimberly,Moore,kimberly.moore42@example.com,Boston,MA,North,Consumer,Bronze,2023-04-17
+CUST-01646,Joseph,Smith,joseph.smith50@example.com,Los Angeles,CA,West,Corporate,Bronze,2023-08-18
+CUST-01647,Robert,Jackson,robert.jackson61@example.com,New York,NY,North,Small Business,Silver,2023-10-17
+CUST-01648,Michelle,Gonzalez,michelle.gonzalez79@example.com,San Francisco,CA,West,Consumer,Platinum,2024-10-13
+CUST-01649,Sandra,Thomas,sandra.thomas47@example.com,Houston,TX,South,Consumer,Bronze,2023-06-28
+CUST-01650,Matthew,Rodriguez,matthew.rodriguez56@example.com,Dallas,TX,South,Corporate,Bronze,2024-04-15
+CUST-01651,Anthony,Thompson,anthony.thompson81@example.com,Houston,TX,South,Consumer,Platinum,2024-03-07
+CUST-01652,Anthony,Anderson,anthony.anderson60@example.com,Denver,CO,West,Consumer,Bronze,2024-02-13
+CUST-01653,David,White,david.white25@example.com,Miami,FL,South,Consumer,Platinum,2024-11-06
+CUST-01654,Michelle,Lopez,michelle.lopez53@example.com,Phoenix,AZ,West,Consumer,Bronze,2024-02-07
+CUST-01655,Elizabeth,Thomas,elizabeth.thomas80@example.com,Detroit,MI,North,Consumer,Bronze,2023-12-12
+CUST-01656,Emily,Lewis,emily.lewis56@example.com,Houston,TX,South,Consumer,Bronze,2023-07-31
+CUST-01657,Matthew,Jackson,matthew.jackson88@example.com,Dallas,TX,South,Consumer,Bronze,2024-02-16
+CUST-01658,Andrew,Sanchez,andrew.sanchez60@example.com,Miami,FL,South,Consumer,Silver,2024-05-13
+CUST-01659,Christopher,Martin,christopher.martin11@example.com,New York,NY,North,Consumer,Gold,2023-02-24
+CUST-01660,Nancy,Ramirez,nancy.ramirez46@example.com,Chicago,IL,North,Consumer,Bronze,2023-08-07
+CUST-01661,Karen,Clark,karen.clark41@example.com,Chicago,IL,North,Consumer,Gold,2024-05-01
+CUST-01662,Nancy,Thompson,nancy.thompson72@example.com,Dallas,TX,South,Consumer,Gold,2023-06-17
+CUST-01663,Anthony,Brown,anthony.brown81@example.com,San Francisco,CA,West,Consumer,Platinum,2023-09-13
+CUST-01664,Linda,Perez,linda.perez6@example.com,Houston,TX,South,Consumer,Bronze,2024-01-24
+CUST-01665,Donald,Garcia,donald.garcia75@example.com,Chicago,IL,North,Consumer,Bronze,2023-01-21
+CUST-01666,Ashley,Walker,ashley.walker48@example.com,Baltimore,MD,East,Consumer,Bronze,2023-11-04
+CUST-01667,Betty,Robinson,betty.robinson86@example.com,Atlanta,GA,South,Consumer,Silver,2023-10-27
+CUST-01668,Jennifer,Lopez,jennifer.lopez76@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-09-16
+CUST-01669,Richard,Taylor,richard.taylor22@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-11-10
+CUST-01670,Thomas,Anderson,thomas.anderson96@example.com,Seattle,WA,West,Small Business,Silver,2024-11-06
+CUST-01671,Jennifer,Hernandez,jennifer.hernandez80@example.com,Boston,MA,North,Consumer,Silver,2023-11-06
+CUST-01672,Matthew,Miller,matthew.miller89@example.com,Denver,CO,West,Corporate,Silver,2023-12-10
+CUST-01673,Lisa,Sanchez,lisa.sanchez17@example.com,Denver,CO,West,Small Business,Silver,2024-07-19
+CUST-01674,Richard,Thomas,richard.thomas58@example.com,Baltimore,MD,East,Small Business,Bronze,2024-11-13
+CUST-01675,Christopher,Ramirez,christopher.ramirez98@example.com,New York,NY,North,Consumer,Bronze,2024-01-18
+CUST-01676,John,Jones,john.jones2@example.com,Atlanta,GA,South,Corporate,Silver,2023-12-16
+CUST-01677,Michelle,Williams,michelle.williams59@example.com,Charlotte,NC,South,Consumer,Bronze,2024-11-11
+CUST-01678,Michael,Martin,michael.martin26@example.com,New York,NY,North,Small Business,Gold,2023-07-10
+CUST-01679,Jennifer,Thompson,jennifer.thompson88@example.com,New York,NY,North,Consumer,Bronze,2023-03-23
+CUST-01680,Matthew,Hernandez,matthew.hernandez91@example.com,Houston,TX,South,Small Business,Silver,2023-07-10
+CUST-01681,Donald,Martinez,donald.martinez1@example.com,Detroit,MI,North,Consumer,Platinum,2023-09-27
+CUST-01682,Elizabeth,Lewis,elizabeth.lewis10@example.com,Atlanta,GA,South,Consumer,Gold,2023-08-22
+CUST-01683,William,Gonzalez,william.gonzalez37@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-12-20
+CUST-01684,Jessica,Taylor,jessica.taylor21@example.com,Chicago,IL,North,Consumer,Bronze,2023-12-19
+CUST-01685,Patricia,Martin,patricia.martin92@example.com,Los Angeles,CA,West,Consumer,Platinum,2024-11-21
+CUST-01686,Jennifer,Hernandez,jennifer.hernandez94@example.com,Philadelphia,PA,East,Corporate,Silver,2024-05-06
+CUST-01687,Lisa,Thomas,lisa.thomas96@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-02-13
+CUST-01688,Daniel,Wilson,daniel.wilson52@example.com,Denver,CO,West,Consumer,Gold,2024-04-08
+CUST-01689,Elizabeth,Jones,elizabeth.jones18@example.com,Denver,CO,West,Corporate,Bronze,2024-10-09
+CUST-01690,Elizabeth,Gonzalez,elizabeth.gonzalez85@example.com,Philadelphia,PA,East,Small Business,Bronze,2023-07-08
+CUST-01691,Susan,Brown,susan.brown35@example.com,Detroit,MI,North,Consumer,Bronze,2024-02-06
+CUST-01692,William,Martinez,william.martinez78@example.com,Washington,DC,East,Corporate,Bronze,2023-06-13
+CUST-01693,Ashley,Perez,ashley.perez9@example.com,Chicago,IL,North,Small Business,Silver,2024-09-14
+CUST-01694,Charles,Jones,charles.jones28@example.com,Charlotte,NC,South,Consumer,Bronze,2023-11-12
+CUST-01695,William,Hernandez,william.hernandez77@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-01-18
+CUST-01696,David,Lopez,,Los Angeles,CA,West,Consumer,Bronze,2023-12-01
+CUST-01697,Joseph,Robinson,joseph.robinson72@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-07-19
+CUST-01698,David,Walker,david.walker79@example.com,Washington,DC,East,Consumer,Gold,2024-05-15
+CUST-01699,Andrew,Thomas,andrew.thomas13@example.com,Chicago,IL,North,Consumer,Bronze,2023-11-26
+CUST-01700,Jennifer,Taylor,jennifer.taylor94@example.com,Denver,CO,West,Consumer,Bronze,2023-07-17
+CUST-01701,Sarah,Thompson,sarah.thompson8@example.com,Dallas,TX,South,Consumer,Bronze,2023-01-04
+CUST-01702,Christopher,Lopez,christopher.lopez35@example.com,Phoenix,AZ,West,Small Business,Silver,2023-11-18
+CUST-01703,Joshua,Lewis,joshua.lewis77@example.com,Miami,FL,South,Consumer,Bronze,2023-03-04
+CUST-01704,Richard,Taylor,richard.taylor55@example.com,Washington,DC,East,Corporate,Gold,2023-11-02
+CUST-01705,Thomas,Miller,,Dallas,TX,South,Corporate,Gold,2023-03-22
+CUST-01706,Lisa,Anderson,lisa.anderson72@example.com,Houston,TX,South,Consumer,Bronze,2023-11-18
+CUST-01707,Michael,Robinson,michael.robinson91@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-08-23
+CUST-01708,David,Hernandez,david.hernandez42@example.com,New York,NY,North,Consumer,Bronze,2023-11-19
+CUST-01709,Matthew,Moore,matthew.moore51@example.com,Detroit,MI,North,Consumer,Silver,2023-02-05
+CUST-01710,Charles,Hernandez,charles.hernandez92@example.com,New York,NY,North,Consumer,Bronze,2023-03-11
+CUST-01711,David,Jones,david.jones31@example.com,Boston,MA,North,Consumer,Bronze,2024-01-01
+CUST-01712,Nancy,Williams,nancy.williams64@example.com,Seattle,WA,West,Consumer,Bronze,2024-03-02
+CUST-01713,Betty,Thompson,betty.thompson27@example.com,Charlotte,NC,South,Consumer,Bronze,2023-09-25
+CUST-01714,Joseph,Davis,joseph.davis90@example.com,New York,NY,North,Consumer,Bronze,2023-08-13
+CUST-01715,Joseph,Walker,joseph.walker42@example.com,Miami,FL,South,Consumer,Silver,2024-02-10
+CUST-01716,Mary,Taylor,,Pittsburgh,PA,East,Corporate,Bronze,2023-03-11
+CUST-01717,Robert,Miller,robert.miller63@example.com,Boston,MA,North,Consumer,Silver,2024-08-18
+CUST-01718,Lisa,Taylor,lisa.taylor69@example.com,Houston,TX,South,Consumer,Silver,2024-09-29
+CUST-01719,Charles,Rodriguez,charles.rodriguez26@example.com,Pittsburgh,PA,East,Corporate,Bronze,2023-07-20
+CUST-01720,Christopher,Lewis,christopher.lewis37@example.com,Pittsburgh,PA,East,Consumer,Bronze,2024-10-29
+CUST-01721,Steven,Harris,steven.harris6@example.com,San Francisco,CA,West,Consumer,Bronze,2023-07-30
+CUST-01722,Richard,Harris,richard.harris39@example.com,Washington,DC,East,Consumer,Bronze,2024-10-03
+CUST-01723,Joseph,Jackson,joseph.jackson40@example.com,Washington,DC,East,Consumer,Gold,2023-12-08
+CUST-01724,Susan,Thomas,susan.thomas51@example.com,Seattle,WA,West,Consumer,Bronze,2024-05-18
+CUST-01725,Donald,Moore,donald.moore14@example.com,Washington,DC,East,Corporate,Gold,2024-09-26
+CUST-01726,Patricia,Ramirez,patricia.ramirez39@example.com,Chicago,IL,North,Consumer,Silver,2023-06-13
+CUST-01727,Michael,Johnson,michael.johnson55@example.com,Washington,DC,East,Corporate,Bronze,2023-10-14
+CUST-01728,Anthony,Lee,anthony.lee16@example.com,Chicago,IL,North,Consumer,Bronze,2023-07-29
+CUST-01729,Linda,Robinson,linda.robinson15@example.com,Detroit,MI,North,Consumer,Bronze,2024-08-16
+CUST-01730,Emily,Rodriguez,emily.rodriguez62@example.com,Philadelphia,PA,East,Consumer,Silver,2023-08-09
+CUST-01731,John,Gonzalez,john.gonzalez56@example.com,Los Angeles,CA,West,Corporate,Bronze,2023-01-14
+CUST-01732,Andrew,Lewis,andrew.lewis36@example.com,New York,NY,North,Corporate,Silver,2023-07-27
+CUST-01733,Sarah,Smith,sarah.smith58@example.com,Washington,DC,East,Corporate,Platinum,2023-02-15
+CUST-01734,Andrew,Clark,andrew.clark63@example.com,Phoenix,AZ,West,Corporate,Silver,2023-02-18
+CUST-01735,Charles,Lopez,charles.lopez61@example.com,Chicago,IL,North,Consumer,Bronze,2024-01-16
+CUST-01736,Emily,Moore,emily.moore45@example.com,Dallas,TX,South,Consumer,Silver,2024-01-17
+CUST-01737,Sandra,Lopez,sandra.lopez97@example.com,Washington,DC,East,Corporate,Silver,2024-02-22
+CUST-01738,Lisa,Walker,lisa.walker18@example.com,Los Angeles,CA,West,Consumer,Bronze,2024-04-22
+CUST-01739,Mark,Harris,mark.harris81@example.com,Atlanta,GA,South,Consumer,Bronze,2024-10-09
+CUST-01740,William,Ramirez,william.ramirez51@example.com,Miami,FL,South,Consumer,Bronze,2023-04-25
+CUST-01741,Steven,Moore,steven.moore33@example.com,New York,NY,North,Small Business,Silver,2023-06-18
+CUST-01742,Joseph,Perez,joseph.perez94@example.com,Pittsburgh,PA,East,Corporate,Bronze,2024-02-09
+CUST-01743,Kimberly,Perez,kimberly.perez96@example.com,San Francisco,CA,West,Consumer,Gold,2023-04-19
+CUST-01744,Joseph,Lee,joseph.lee97@example.com,San Francisco,CA,West,Consumer,Bronze,2024-05-31
+CUST-01745,Michael,Thomas,michael.thomas40@example.com,Atlanta,GA,South,Consumer,Bronze,2023-08-03
+CUST-01746,Paul,Lee,,Boston,MA,North,Consumer,Bronze,2023-07-10
+CUST-01747,John,Williams,john.williams55@example.com,Pittsburgh,PA,East,Small Business,Silver,2023-01-11
+CUST-01748,Joshua,Martinez,joshua.martinez39@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-05-04
+CUST-01749,Michelle,Jackson,michelle.jackson64@example.com,Detroit,MI,North,Consumer,Bronze,2024-04-29
+CUST-01750,Matthew,Harris,matthew.harris80@example.com,Detroit,MI,North,Corporate,Platinum,2024-05-17
+CUST-01751,Mary,Gonzalez,mary.gonzalez12@example.com,Detroit,MI,North,Consumer,Silver,2023-03-26
+CUST-01752,Jessica,White,jessica.white44@example.com,Detroit,MI,North,Consumer,Platinum,2023-02-05
+CUST-01753,Christopher,Martinez,christopher.martinez13@example.com,San Francisco,CA,West,Consumer,Bronze,2024-11-22
+CUST-01754,Mary,Robinson,mary.robinson60@example.com,Los Angeles,CA,West,Consumer,Silver,2024-07-02
+CUST-01755,Patricia,Rodriguez,patricia.rodriguez58@example.com,Detroit,MI,North,Consumer,Bronze,2023-10-25
+CUST-01756,Joshua,Hernandez,joshua.hernandez10@example.com,Los Angeles,CA,West,Consumer,Silver,2023-01-06
+CUST-01757,Matthew,Harris,matthew.harris24@example.com,Houston,TX,South,Consumer,Gold,2024-08-20
+CUST-01758,Ashley,Davis,ashley.davis18@example.com,Los Angeles,CA,West,Consumer,Platinum,2024-09-11
+CUST-01759,Andrew,Smith,andrew.smith90@example.com,Denver,CO,West,Consumer,Silver,2024-01-13
+CUST-01760,Paul,Brown,paul.brown56@example.com,Denver,CO,West,Consumer,Bronze,2023-03-08
+CUST-01761,Jennifer,Rodriguez,jennifer.rodriguez32@example.com,Pittsburgh,PA,East,Small Business,Gold,2023-05-04
+CUST-01762,Mary,Garcia,mary.garcia58@example.com,Boston,MA,North,Corporate,Silver,2024-07-24
+CUST-01763,Thomas,Thomas,thomas.thomas15@example.com,Boston,MA,North,Consumer,Bronze,2023-05-31
+CUST-01764,Karen,Jones,karen.jones66@example.com,Los Angeles,CA,West,Corporate,Bronze,2024-11-12
+CUST-01765,Sarah,Jackson,sarah.jackson18@example.com,Chicago,IL,North,Consumer,Bronze,2024-05-06
+CUST-01766,Susan,Miller,susan.miller13@example.com,Denver,CO,West,Consumer,Silver,2024-10-04
+CUST-01767,Paul,Ramirez,paul.ramirez66@example.com,Boston,MA,North,Consumer,Gold,2024-05-04
+CUST-01768,Steven,Williams,steven.williams53@example.com,Miami,FL,South,Corporate,Bronze,2023-08-19
+CUST-01769,Thomas,Wilson,thomas.wilson42@example.com,Detroit,MI,North,Corporate,Bronze,2024-11-18
+CUST-01770,Lisa,Gonzalez,lisa.gonzalez29@example.com,Phoenix,AZ,West,Corporate,Bronze,2024-09-21
+CUST-01771,Steven,Lewis,steven.lewis67@example.com,San Francisco,CA,West,Consumer,Gold,2024-03-19
+CUST-01772,Joshua,Smith,joshua.smith91@example.com,Los Angeles,CA,West,Corporate,Bronze,2024-10-18
+CUST-01773,Robert,Lopez,robert.lopez84@example.com,Pittsburgh,PA,East,Corporate,Gold,2023-11-07
+CUST-01774,Paul,Martin,paul.martin61@example.com,Baltimore,MD,East,Consumer,Bronze,2024-08-26
+CUST-01775,Emily,Robinson,emily.robinson89@example.com,Houston,TX,South,Consumer,Bronze,2024-06-13
+CUST-01776,Michelle,Lee,michelle.lee35@example.com,Chicago,IL,North,Corporate,Silver,2023-08-22
+CUST-01777,Christopher,Robinson,christopher.robinson45@example.com,Washington,DC,East,Small Business,Bronze,2023-12-10
+CUST-01778,Kimberly,Perez,kimberly.perez55@example.com,Seattle,WA,West,Corporate,Bronze,2024-09-19
+CUST-01779,David,Sanchez,david.sanchez47@example.com,Washington,DC,East,Corporate,Silver,2023-07-29
+CUST-01780,Sandra,Jackson,sandra.jackson38@example.com,Atlanta,GA,South,Consumer,Bronze,2024-10-10
+CUST-01781,Nancy,Garcia,nancy.garcia62@example.com,Seattle,WA,West,Corporate,Platinum,2024-04-15
+CUST-01782,Paul,Hernandez,paul.hernandez33@example.com,Dallas,TX,South,Consumer,Bronze,2024-07-17
+CUST-01783,Betty,Smith,betty.smith33@example.com,Boston,MA,North,Small Business,Silver,2024-07-17
+CUST-01784,Donna,Clark,donna.clark7@example.com,Pittsburgh,PA,East,Small Business,Silver,2024-05-16
+CUST-01785,Joshua,Brown,joshua.brown16@example.com,Denver,CO,West,Consumer,Bronze,2023-02-25
+CUST-01786,Robert,Ramirez,robert.ramirez69@example.com,Chicago,IL,North,Consumer,Gold,2024-03-09
+CUST-01787,Susan,Johnson,susan.johnson80@example.com,New York,NY,North,Corporate,Bronze,2023-09-04
+CUST-01788,Joseph,Davis,joseph.davis20@example.com,Baltimore,MD,East,Consumer,Silver,2023-08-14
+CUST-01789,William,Sanchez,william.sanchez3@example.com,San Francisco,CA,West,Small Business,Bronze,2024-09-20
+CUST-01790,Sarah,Sanchez,sarah.sanchez53@example.com,Los Angeles,CA,West,Consumer,Silver,2023-06-19
+CUST-01791,Barbara,Robinson,barbara.robinson31@example.com,Dallas,TX,South,Corporate,Bronze,2024-09-06
+CUST-01792,Matthew,Anderson,matthew.anderson11@example.com,Miami,FL,South,Consumer,Bronze,2023-06-03
+CUST-01793,Matthew,Ramirez,matthew.ramirez35@example.com,Los Angeles,CA,West,Consumer,Silver,2024-03-23
+CUST-01794,Kimberly,Hernandez,kimberly.hernandez79@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-07-30
+CUST-01795,Lisa,Jones,lisa.jones52@example.com,Detroit,MI,North,Consumer,Bronze,2024-02-19
+CUST-01796,Sarah,Davis,sarah.davis61@example.com,Washington,DC,East,Small Business,Silver,2024-07-30
+CUST-01797,Jessica,Lee,jessica.lee3@example.com,Detroit,MI,North,Consumer,Bronze,2024-01-26
+CUST-01798,Mary,Thomas,mary.thomas12@example.com,Denver,CO,West,Consumer,Bronze,2023-10-03
+CUST-01799,Lisa,Robinson,lisa.robinson29@example.com,Pittsburgh,PA,East,Corporate,Silver,2024-09-05
+CUST-01800,Kimberly,Sanchez,kimberly.sanchez47@example.com,Atlanta,GA,South,Consumer,Bronze,2023-06-12
+CUST-01801,Jennifer,Martin,jennifer.martin33@example.com,Chicago,IL,North,Consumer,Bronze,2024-03-22
+CUST-01802,Sarah,Ramirez,sarah.ramirez22@example.com,Miami,FL,South,Consumer,Bronze,2023-04-05
+CUST-01803,Michelle,Johnson,michelle.johnson55@example.com,Dallas,TX,South,Corporate,Bronze,2023-07-20
+CUST-01804,Joshua,Thompson,joshua.thompson35@example.com,New York,NY,North,Corporate,Bronze,2023-05-08
+CUST-01805,Sandra,Moore,sandra.moore24@example.com,Washington,DC,East,Consumer,Bronze,2023-06-25
+CUST-01806,Sarah,Taylor,sarah.taylor22@example.com,New York,NY,North,Consumer,Bronze,2023-05-16
+CUST-01807,Jessica,Ramirez,jessica.ramirez59@example.com,Baltimore,MD,East,Consumer,Bronze,2023-09-12
+CUST-01808,William,Lee,william.lee18@example.com,New York,NY,North,Consumer,Silver,2024-05-16
+CUST-01809,Betty,Moore,betty.moore83@example.com,Phoenix,AZ,West,Small Business,Bronze,2024-09-12
+CUST-01810,Andrew,Thompson,andrew.thompson53@example.com,Seattle,WA,West,Consumer,Gold,2023-05-10
+CUST-01811,Robert,Miller,robert.miller15@example.com,Chicago,IL,North,Consumer,Bronze,2024-01-20
+CUST-01812,Karen,Lopez,karen.lopez97@example.com,Chicago,IL,North,Consumer,Bronze,2024-10-15
+CUST-01813,Elizabeth,Anderson,elizabeth.anderson19@example.com,Dallas,TX,South,Consumer,Bronze,2024-03-25
+CUST-01814,Thomas,Thomas,thomas.thomas48@example.com,Denver,CO,West,Corporate,Silver,2024-03-01
+CUST-01815,Patricia,Davis,patricia.davis7@example.com,Atlanta,GA,South,Consumer,Gold,2024-10-31
+CUST-01816,Margaret,Williams,margaret.williams71@example.com,Baltimore,MD,East,Consumer,Platinum,2024-05-05
+CUST-01817,John,Lopez,john.lopez65@example.com,Washington,DC,East,Consumer,Platinum,2023-05-30
+CUST-01818,Emily,Rodriguez,emily.rodriguez81@example.com,New York,NY,North,Consumer,Bronze,2024-02-18
+CUST-01819,Nancy,Sanchez,nancy.sanchez37@example.com,Seattle,WA,West,Consumer,Gold,2024-08-22
+CUST-01820,Linda,Lewis,linda.lewis66@example.com,Denver,CO,West,Consumer,Gold,2024-08-02
+CUST-01821,Steven,Williams,steven.williams92@example.com,Houston,TX,South,Consumer,Silver,2023-10-01
+CUST-01822,Elizabeth,Jones,elizabeth.jones36@example.com,Atlanta,GA,South,Consumer,Bronze,2023-11-07
+CUST-01823,James,Walker,james.walker25@example.com,Miami,FL,South,Consumer,Gold,2023-06-05
+CUST-01824,Margaret,Moore,,Washington,DC,East,Consumer,Gold,2023-09-29
+CUST-01825,Donald,Sanchez,donald.sanchez22@example.com,Boston,MA,North,Small Business,Silver,2023-03-23
+CUST-01826,Sandra,Sanchez,sandra.sanchez34@example.com,Baltimore,MD,East,Consumer,Silver,2023-12-05
+CUST-01827,Christopher,Taylor,christopher.taylor36@example.com,Charlotte,NC,South,Corporate,Gold,2023-09-09
+CUST-01828,Joseph,Clark,joseph.clark43@example.com,Detroit,MI,North,Small Business,Bronze,2024-02-19
+CUST-01829,Patricia,Walker,patricia.walker19@example.com,Baltimore,MD,East,Consumer,Gold,2023-08-13
+CUST-01830,Jessica,Anderson,jessica.anderson65@example.com,Atlanta,GA,South,Consumer,Silver,2024-03-05
+CUST-01831,Andrew,Hernandez,andrew.hernandez80@example.com,Philadelphia,PA,East,Consumer,Gold,2023-03-09
+CUST-01832,Christopher,Robinson,christopher.robinson56@example.com,Detroit,MI,North,Consumer,Silver,2023-02-01
+CUST-01833,Nancy,Walker,nancy.walker63@example.com,Philadelphia,PA,East,Corporate,Silver,2024-02-10
+CUST-01834,Donna,Miller,donna.miller37@example.com,Denver,CO,West,Consumer,Gold,2023-12-11
+CUST-01835,William,Martin,william.martin13@example.com,Pittsburgh,PA,East,Consumer,Gold,2023-01-09
+CUST-01836,Elizabeth,Moore,elizabeth.moore90@example.com,Denver,CO,West,Consumer,Platinum,2023-01-03
+CUST-01837,Donald,Garcia,donald.garcia47@example.com,Boston,MA,North,Corporate,Gold,2024-01-01
+CUST-01838,Andrew,Williams,andrew.williams43@example.com,Boston,MA,North,Consumer,Platinum,2023-03-26
+CUST-01839,Robert,Martin,robert.martin51@example.com,Boston,MA,North,Corporate,Silver,2023-10-01
+CUST-01840,Donna,Martinez,donna.martinez60@example.com,Chicago,IL,North,Consumer,Bronze,2024-10-20
+CUST-01841,Steven,Brown,steven.brown37@example.com,Phoenix,AZ,West,Consumer,Gold,2024-11-11
+CUST-01842,William,Thompson,william.thompson66@example.com,Denver,CO,West,Consumer,Silver,2024-02-15
+CUST-01843,Anthony,Sanchez,anthony.sanchez27@example.com,Dallas,TX,South,Consumer,Bronze,2023-06-08
+CUST-01844,Robert,Williams,robert.williams58@example.com,New York,NY,North,Consumer,Silver,2023-10-17
+CUST-01845,Nancy,Thompson,nancy.thompson56@example.com,Washington,DC,East,Consumer,Gold,2024-11-15
+CUST-01846,Emily,White,emily.white84@example.com,Washington,DC,East,Consumer,Bronze,2023-07-16
+CUST-01847,Daniel,Williams,daniel.williams33@example.com,New York,NY,North,Consumer,Gold,2024-04-19
+CUST-01848,Betty,Sanchez,betty.sanchez42@example.com,Pittsburgh,PA,East,Corporate,Silver,2024-11-05
+CUST-01849,Christopher,Walker,christopher.walker22@example.com,Atlanta,GA,South,Small Business,Bronze,2024-05-13
+CUST-01850,Nancy,Jones,nancy.jones78@example.com,Boston,MA,North,Consumer,Bronze,2023-07-27
+CUST-01851,Barbara,Wilson,barbara.wilson92@example.com,New York,NY,North,Consumer,Silver,2023-12-12
+CUST-01852,James,Brown,james.brown19@example.com,Phoenix,AZ,West,Consumer,Silver,2024-06-01
+CUST-01853,Sarah,Taylor,sarah.taylor79@example.com,Phoenix,AZ,West,Small Business,Bronze,2023-02-10
+CUST-01854,Sandra,Walker,sandra.walker43@example.com,Pittsburgh,PA,East,Consumer,Silver,2023-03-06
+CUST-01855,Donald,Clark,donald.clark78@example.com,Denver,CO,West,Consumer,Gold,2024-08-28
+CUST-01856,Joseph,Anderson,joseph.anderson5@example.com,Baltimore,MD,East,Corporate,Silver,2024-08-16
+CUST-01857,Thomas,Gonzalez,thomas.gonzalez6@example.com,Philadelphia,PA,East,Consumer,Gold,2023-09-02
+CUST-01858,Betty,Smith,betty.smith36@example.com,Los Angeles,CA,West,Consumer,Gold,2024-03-02
+CUST-01859,Mary,Taylor,mary.taylor75@example.com,Philadelphia,PA,East,Consumer,Silver,2023-10-22
+CUST-01860,Linda,Ramirez,linda.ramirez43@example.com,Houston,TX,South,Consumer,Silver,2023-01-15
+CUST-01861,Margaret,Williams,margaret.williams3@example.com,Washington,DC,East,Consumer,Platinum,2023-09-22
+CUST-01862,William,Perez,william.perez55@example.com,Baltimore,MD,East,Consumer,Bronze,2023-04-10
+CUST-01863,Charles,Martinez,charles.martinez16@example.com,New York,NY,North,Corporate,Bronze,2023-09-03
+CUST-01864,John,Harris,john.harris58@example.com,Washington,DC,East,Consumer,Silver,2024-07-01
+CUST-01865,Sandra,Taylor,sandra.taylor36@example.com,Detroit,MI,North,Corporate,Bronze,2023-04-05
+CUST-01866,Daniel,Garcia,daniel.garcia33@example.com,San Francisco,CA,West,Corporate,Gold,2024-09-27
+CUST-01867,Jennifer,Williams,jennifer.williams67@example.com,Miami,FL,South,Corporate,Silver,2024-05-05
+CUST-01868,Daniel,Smith,daniel.smith56@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-02-17
+CUST-01869,Susan,Garcia,susan.garcia76@example.com,Charlotte,NC,South,Corporate,Bronze,2023-08-21
+CUST-01870,Ashley,Moore,ashley.moore48@example.com,Denver,CO,West,Consumer,Bronze,2024-04-08
+CUST-01871,Richard,Smith,richard.smith48@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-01-08
+CUST-01872,Christopher,Ramirez,christopher.ramirez13@example.com,Los Angeles,CA,West,Consumer,Silver,2023-04-30
+CUST-01873,Donna,Jones,donna.jones71@example.com,Denver,CO,West,Corporate,Bronze,2024-10-01
+CUST-01874,Robert,Sanchez,robert.sanchez55@example.com,Washington,DC,East,Consumer,Gold,2023-02-26
+CUST-01875,Karen,Perez,karen.perez20@example.com,Dallas,TX,South,Consumer,Gold,2023-03-18
+CUST-01876,Kimberly,Lopez,kimberly.lopez39@example.com,Detroit,MI,North,Consumer,Bronze,2023-10-19
+CUST-01877,Christopher,Garcia,christopher.garcia78@example.com,Boston,MA,North,Consumer,Bronze,2023-04-27
+CUST-01878,Michael,Rodriguez,michael.rodriguez24@example.com,Baltimore,MD,East,Consumer,Silver,2023-03-22
+CUST-01879,Joseph,Johnson,joseph.johnson71@example.com,Baltimore,MD,East,Corporate,Gold,2023-03-23
+CUST-01880,Emily,Robinson,emily.robinson52@example.com,Baltimore,MD,East,Corporate,Bronze,2024-03-06
+CUST-01881,Jennifer,Perez,jennifer.perez18@example.com,Baltimore,MD,East,Consumer,Platinum,2024-08-25
+CUST-01882,James,Brown,james.brown47@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-06-12
+CUST-01883,Donna,Walker,donna.walker24@example.com,Atlanta,GA,South,Consumer,Silver,2023-04-17
+CUST-01884,Mary,Thomas,mary.thomas88@example.com,Miami,FL,South,Consumer,Platinum,2023-01-06
+CUST-01885,Kimberly,Lewis,kimberly.lewis31@example.com,Washington,DC,East,Consumer,Bronze,2024-11-13
+CUST-01886,Matthew,Miller,matthew.miller76@example.com,Baltimore,MD,East,Consumer,Silver,2023-10-03
+CUST-01887,Jessica,Martin,jessica.martin78@example.com,Detroit,MI,North,Consumer,Platinum,2024-02-20
+CUST-01888,Donna,Miller,donna.miller83@example.com,Washington,DC,East,Consumer,Platinum,2023-09-12
+CUST-01889,David,Thompson,david.thompson96@example.com,Boston,MA,North,Consumer,Bronze,2024-02-09
+CUST-01890,David,Walker,david.walker74@example.com,Dallas,TX,South,Consumer,Bronze,2023-04-24
+CUST-01891,James,Wilson,james.wilson19@example.com,Chicago,IL,North,Consumer,Silver,2023-05-07
+CUST-01892,Lisa,Hernandez,lisa.hernandez88@example.com,Denver,CO,West,Consumer,Silver,2024-10-12
+CUST-01893,Elizabeth,Miller,elizabeth.miller86@example.com,Seattle,WA,West,Corporate,Silver,2024-05-16
+CUST-01894,Ashley,Walker,ashley.walker1@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-03-03
+CUST-01895,Sandra,Taylor,sandra.taylor37@example.com,Washington,DC,East,Consumer,Bronze,2024-03-12
+CUST-01896,James,Thomas,james.thomas83@example.com,Detroit,MI,North,Consumer,Bronze,2023-10-10
+CUST-01897,Donald,Walker,donald.walker29@example.com,Seattle,WA,West,Consumer,Bronze,2023-08-29
+CUST-01898,Ashley,Gonzalez,ashley.gonzalez19@example.com,Charlotte,NC,South,Consumer,Silver,2024-06-18
+CUST-01899,Thomas,Thompson,thomas.thompson67@example.com,Chicago,IL,North,Corporate,Silver,2023-01-21
+CUST-01900,John,Jackson,john.jackson33@example.com,Boston,MA,North,Corporate,Gold,2024-11-15
+CUST-01901,Emily,Ramirez,emily.ramirez1@example.com,Houston,TX,South,Consumer,Bronze,2024-07-21
+CUST-01902,Anthony,Jackson,anthony.jackson24@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-03-11
+CUST-01903,Thomas,Thompson,thomas.thompson86@example.com,Washington,DC,East,Corporate,Silver,2024-07-31
+CUST-01904,Daniel,Brown,daniel.brown32@example.com,Denver,CO,West,Consumer,Gold,2024-01-01
+CUST-01905,Donald,Harris,donald.harris30@example.com,Charlotte,NC,South,Consumer,Silver,2023-03-20
+CUST-01906,Michael,Jackson,michael.jackson6@example.com,Miami,FL,South,Consumer,Bronze,2023-03-16
+CUST-01907,Michael,Perez,michael.perez28@example.com,San Francisco,CA,West,Consumer,Bronze,2023-09-20
+CUST-01908,James,Robinson,james.robinson83@example.com,Los Angeles,CA,West,Consumer,Bronze,2023-08-03
+CUST-01909,Jennifer,Hernandez,jennifer.hernandez33@example.com,Charlotte,NC,South,Corporate,Silver,2024-10-06
+CUST-01910,Jessica,Johnson,jessica.johnson85@example.com,Seattle,WA,West,Corporate,Silver,2024-05-16
+CUST-01911,Susan,Sanchez,susan.sanchez65@example.com,Seattle,WA,West,Consumer,Gold,2023-10-12
+CUST-01912,James,Wilson,james.wilson72@example.com,Baltimore,MD,East,Corporate,Bronze,2023-04-10
+CUST-01913,Andrew,Smith,andrew.smith21@example.com,Washington,DC,East,Consumer,Bronze,2023-07-03
+CUST-01914,Richard,Clark,richard.clark59@example.com,Miami,FL,South,Consumer,Bronze,2024-09-25
+CUST-01915,David,Johnson,david.johnson97@example.com,Boston,MA,North,Corporate,Bronze,2024-03-18
+CUST-01916,Elizabeth,Thompson,elizabeth.thompson1@example.com,Boston,MA,North,Consumer,Bronze,2023-06-29
+CUST-01917,Anthony,Brown,anthony.brown20@example.com,Boston,MA,North,Consumer,Bronze,2023-06-20
+CUST-01918,Sarah,Thompson,sarah.thompson77@example.com,Pittsburgh,PA,East,Consumer,Silver,2024-04-04
+CUST-01919,Margaret,Garcia,margaret.garcia78@example.com,Seattle,WA,West,Consumer,Silver,2023-01-21
+CUST-01920,Richard,Gonzalez,richard.gonzalez60@example.com,Pittsburgh,PA,East,Small Business,Gold,2023-04-29
+CUST-01921,David,Lewis,david.lewis69@example.com,Boston,MA,North,Small Business,Bronze,2024-05-05
+CUST-01922,Betty,Robinson,betty.robinson69@example.com,Atlanta,GA,South,Corporate,Gold,2023-09-04
+CUST-01923,Patricia,Taylor,patricia.taylor11@example.com,Boston,MA,North,Consumer,Silver,2023-09-23
+CUST-01924,Thomas,Hernandez,thomas.hernandez63@example.com,Miami,FL,South,Corporate,Bronze,2023-08-14
+CUST-01925,Jennifer,Taylor,jennifer.taylor55@example.com,Charlotte,NC,South,Corporate,Silver,2023-11-26
+CUST-01926,Sandra,Garcia,,Baltimore,MD,East,Corporate,Gold,2024-11-11
+CUST-01927,Mary,Ramirez,mary.ramirez97@example.com,New York,NY,North,Corporate,Silver,2023-03-25
+CUST-01928,Jennifer,Thompson,jennifer.thompson13@example.com,Houston,TX,South,Consumer,Gold,2024-10-25
+CUST-01929,Lisa,Johnson,lisa.johnson41@example.com,Boston,MA,North,Consumer,Bronze,2024-05-31
+CUST-01930,Charles,Harris,charles.harris70@example.com,Baltimore,MD,East,Corporate,Silver,2024-08-13
+CUST-01931,Paul,Thomas,paul.thomas99@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-10-23
+CUST-01932,Steven,Martin,steven.martin6@example.com,Chicago,IL,North,Consumer,Silver,2023-02-15
+CUST-01933,Joshua,Johnson,joshua.johnson49@example.com,Chicago,IL,North,Consumer,Bronze,2024-01-06
+CUST-01934,Kimberly,Rodriguez,kimberly.rodriguez16@example.com,Houston,TX,South,Consumer,Bronze,2023-10-03
+CUST-01935,Steven,Davis,steven.davis47@example.com,Baltimore,MD,East,Consumer,Bronze,2024-08-13
+CUST-01936,Matthew,White,matthew.white7@example.com,New York,NY,North,Consumer,Bronze,2024-09-08
+CUST-01937,Michelle,Moore,michelle.moore3@example.com,Phoenix,AZ,West,Corporate,Gold,2024-06-22
+CUST-01938,Barbara,Jones,barbara.jones7@example.com,New York,NY,North,Small Business,Gold,2023-09-16
+CUST-01939,Kimberly,Brown,kimberly.brown34@example.com,Chicago,IL,North,Small Business,Silver,2024-07-14
+CUST-01940,Donald,Thomas,donald.thomas92@example.com,Charlotte,NC,South,Corporate,Silver,2023-03-07
+CUST-01941,Betty,Rodriguez,betty.rodriguez19@example.com,Miami,FL,South,Corporate,Silver,2023-10-30
+CUST-01942,William,Taylor,william.taylor3@example.com,Pittsburgh,PA,East,Consumer,Bronze,2023-05-14
+CUST-01943,Lisa,White,lisa.white33@example.com,San Francisco,CA,West,Consumer,Gold,2024-02-04
+CUST-01944,Charles,Walker,charles.walker97@example.com,San Francisco,CA,West,Consumer,Bronze,2023-02-13
+CUST-01945,Barbara,Gonzalez,barbara.gonzalez88@example.com,Dallas,TX,South,Consumer,Bronze,2023-01-24
+CUST-01946,Jennifer,Thomas,jennifer.thomas36@example.com,Seattle,WA,West,Corporate,Silver,2024-06-27
+CUST-01947,Steven,Robinson,steven.robinson48@example.com,Boston,MA,North,Consumer,Silver,2024-06-15
+CUST-01948,Barbara,Clark,barbara.clark18@example.com,Baltimore,MD,East,Consumer,Gold,2023-03-05
+CUST-01949,Nancy,Johnson,nancy.johnson38@example.com,Philadelphia,PA,East,Consumer,Gold,2023-08-02
+CUST-01950,Daniel,Miller,daniel.miller16@example.com,Baltimore,MD,East,Consumer,Bronze,2023-05-25
+CUST-01951,Michael,Williams,michael.williams93@example.com,Detroit,MI,North,Corporate,Bronze,2023-02-19
+CUST-01952,Joshua,Miller,joshua.miller87@example.com,Charlotte,NC,South,Consumer,Bronze,2024-02-19
+CUST-01953,Christopher,Davis,christopher.davis93@example.com,Detroit,MI,North,Consumer,Bronze,2024-09-18
+CUST-01954,Steven,Thomas,steven.thomas65@example.com,Pittsburgh,PA,East,Corporate,Gold,2024-06-21
+CUST-01955,James,Smith,james.smith4@example.com,Miami,FL,South,Consumer,Bronze,2024-02-29
+CUST-01956,Linda,Moore,linda.moore2@example.com,Charlotte,NC,South,Consumer,Bronze,2024-04-28
+CUST-01957,Ashley,Rodriguez,ashley.rodriguez54@example.com,Philadelphia,PA,East,Small Business,Gold,2024-11-27
+CUST-01958,Susan,Gonzalez,susan.gonzalez8@example.com,Baltimore,MD,East,Consumer,Silver,2023-05-07
+CUST-01959,Kimberly,Lee,kimberly.lee29@example.com,Philadelphia,PA,East,Consumer,Silver,2023-12-18
+CUST-01960,Mary,Jackson,mary.jackson93@example.com,Houston,TX,South,Consumer,Bronze,2024-09-08
+CUST-01961,Steven,Jones,steven.jones43@example.com,Boston,MA,North,Consumer,Bronze,2023-09-19
+CUST-01962,Robert,Thompson,robert.thompson53@example.com,Washington,DC,East,Small Business,Bronze,2024-01-11
+CUST-01963,Mary,Harris,mary.harris51@example.com,Washington,DC,East,Consumer,Platinum,2023-02-17
+CUST-01964,Kimberly,Thompson,kimberly.thompson55@example.com,New York,NY,North,Corporate,Bronze,2023-02-13
+CUST-01965,Richard,Ramirez,richard.ramirez51@example.com,Boston,MA,North,Corporate,Bronze,2023-01-28
+CUST-01966,Matthew,Jones,matthew.jones96@example.com,Los Angeles,CA,West,Consumer,Platinum,2023-08-12
+CUST-01967,Thomas,Lewis,thomas.lewis56@example.com,Baltimore,MD,East,Consumer,Bronze,2024-08-08
+CUST-01968,Michael,Thomas,michael.thomas83@example.com,Denver,CO,West,Small Business,Silver,2024-06-21
+CUST-01969,Thomas,Martinez,thomas.martinez71@example.com,New York,NY,North,Consumer,Silver,2024-04-03
+CUST-01970,Richard,Hernandez,richard.hernandez86@example.com,Washington,DC,East,Small Business,Silver,2024-06-25
+CUST-01971,David,Wilson,david.wilson48@example.com,Boston,MA,North,Consumer,Bronze,2023-04-15
+CUST-01972,Lisa,Anderson,lisa.anderson73@example.com,New York,NY,North,Consumer,Bronze,2023-10-24
+CUST-01973,Charles,Jackson,charles.jackson58@example.com,Atlanta,GA,South,Small Business,Silver,2023-06-19
+CUST-01974,Betty,Harris,betty.harris49@example.com,Phoenix,AZ,West,Corporate,Silver,2024-07-19
+CUST-01975,Joshua,Harris,joshua.harris38@example.com,Los Angeles,CA,West,Consumer,Gold,2024-08-16
+CUST-01976,Matthew,Lee,matthew.lee14@example.com,Miami,FL,South,Consumer,Gold,2023-11-14
+CUST-01977,Andrew,Martin,andrew.martin14@example.com,Miami,FL,South,Consumer,Gold,2023-08-17
+CUST-01978,Charles,Harris,charles.harris72@example.com,Houston,TX,South,Small Business,Bronze,2024-09-29
+CUST-01979,Mary,Moore,mary.moore16@example.com,San Francisco,CA,West,Consumer,Bronze,2023-02-01
+CUST-01980,Mark,Garcia,mark.garcia93@example.com,Dallas,TX,South,Consumer,Silver,2023-11-30
+CUST-01981,Joshua,Robinson,joshua.robinson67@example.com,Washington,DC,East,Consumer,Gold,2023-01-18
+CUST-01982,Charles,Clark,charles.clark85@example.com,Chicago,IL,North,Consumer,Bronze,2024-08-02
+CUST-01983,Michelle,Wilson,michelle.wilson19@example.com,Philadelphia,PA,East,Consumer,Gold,2024-07-11
+CUST-01984,Elizabeth,Wilson,elizabeth.wilson49@example.com,Philadelphia,PA,East,Consumer,Bronze,2024-10-07
+CUST-01985,John,Robinson,john.robinson55@example.com,Atlanta,GA,South,Consumer,Gold,2023-05-30
+CUST-01986,Richard,Sanchez,richard.sanchez97@example.com,Baltimore,MD,East,Consumer,Gold,2023-10-01
+CUST-01987,Betty,Moore,betty.moore99@example.com,Miami,FL,South,Consumer,Silver,2024-10-03
+CUST-01988,Robert,Ramirez,robert.ramirez29@example.com,Boston,MA,North,Consumer,Silver,2024-06-10
+CUST-01989,Margaret,Martin,margaret.martin8@example.com,Denver,CO,West,Consumer,Platinum,2024-02-01
+CUST-01990,Steven,Miller,steven.miller79@example.com,New York,NY,North,Consumer,Platinum,2023-01-27
+CUST-01991,Patricia,Walker,patricia.walker79@example.com,Detroit,MI,North,Consumer,Bronze,2024-10-06
+CUST-01992,Joshua,Williams,joshua.williams23@example.com,Philadelphia,PA,East,Corporate,Silver,2024-08-19
+CUST-01993,Mark,Lee,mark.lee48@example.com,San Francisco,CA,West,Consumer,Bronze,2023-01-18
+CUST-01994,Ashley,Anderson,ashley.anderson21@example.com,Phoenix,AZ,West,Consumer,Platinum,2023-05-24
+CUST-01995,Betty,Harris,betty.harris45@example.com,San Francisco,CA,West,Consumer,Gold,2024-05-18
+CUST-01996,Donald,Robinson,donald.robinson73@example.com,Los Angeles,CA,West,Corporate,Silver,2023-09-27
+CUST-01997,Mary,Gonzalez,mary.gonzalez26@example.com,Philadelphia,PA,East,Consumer,Bronze,2023-05-16
+CUST-01998,Christopher,Lopez,christopher.lopez52@example.com,Miami,FL,South,Consumer,Silver,2023-03-23
+CUST-01999,Sandra,Smith,sandra.smith11@example.com,Miami,FL,South,Consumer,Bronze,2023-04-26
+CUST-02000,Joseph,Harris,joseph.harris86@example.com,San Francisco,CA,West,Consumer,Silver,2024-07-13

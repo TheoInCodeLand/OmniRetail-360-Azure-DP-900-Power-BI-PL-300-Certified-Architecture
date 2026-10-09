@@ -1,0 +1,7 @@
+PromotionSK,PromotionID,PromotionName,DiscountPct,PromotionCategory
+1,PRM-00,No Promotion,0.0,
+2,PRM-01,Spring Flash Sale,0.1,Seasonal
+3,PRM-02,Summer Clearance,0.15,Seasonal
+4,PRM-03,Black Friday Cyber Week,0.25,Holiday Event
+5,PRM-04,Corporate Volume Discount,0.12,B2B Volume
+6,PRM-05,VIP Loyalty Exclusive,0.08,Loyalty Reward
